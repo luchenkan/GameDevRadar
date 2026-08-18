@@ -1,0 +1,41 @@
+{
+  "_comment": "个人画像 = 你的相关性函数。榜单不准时改这里, 别忍着。boost/block 都是子串匹配(小写)。",
+
+  "github_queries": [
+    "unity",
+    "unity urp",
+    "godot",
+    "gamedev framework",
+    "game ai agent",
+    "unity shader OR vfx"
+  ],
+  "github_created_within_days": 45,
+
+  "reddit_subs": ["Unity3D", "gamedev"],
+
+  "rss_feeds": [
+    { "name": "Unity Blog", "url": "https://blog.unity.com/feed" },
+    { "name": "Unity 论坛", "url": "https://discussions.unity.com/latest.rss" }
+  ],
+  "rss_within_days": 7,
+
+  "boost_keywords": [
+    "unity", "urp", "shader", "vfx", "hot update", "hotfix", "hybridclr",
+    "yooasset", "addressable", "performance", "optimization", "profiler",
+    "mobile", "minigame", "wechat", "spine", "ui framework", "card",
+    "mcp", "llm", "ai agent", "claude", "procedural", "luban",
+    "gaussian", "splat", "timeline", "animation"
+  ],
+  "boost_weight": 2.0,
+
+  "weak_keywords": [
+    "godot", "unreal", "blender", "2d", "pixel", "tool", "editor", "3d"
+  ],
+  "weak_weight": 0.5,
+
+  "block_keywords": [
+    "blockchain", "nft", "crypto", "web3", "casino", "gambling",
+    "download", "free download", "crack", "cheat", "hack", "mod menu",
+    "install", "one-click", "apk mod"
+  ]
+}
