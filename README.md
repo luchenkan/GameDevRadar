@@ -58,9 +58,13 @@ LLM 点评层      (可选, 如 Kimi 定时任务) 读 raw json → 踢垃圾 �
 
 ## 输出
 
-- `output/daily-YYYY-MM-DD.md` — 每日榜单（带日期，可积累成时间序列）
-- `output/latest.md` — 永远是最新一期
-- `output/raw-YYYY-MM-DD.json` — 原始候选数据
+两个作者，各写各的文件，互不覆盖：
+
+- `output/daily-YYYY-MM-DD.md` — 纯脚本数据榜（GitHub Actions / 本地 `radar.py` 产出）
+- `output/latest.md` — 最新一期数据榜
+- `output/daily-YYYY-MM-DD-commented.md` — LLM 点评版（Kimi 定时任务产出，可选层）
+- `output/latest-commented.md` — 最新一期点评版
+- `output/raw-YYYY-MM-DD.json` — 原始候选数据（LLM 点评层的输入）
 
 积累几周后回看时间序列：**持续多天在榜 = 真趋势，一日游 = 热闹**。
 
