@@ -1,0 +1,32 @@
+name: daily-radar
+
+on:
+  schedule:
+    # 每天 UTC 00:47 = 北京时间 08:47（避开整点/半点拥堵）
+    - cron: "47 0 * * *"
+  workflow_dispatch:   # 允许手动触发
+
+permissions:
+  contents: write      # 需要把榜单 commit 回仓库
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run radar
+        run: python radar.py --top 20
+
+      - name: Commit digest
+        run: |
+          git config user.name "gamedev-radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet && echo "no change" && exit 0
+          git commit -m "radar: daily digest $(date +%F)"
+          git push
