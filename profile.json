@@ -15,7 +15,11 @@
 
   "rss_feeds": [
     { "name": "Unity Blog", "url": "https://blog.unity.com/feed" },
-    { "name": "Unity 论坛", "url": "https://discussions.unity.com/latest.rss" }
+    { "name": "Unity 论坛", "url": "https://discussions.unity.com/latest.rss" },
+    { "name": "GameDeveloper", "url": "https://www.gamedeveloper.com/rss.xml" },
+    { "name": "GamesIndustry.biz", "url": "https://www.gamesindustry.biz/feed" },
+    { "name": "PocketGamer.biz", "url": "https://www.pocketgamer.biz/rss/" },
+    { "name": "80.lv", "url": "https://80.lv/feed/" }
   ],
   "rss_within_days": 7,
 
@@ -36,6 +40,7 @@
   "block_keywords": [
     "blockchain", "nft", "crypto", "web3", "casino", "gambling",
     "download", "free download", "crack", "cheat", "hack", "mod menu",
-    "install", "one-click", "apk mod"
+    "install", "one-click", "apk mod",
+    "trainer", "god mode", "aimbot", "dupe", "exploit"
   ]
 }

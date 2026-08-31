@@ -226,14 +226,15 @@ def main():
     ranked = score_items(profile, items)
     md = render_markdown(ranked, now, top)
 
-    (ROOT / "output").mkdir(exist_ok=True)
-    raw_path = ROOT / "output" / f"raw-{now.date().isoformat()}.json"
+    day_dir = ROOT / "output" / now.date().isoformat()
+    day_dir.mkdir(parents=True, exist_ok=True)
+    raw_path = day_dir / "raw.json"
     raw_path.write_text(json.dumps(ranked[:50], ensure_ascii=False, indent=1),
                         encoding="utf-8")
     if dry:
         print(md)
     else:
-        out = ROOT / "output" / f"daily-{now.date().isoformat()}.md"
+        out = day_dir / "daily.md"
         out.write_text(md, encoding="utf-8")
         print(f"[ok] {out}")
         latest = ROOT / "output" / "latest.md"
