@@ -1,16 +1,16 @@
 # 游戏开发技术雷达 · 2026-09-03
 
-> 自动生成于 2026-09-03 10:26 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-03 13:03 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
 | 1 | 83.24 | [RykoTheDev/GodotHub](https://github.com/RykoTheDev/GodotHub) | github | 895★ / 43天 | What if Unity Hub and GitHub Desktop had a Baby but its Adop |
-| 2 | 67.5 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 540★ / 12天 | An open-source game coding agent environment and benchmark f |
-| 3 | 63.0 | [tantaneity/constellation-dice](https://github.com/tantaneity/constellation-dice) | github | 18★ / 2天 | Astral dice in Unity URP: nebula, stars and per-face constel |
-| 4 | 42.0 | [jarrenrocks/bot-crossing](https://github.com/jarrenrocks/bot-crossing) | github | 14★ / 1天 | A video game for AI agents. |
+| 2 | 63.0 | [tantaneity/constellation-dice](https://github.com/tantaneity/constellation-dice) | github | 18★ / 2天 | Astral dice in Unity URP: nebula, stars and per-face constel |
+| 3 | 62.31 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 540★ / 13天 | An open-source game coding agent environment and benchmark f |
+| 4 | 48.0 | [jarrenrocks/bot-crossing](https://github.com/jarrenrocks/bot-crossing) | github | 16★ / 1天 | A video game for AI agents. |
 | 5 | 41.68 | [GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-](https://github.com/GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-) | github | 172★ / 33天 | Miku is an open-source material conversion pipeline that tra |
 | 6 | 31.14 | [Innate-Labs/Noobi.ai](https://github.com/Innate-Labs/Noobi.ai) | github | 249★ / 24天 | Local-first desktop agent that turns a prompt into a reviewe |
-| 7 | 30.17 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 181★ / 21天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
+| 7 | 30.49 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 183★ / 21天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
 | 8 | 27.12 | [wyvernbw/godot-psxlike](https://github.com/wyvernbw/godot-psxlike) | github | 62★ / 8天 | Godot shaders for accurate PSX rendering |
 | 9 | 26.1 | [PudinKiller/VFXMeshLab](https://github.com/PudinKiller/VFXMeshLab) | github | 99★ / 38天 | Unity 6 URP editor tool for procedural VFX mesh authoring, m |
 | 10 | 24.5 | [gary149/h3-game-sprites](https://github.com/gary149/h3-game-sprites) | github | 112★ / 16天 | Agent Skill: turn AI-generated video into 2D game sprite she |

@@ -20,21 +20,6 @@
  },
  {
   "source": "github",
-  "title": "GamePhanesStudio/GamePhanes",
-  "url": "https://github.com/GamePhanesStudio/GamePhanes",
-  "desc": "An open-source game coding agent environment and benchmark for Godot.",
-  "lang": "JavaScript",
-  "topics": [],
-  "stars": 540,
-  "forks": 22,
-  "age_days": 12,
-  "velocity": 45.0,
-  "created": "2026-08-21",
-  "relevance": 1.5,
-  "score": 67.5
- },
- {
-  "source": "github",
   "title": "tantaneity/constellation-dice",
   "url": "https://github.com/tantaneity/constellation-dice",
   "desc": "Astral dice in Unity URP: nebula, stars and per-face constellations in a single raymarch pass on the default cube",
@@ -60,18 +45,33 @@
  },
  {
   "source": "github",
+  "title": "GamePhanesStudio/GamePhanes",
+  "url": "https://github.com/GamePhanesStudio/GamePhanes",
+  "desc": "An open-source game coding agent environment and benchmark for Godot.",
+  "lang": "JavaScript",
+  "topics": [],
+  "stars": 540,
+  "forks": 22,
+  "age_days": 13,
+  "velocity": 41.54,
+  "created": "2026-08-21",
+  "relevance": 1.5,
+  "score": 62.31
+ },
+ {
+  "source": "github",
   "title": "jarrenrocks/bot-crossing",
   "url": "https://github.com/jarrenrocks/bot-crossing",
   "desc": "A video game for AI agents.",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 14,
-  "forks": 2,
+  "stars": 16,
+  "forks": 6,
   "age_days": 1,
-  "velocity": 14.0,
+  "velocity": 16.0,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 42.0
+  "score": 48.0
  },
  {
   "source": "github",
@@ -115,7 +115,7 @@
    "typescript"
   ],
   "stars": 249,
-  "forks": 12,
+  "forks": 13,
   "age_days": 24,
   "velocity": 10.38,
   "created": "2026-08-09",
@@ -138,13 +138,13 @@
    "image-generation",
    "multi-agent"
   ],
-  "stars": 181,
+  "stars": 183,
   "forks": 11,
   "age_days": 21,
-  "velocity": 8.62,
+  "velocity": 8.71,
   "created": "2026-08-12",
   "relevance": 3.5,
-  "score": 30.17
+  "score": 30.49
  },
  {
   "source": "github",
@@ -468,13 +468,13 @@
   "desc": "An elimination death game to study AI and human agent behavior",
   "lang": "Python",
   "topics": [],
-  "stars": 24,
+  "stars": 25,
   "forks": 1,
   "age_days": 2,
-  "velocity": 12.0,
+  "velocity": 12.5,
   "created": "2026-08-31",
   "relevance": 1.0,
-  "score": 12.0
+  "score": 12.5
  },
  {
   "source": "Unity Blog",
