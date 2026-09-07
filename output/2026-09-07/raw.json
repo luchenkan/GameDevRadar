@@ -23,11 +23,11 @@
   "topics": [],
   "stars": 536,
   "forks": 22,
-  "age_days": 16,
-  "velocity": 33.5,
+  "age_days": 17,
+  "velocity": 31.53,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 50.25
+  "score": 47.3
  },
  {
   "source": "github",
@@ -43,13 +43,13 @@
    "unity-scripts",
    "unity3d-plugin"
   ],
-  "stars": 187,
+  "stars": 189,
   "forks": 2,
   "age_days": 37,
-  "velocity": 5.05,
+  "velocity": 5.11,
   "created": "2026-08-01",
   "relevance": 8.0,
-  "score": 40.4
+  "score": 40.88
  },
  {
   "source": "github",
@@ -178,6 +178,21 @@
   "created": "2026-08-28",
   "relevance": 4.0,
   "score": 23.12
+ },
+ {
+  "source": "github",
+  "title": "denisislamov/GaussPlatUnity",
+  "url": "https://github.com/denisislamov/GaussPlatUnity",
+  "desc": "Gaussian Splat renderer for Unity 6 + URP: mobile and web first, SPZ/PLY, compute or Burst sorting, progressive loading viewer",
+  "lang": "C#",
+  "topics": [],
+  "stars": 2,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 2.0,
+  "created": "2026-09-05",
+  "relevance": 11.0,
+  "score": 22.0
  },
  {
   "source": "github",
@@ -494,21 +509,6 @@
   "created": "Thu, 11 Jun 2026",
   "relevance": 4.0,
   "score": 12.0
- },
- {
-  "source": "github",
-  "title": "denisislamov/GaussPlatUnity",
-  "url": "https://github.com/denisislamov/GaussPlatUnity",
-  "desc": "Gaussian Splat renderer for Unity 6 + URP: mobile and web first, SPZ/PLY, compute or Burst sorting, progressive loading viewer",
-  "lang": "C#",
-  "topics": [],
-  "stars": 1,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 1.0,
-  "created": "2026-09-05",
-  "relevance": 11.0,
-  "score": 11.0
  },
  {
   "source": "Unity Blog",
