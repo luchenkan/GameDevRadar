@@ -1,14 +1,14 @@
 # 游戏开发技术雷达 · 2026-09-08
 
-> 自动生成于 2026-09-08 10:24 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-08 13:14 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
 | 1 | 96.0 | [jarrenrocks/bot-crossing](https://github.com/jarrenrocks/bot-crossing) | github | 192★ / 6天 | A video game for AI agents. |
-| 2 | 47.3 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 536★ / 17天 | An open-source game coding agent environment and benchmark f |
+| 2 | 44.67 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 536★ / 18天 | An open-source game coding agent environment and benchmark f |
 | 3 | 44.0 | [cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash](https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash) | github | 8★ / 1天 | Same-brief agentic build comparison: GPT-6 Astra High vs Gem |
-| 4 | 40.4 | [GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-](https://github.com/GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-) | github | 192★ / 38天 | Miku is an open-source material conversion pipeline that tra |
-| 5 | 28.8 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 214★ / 26天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
+| 4 | 40.88 | [GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-](https://github.com/GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-) | github | 194★ / 38天 | Miku is an open-source material conversion pipeline that tra |
+| 5 | 28.95 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 215★ / 26天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
 | 6 | 25.56 | [Innate-Labs/Noobi.ai](https://github.com/Innate-Labs/Noobi.ai) | github | 247★ / 29天 | Local-first desktop agent that turns a prompt into a reviewe |
 | 7 | 23.5 | [PudinKiller/VFXMeshLab](https://github.com/PudinKiller/VFXMeshLab) | github | 101★ / 43天 | Unity 6 URP editor tool for procedural VFX mesh authoring, m |
 | 8 | 20.8 | [opdsh/unity-plugin](https://github.com/opdsh/unity-plugin) | github | 52★ / 10天 | DeepSeek Harness plugin: control the Unity Editor through th |
