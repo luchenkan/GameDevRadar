@@ -6,13 +6,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 381,
+  "stars": 386,
   "forks": 123,
   "age_days": 8,
-  "velocity": 47.62,
+  "velocity": 48.25,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 142.86
+  "score": 144.75
  },
  {
   "source": "github",
@@ -28,18 +28,18 @@
    "unity-scripts",
    "unity3d-plugin"
   ],
-  "stars": 207,
+  "stars": 209,
   "forks": 2,
   "age_days": 40,
-  "velocity": 5.17,
+  "velocity": 5.22,
   "created": "2026-08-01",
   "relevance": 8.0,
-  "score": 41.36
+  "score": 41.76
  },
  {
   "source": "github",
-  "title": "Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill",
-  "url": "https://github.com/Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill",
+  "title": "alphaparkinc/genpark-shapley-value-cooperative-game-allocator-skill",
+  "url": "https://github.com/alphaparkinc/genpark-shapley-value-cooperative-game-allocator-skill",
   "desc": "GenPark AI Agent Skill - Cooperative game theory Shapley value engine computing fair payoff allocations based on marginal coalition contributions.",
   "lang": "Python",
   "topics": [
@@ -65,8 +65,8 @@
  },
  {
   "source": "github",
-  "title": "alphaparkinc/genpark-shapley-value-cooperative-game-allocator-skill",
-  "url": "https://github.com/alphaparkinc/genpark-shapley-value-cooperative-game-allocator-skill",
+  "title": "Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill",
+  "url": "https://github.com/Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill",
   "desc": "GenPark AI Agent Skill - Cooperative game theory Shapley value engine computing fair payoff allocations based on marginal coalition contributions.",
   "lang": "Python",
   "topics": [
@@ -153,11 +153,11 @@
   "topics": [],
   "stars": 471,
   "forks": 7,
-  "age_days": 19,
-  "velocity": 24.79,
+  "age_days": 20,
+  "velocity": 23.55,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 37.19
+  "score": 35.33
  },
  {
   "source": "github",
@@ -769,13 +769,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 48,
+  "stars": 49,
   "forks": 5,
   "age_days": 43,
-  "velocity": 1.12,
+  "velocity": 1.14,
   "created": "2026-07-28",
   "relevance": 8.5,
-  "score": 9.52
+  "score": 9.69
  },
  {
   "source": "github",
@@ -784,13 +784,13 @@
   "desc": "Time Decay / 时间食客 — 一款以时间作为生命与货币的 Godot 叙事策略游戏。",
   "lang": "",
   "topics": [],
-  "stars": 74,
+  "stars": 75,
   "forks": 0,
   "age_days": 12,
-  "velocity": 6.17,
+  "velocity": 6.25,
   "created": "2026-08-28",
   "relevance": 1.5,
-  "score": 9.25
+  "score": 9.38
  },
  {
   "source": "github",

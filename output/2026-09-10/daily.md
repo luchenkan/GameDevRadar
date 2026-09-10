@@ -1,16 +1,16 @@
 # 游戏开发技术雷达 · 2026-09-10
 
-> 自动生成于 2026-09-10 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-10 13:17 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 142.86 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 381★ / 8天 | A video game for AI agents. Created by Jarren Rocks |
-| 2 | 41.36 | [GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-](https://github.com/GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-) | github | 207★ / 40天 | Miku is an open-source material conversion pipeline that tra |
-| 3 | 40.0 | [Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill](https://github.com/Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill) | github | 8★ / 1天 | GenPark AI Agent Skill - Cooperative game theory Shapley val |
-| 4 | 40.0 | [alphaparkinc/genpark-shapley-value-cooperative-game-allocator-skill](https://github.com/alphaparkinc/genpark-shapley-value-cooperative-game-allocator-skill) | github | 8★ / 1天 | GenPark AI Agent Skill - Cooperative game theory Shapley val |
+| 1 | 144.75 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 386★ / 8天 | A video game for AI agents. Created by Jarren Rocks |
+| 2 | 41.76 | [GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-](https://github.com/GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-) | github | 209★ / 40天 | Miku is an open-source material conversion pipeline that tra |
+| 3 | 40.0 | [alphaparkinc/genpark-shapley-value-cooperative-game-allocator-skill](https://github.com/alphaparkinc/genpark-shapley-value-cooperative-game-allocator-skill) | github | 8★ / 1天 | GenPark AI Agent Skill - Cooperative game theory Shapley val |
+| 4 | 40.0 | [Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill](https://github.com/Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill) | github | 8★ / 1天 | GenPark AI Agent Skill - Cooperative game theory Shapley val |
 | 5 | 40.0 | [Alpha-Park/genpark-nash-equilibrium-bimatrix-support-enumeration-skill](https://github.com/Alpha-Park/genpark-nash-equilibrium-bimatrix-support-enumeration-skill) | github | 8★ / 1天 | GenPark AI Agent Skill - Bimatrix normal-form game solver id |
 | 6 | 40.0 | [alphaparkinc/genpark-nash-equilibrium-bimatrix-support-enumeration-skill](https://github.com/alphaparkinc/genpark-nash-equilibrium-bimatrix-support-enumeration-skill) | github | 8★ / 1天 | GenPark AI Agent Skill - Bimatrix normal-form game solver id |
-| 7 | 37.19 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 471★ / 19天 | An open-source game coding agent environment and benchmark f |
+| 7 | 35.33 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 471★ / 20天 | An open-source game coding agent environment and benchmark f |
 | 8 | 27.86 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 223★ / 28天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
 | 9 | 27.5 | [cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash](https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash) | github | 15★ / 3天 | Same-brief agentic build comparison: GPT-6 Astra High vs Gem |
 | 10 | 23.91 | [Innate-Labs/Noobi.ai](https://github.com/Innate-Labs/Noobi.ai) | github | 247★ / 31天 | Local-first desktop agent that turns a prompt into a reviewe |
