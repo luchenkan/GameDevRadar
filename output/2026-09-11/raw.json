@@ -6,13 +6,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 435,
-  "forks": 138,
+  "stars": 440,
+  "forks": 139,
   "age_days": 9,
-  "velocity": 48.33,
+  "velocity": 48.89,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 144.99
+  "score": 146.67
  },
  {
   "source": "github",
@@ -28,13 +28,13 @@
    "unity-scripts",
    "unity3d-plugin"
   ],
-  "stars": 214,
+  "stars": 215,
   "forks": 2,
   "age_days": 41,
-  "velocity": 5.22,
+  "velocity": 5.24,
   "created": "2026-08-01",
   "relevance": 8.0,
-  "score": 41.76
+  "score": 41.92
  },
  {
   "source": "github",
@@ -153,11 +153,11 @@
   "topics": [],
   "stars": 471,
   "forks": 7,
-  "age_days": 20,
-  "velocity": 23.55,
+  "age_days": 21,
+  "velocity": 22.43,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 35.33
+  "score": 33.64
  },
  {
   "source": "github",
@@ -175,13 +175,39 @@
    "image-generation",
    "multi-agent"
   ],
-  "stars": 226,
+  "stars": 227,
   "forks": 12,
   "age_days": 29,
-  "velocity": 7.79,
+  "velocity": 7.83,
   "created": "2026-08-12",
   "relevance": 3.5,
-  "score": 27.27
+  "score": 27.41
+ },
+ {
+  "source": "github",
+  "title": "cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash",
+  "url": "https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash",
+  "desc": "Same-brief agentic build comparison: GPT-6 Astra High vs Gemini 3.8 Flash High building a playable 3D AI civilization simulation game.",
+  "lang": "",
+  "topics": [
+   "agentic-ai",
+   "agentic-coding",
+   "ai-agents",
+   "ai-coding",
+   "civilization-simulation",
+   "game-development",
+   "gemini",
+   "gpt-6-astra",
+   "llm-evaluation",
+   "simulation"
+  ],
+  "stars": 17,
+  "forks": 2,
+  "age_days": 4,
+  "velocity": 4.25,
+  "created": "2026-09-06",
+  "relevance": 5.5,
+  "score": 23.38
  },
  {
   "source": "github",
@@ -209,32 +235,6 @@
   "created": "2026-08-09",
   "relevance": 3.0,
   "score": 23.16
- },
- {
-  "source": "github",
-  "title": "cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash",
-  "url": "https://github.com/cagrikacmaz/gpt-6-astra-vs-gemini-3-8-flash",
-  "desc": "Same-brief agentic build comparison: GPT-6 Astra High vs Gemini 3.8 Flash High building a playable 3D AI civilization simulation game.",
-  "lang": "",
-  "topics": [
-   "agentic-ai",
-   "agentic-coding",
-   "ai-agents",
-   "ai-coding",
-   "civilization-simulation",
-   "game-development",
-   "gemini",
-   "gpt-6-astra",
-   "llm-evaluation",
-   "simulation"
-  ],
-  "stars": 16,
-  "forks": 2,
-  "age_days": 4,
-  "velocity": 4.0,
-  "created": "2026-09-06",
-  "relevance": 5.5,
-  "score": 22.0
  },
  {
   "source": "github",
