@@ -6,13 +6,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 479,
+  "stars": 484,
   "forks": 149,
   "age_days": 10,
-  "velocity": 47.9,
+  "velocity": 48.4,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 143.7
+  "score": 145.2
  },
  {
   "source": "github",
@@ -45,11 +45,11 @@
   "topics": [],
   "stars": 471,
   "forks": 7,
-  "age_days": 21,
-  "velocity": 22.43,
+  "age_days": 22,
+  "velocity": 21.41,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 33.64
+  "score": 32.12
  },
  {
   "source": "github",
@@ -573,13 +573,13 @@
   "desc": "Unity plugin for third-party agent platforms",
   "lang": "C#",
   "topics": [],
-  "stars": 172,
+  "stars": 175,
   "forks": 14,
   "age_days": 36,
-  "velocity": 4.78,
+  "velocity": 4.86,
   "created": "2026-08-06",
   "relevance": 3.0,
-  "score": 14.34
+  "score": 14.58
  },
  {
   "source": "Unity Blog",
@@ -643,13 +643,13 @@
   "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
   "lang": "Python",
   "topics": [],
-  "stars": 112,
-  "forks": 15,
+  "stars": 113,
+  "forks": 16,
   "age_days": 19,
-  "velocity": 5.89,
+  "velocity": 5.95,
   "created": "2026-08-23",
   "relevance": 2.0,
-  "score": 11.78
+  "score": 11.9
  },
  {
   "source": "Unity Blog",
@@ -793,13 +793,13 @@
   "desc": "Time Decay / 时间食客 — 一款以时间作为生命与货币的 Godot 叙事策略游戏。",
   "lang": "",
   "topics": [],
-  "stars": 89,
+  "stars": 90,
   "forks": 0,
   "age_days": 14,
-  "velocity": 6.36,
+  "velocity": 6.43,
   "created": "2026-08-28",
   "relevance": 1.5,
-  "score": 9.54
+  "score": 9.64
  },
  {
   "source": "github",

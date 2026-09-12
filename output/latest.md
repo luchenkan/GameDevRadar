@@ -1,12 +1,12 @@
 # 游戏开发技术雷达 · 2026-09-12
 
-> 自动生成于 2026-09-12 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-12 13:03 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 143.7 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 479★ / 10天 | A video game for AI agents. Created by Jarren Rocks |
+| 1 | 145.2 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 484★ / 10天 | A video game for AI agents. Created by Jarren Rocks |
 | 2 | 41.52 | [GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-](https://github.com/GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-) | github | 218★ / 42天 | Miku is an open-source material conversion pipeline that tra |
-| 3 | 33.64 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 471★ / 21天 | An open-source game coding agent environment and benchmark f |
+| 3 | 32.12 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 471★ / 22天 | An open-source game coding agent environment and benchmark f |
 | 4 | 26.95 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 231★ / 30天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
 | 5 | 22.44 | [Innate-Labs/Noobi.ai](https://github.com/Innate-Labs/Noobi.ai) | github | 247★ / 33天 | Local-first desktop agent that turns a prompt into a reviewe |
 | 6 | 20.0 | [Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill](https://github.com/Alpha-Park/genpark-shapley-value-cooperative-game-allocator-skill) | github | 8★ / 2天 | GenPark AI Agent Skill - Cooperative game theory Shapley val |
