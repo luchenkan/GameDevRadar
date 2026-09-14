@@ -1,15 +1,15 @@
 # 游戏开发技术雷达 · 2026-09-14
 
-> 自动生成于 2026-09-14 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-14 13:26 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 131.49 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 526★ / 12天 | A video game for AI agents. Created by Jarren Rocks |
-| 2 | 40.88 | [GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-](https://github.com/GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-) | github | 225★ / 44天 | Miku is an open-source material conversion pipeline that tra |
-| 3 | 30.86 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 23天 | An open-source game coding agent environment and benchmark f |
+| 1 | 132.0 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 528★ / 12天 | A video game for AI agents. Created by Jarren Rocks |
+| 2 | 41.12 | [GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-](https://github.com/GenshinmasterJinHang/Miku-Material-Converter-Blender-to-Unity-) | github | 226★ / 44天 | Miku is an open-source material conversion pipeline that tra |
+| 3 | 29.57 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 24天 | An open-source game coding agent environment and benchmark f |
 | 4 | 25.58 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 234★ / 32天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
 | 5 | 21.18 | [Innate-Labs/Noobi.ai](https://github.com/Innate-Labs/Noobi.ai) | github | 247★ / 35天 | Local-first desktop agent that turns a prompt into a reviewe |
-| 6 | 17.61 | [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) | github | 223★ / 38天 | Unity plugin for third-party agent platforms |
+| 6 | 17.85 | [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) | github | 226★ / 38天 | Unity plugin for third-party agent platforms |
 | 7 | 16.91 | [thrixel/build-world](https://github.com/thrixel/build-world) | github | 73★ / 41天 | Build interactive 3D worlds with high-quality assets from Th |
 | 8 | 16.5 | [How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX](https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art) | Unity Blog | 官方发布 | Learn how Mega Cat Studios used Unity, readable level design |
 | 9 | 16.5 | [Building Westeros for mobile in Game of Thrones: Dragonfire](https://unity.com/blog/building-westeros-for-mobile-in-game-of-thrones-dragonfire) | Unity Blog | 官方发布 | Explore how Warner Bros. Games Boston optimized Game of Thro |
