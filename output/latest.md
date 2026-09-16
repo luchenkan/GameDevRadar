@@ -1,17 +1,17 @@
 # 游戏开发技术雷达 · 2026-09-16
 
-> 自动生成于 2026-09-16 10:25 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-16 13:16 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 132.0 | [Qiuner/agent-isles](https://github.com/Qiuner/agent-isles) | github | 33★ / 1天 | An explorable island world to learn AI coding and build real |
-| 2 | 120.42 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 562★ / 14天 | A video game for AI agents. Created by Jarren Rocks |
-| 3 | 84.0 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 14★ / 1天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 4 | 28.38 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 25天 | An open-source game coding agent environment and benchmark f |
+| 1 | 136.0 | [Qiuner/agent-isles](https://github.com/Qiuner/agent-isles) | github | 34★ / 1天 | An explorable island world to learn AI coding and build real |
+| 2 | 120.87 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 564★ / 14天 | A video game for AI agents. Created by Jarren Rocks |
+| 3 | 90.0 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 15★ / 1天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
+| 4 | 27.29 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 26天 | An open-source game coding agent environment and benchmark f |
 | 5 | 24.71 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 240★ / 34天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
 | 6 | 21.0 | [Hot Five: LEGO Digital Play acquires Offroad Games, Unity launches Claude Code plugin, and Pokémon Go is top grossing mobile game of early September](https://www.pocketgamer.biz/hot-five-lego-digital-play-acquires-offroad-games-unity-launches-claude-code-plugin-and-pokemon-go-is-top-grossing-mobile-game-of-early-september/) | PocketGamer.biz | 官方发布 | To help get you primed and ready for another week in mobile  |
 | 7 | 20.1 | [Innate-Labs/Noobi.ai](https://github.com/Innate-Labs/Noobi.ai) | github | 248★ / 37天 | Local-first desktop agent that turns a prompt into a reviewe |
-| 8 | 18.99 | [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) | github | 253★ / 40天 | Unity plugin for third-party agent platforms |
+| 8 | 19.05 | [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) | github | 254★ / 40天 | Unity plugin for third-party agent platforms |
 | 9 | 16.5 | [How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX](https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art) | Unity Blog | 官方发布 | Learn how Mega Cat Studios used Unity, readable level design |
 | 10 | 16.5 | [Building Westeros for mobile in Game of Thrones: Dragonfire](https://unity.com/blog/building-westeros-for-mobile-in-game-of-thrones-dragonfire) | Unity Blog | 官方发布 | Explore how Warner Bros. Games Boston optimized Game of Thro |
 | 11 | 16.5 | [Reaching shoppers where they play: Unity and Fetch extend purchase-based audiences to mobile gaming](https://unity.com/blog/mobile-gaming-advertising-reaching-verified-shoppers-with-fetch) | Unity Blog | 官方发布 | Connecting gaming moments to verified shopper behavior has r |
