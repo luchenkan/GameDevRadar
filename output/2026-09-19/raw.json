@@ -15,13 +15,13 @@
    "learn-to-code",
    "vibe-coding"
   ],
-  "stars": 192,
+  "stars": 197,
   "forks": 3,
   "age_days": 4,
-  "velocity": 48.0,
+  "velocity": 49.25,
   "created": "2026-09-14",
   "relevance": 4.0,
-  "score": 192.0
+  "score": 197.0
  },
  {
   "source": "github",
@@ -30,13 +30,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 619,
-  "forks": 197,
+  "stars": 620,
+  "forks": 198,
   "age_days": 17,
-  "velocity": 36.41,
+  "velocity": 36.47,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 109.23
+  "score": 109.41
  },
  {
   "source": "github",
@@ -70,11 +70,11 @@
   "topics": [],
   "stars": 473,
   "forks": 7,
-  "age_days": 28,
-  "velocity": 16.89,
+  "age_days": 29,
+  "velocity": 16.31,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 25.34
+  "score": 24.46
  },
  {
   "source": "github",
@@ -92,13 +92,28 @@
    "image-generation",
    "multi-agent"
   ],
-  "stars": 246,
+  "stars": 247,
   "forks": 13,
   "age_days": 37,
-  "velocity": 6.65,
+  "velocity": 6.68,
   "created": "2026-08-12",
   "relevance": 3.5,
-  "score": 23.28
+  "score": 23.38
+ },
+ {
+  "source": "github",
+  "title": "Unity-Technologies/unity-agent-plugin",
+  "url": "https://github.com/Unity-Technologies/unity-agent-plugin",
+  "desc": "Unity plugin for third-party agent platforms",
+  "lang": "C#",
+  "topics": [],
+  "stars": 302,
+  "forks": 27,
+  "age_days": 43,
+  "velocity": 7.02,
+  "created": "2026-08-06",
+  "relevance": 3.0,
+  "score": 21.06
  },
  {
   "source": "PocketGamer.biz",
@@ -114,21 +129,6 @@
   "created": "Mon, 14 Sep 2026",
   "relevance": 7.0,
   "score": 21.0
- },
- {
-  "source": "github",
-  "title": "Unity-Technologies/unity-agent-plugin",
-  "url": "https://github.com/Unity-Technologies/unity-agent-plugin",
-  "desc": "Unity plugin for third-party agent platforms",
-  "lang": "C#",
-  "topics": [],
-  "stars": 300,
-  "forks": 27,
-  "age_days": 43,
-  "velocity": 6.98,
-  "created": "2026-08-06",
-  "relevance": 3.0,
-  "score": 20.94
  },
  {
   "source": "github",
@@ -451,13 +451,13 @@
   "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
   "lang": "Python",
   "topics": [],
-  "stars": 160,
+  "stars": 163,
   "forks": 23,
   "age_days": 26,
-  "velocity": 6.15,
+  "velocity": 6.27,
   "created": "2026-08-23",
   "relevance": 2.0,
-  "score": 12.3
+  "score": 12.54
  },
  {
   "source": "Unity Blog",
@@ -489,13 +489,13 @@
    "naughty",
    "tool"
   ],
-  "stars": 41,
+  "stars": 42,
   "forks": 0,
   "age_days": 9,
-  "velocity": 4.56,
+  "velocity": 4.67,
   "created": "2026-09-09",
   "relevance": 2.5,
-  "score": 11.4
+  "score": 11.68
  },
  {
   "source": "github",

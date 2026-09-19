@@ -1,16 +1,16 @@
 # 游戏开发技术雷达 · 2026-09-19
 
-> 自动生成于 2026-09-19 10:25 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-19 13:04 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 192.0 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 192★ / 4天 | An explorable island world to learn AI coding and build real |
-| 2 | 109.23 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 619★ / 17天 | A video game for AI agents. Created by Jarren Rocks |
+| 1 | 197.0 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 197★ / 4天 | An explorable island world to learn AI coding and build real |
+| 2 | 109.41 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 620★ / 17天 | A video game for AI agents. Created by Jarren Rocks |
 | 3 | 27.0 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 18★ / 4天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 4 | 25.34 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 28天 | An open-source game coding agent environment and benchmark f |
-| 5 | 23.28 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 246★ / 37天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
-| 6 | 21.0 | [Hot Five: LEGO Digital Play acquires Offroad Games, Unity launches Claude Code plugin, and Pokémon Go is top grossing mobile game of early September](https://www.pocketgamer.biz/hot-five-lego-digital-play-acquires-offroad-games-unity-launches-claude-code-plugin-and-pokemon-go-is-top-grossing-mobile-game-of-early-september/) | PocketGamer.biz | 官方发布 | To help get you primed and ready for another week in mobile  |
-| 7 | 20.94 | [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) | github | 300★ / 43天 | Unity plugin for third-party agent platforms |
+| 4 | 24.46 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 29天 | An open-source game coding agent environment and benchmark f |
+| 5 | 23.38 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 247★ / 37天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
+| 6 | 21.06 | [Unity-Technologies/unity-agent-plugin](https://github.com/Unity-Technologies/unity-agent-plugin) | github | 302★ / 43天 | Unity plugin for third-party agent platforms |
+| 7 | 21.0 | [Hot Five: LEGO Digital Play acquires Offroad Games, Unity launches Claude Code plugin, and Pokémon Go is top grossing mobile game of early September](https://www.pocketgamer.biz/hot-five-lego-digital-play-acquires-offroad-games-unity-launches-claude-code-plugin-and-pokemon-go-is-top-grossing-mobile-game-of-early-september/) | PocketGamer.biz | 官方发布 | To help get you primed and ready for another week in mobile  |
 | 8 | 18.6 | [Innate-Labs/Noobi.ai](https://github.com/Innate-Labs/Noobi.ai) | github | 248★ / 40天 | Local-first desktop agent that turns a prompt into a reviewe |
 | 9 | 18.0 | [Blender 5.3 Is Getting Native 3D Gaussian Splat Support](https://80.lv/articles/blender-5-3-is-getting-native-3d-gaussian-splat-support/) | 80.lv | 官方发布 | This is not a drill. |
 | 10 | 16.5 | [How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX](https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art) | Unity Blog | 官方发布 | Learn how Mega Cat Studios used Unity, readable level design |
