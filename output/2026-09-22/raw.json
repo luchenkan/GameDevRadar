@@ -15,28 +15,13 @@
    "learn-to-code",
    "vibe-coding"
   ],
-  "stars": 279,
+  "stars": 285,
   "forks": 5,
   "age_days": 7,
-  "velocity": 39.86,
+  "velocity": 40.71,
   "created": "2026-09-14",
   "relevance": 4.0,
-  "score": 159.44
- },
- {
-  "source": "github",
-  "title": "Station-Sciences/bot-crossing",
-  "url": "https://github.com/Station-Sciences/bot-crossing",
-  "desc": "A video game for AI agents. Created by Jarren Rocks",
-  "lang": "JavaScript",
-  "topics": [],
-  "stars": 647,
-  "forks": 206,
-  "age_days": 20,
-  "velocity": 32.35,
-  "created": "2026-09-01",
-  "relevance": 3.0,
-  "score": 97.05
+  "score": 162.84
  },
  {
   "source": "github",
@@ -53,13 +38,28 @@
    "unity-editor",
    "unity3d"
   ],
-  "stars": 100,
+  "stars": 129,
   "forks": 1,
   "age_days": 7,
-  "velocity": 14.29,
+  "velocity": 18.43,
   "created": "2026-09-14",
   "relevance": 6.0,
-  "score": 85.74
+  "score": 110.58
+ },
+ {
+  "source": "github",
+  "title": "Station-Sciences/bot-crossing",
+  "url": "https://github.com/Station-Sciences/bot-crossing",
+  "desc": "A video game for AI agents. Created by Jarren Rocks",
+  "lang": "JavaScript",
+  "topics": [],
+  "stars": 648,
+  "forks": 206,
+  "age_days": 20,
+  "velocity": 32.4,
+  "created": "2026-09-01",
+  "relevance": 3.0,
+  "score": 97.2
  },
  {
   "source": "github",
@@ -99,11 +99,11 @@
   "topics": [],
   "stars": 473,
   "forks": 7,
-  "age_days": 31,
-  "velocity": 15.26,
+  "age_days": 32,
+  "velocity": 14.78,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 22.89
+  "score": 22.17
  },
  {
   "source": "github",
@@ -136,13 +136,13 @@
   "desc": "aigccat，用自然语言或图片生成 3D 模型，并完成贴图、减面、重拓扑、UV、绑骨、动画、版本管理、质量检测，最终直接交付 Unity / Godot。",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 22,
+  "stars": 24,
   "forks": 2,
   "age_days": 5,
-  "velocity": 4.4,
+  "velocity": 4.8,
   "created": "2026-09-16",
   "relevance": 4.0,
-  "score": 17.6
+  "score": 19.2
  },
  {
   "source": "github",

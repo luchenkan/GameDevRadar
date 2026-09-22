@@ -1,16 +1,16 @@
 # 游戏开发技术雷达 · 2026-09-22
 
-> 自动生成于 2026-09-22 10:24 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-22 13:22 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 159.44 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 279★ / 7天 | An explorable island world to learn AI coding and build real |
-| 2 | 97.05 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 647★ / 20天 | A video game for AI agents. Created by Jarren Rocks |
-| 3 | 85.74 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 100★ / 7天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
+| 1 | 162.84 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 285★ / 7天 | An explorable island world to learn AI coding and build real |
+| 2 | 110.58 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 129★ / 7天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
+| 3 | 97.2 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 648★ / 20天 | A video game for AI agents. Created by Jarren Rocks |
 | 4 | 24.5 | [tallslab/threeforge](https://github.com/tallslab/threeforge) | github | 14★ / 4天 | Frame-budget compiler and diagnostics for three.js games: ba |
-| 5 | 22.89 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 31天 | An open-source game coding agent environment and benchmark f |
+| 5 | 22.17 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 32天 | An open-source game coding agent environment and benchmark f |
 | 6 | 21.77 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 249★ / 40天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
-| 7 | 17.6 | [RainNameless/aigccat](https://github.com/RainNameless/aigccat) | github | 22★ / 5天 | aigccat，用自然语言或图片生成 3D 模型，并完成贴图、减面、重拓扑、UV、绑骨、动画、版本管理、质量检测，最终直 |
+| 7 | 19.2 | [RainNameless/aigccat](https://github.com/RainNameless/aigccat) | github | 24★ / 5天 | aigccat，用自然语言或图片生成 3D 模型，并完成贴图、减面、重拓扑、UV、绑骨、动画、版本管理、质量检测，最终直 |
 | 8 | 17.58 | [Innate-Labs/Noobi.ai](https://github.com/Innate-Labs/Noobi.ai) | github | 252★ / 43天 | Local-first desktop agent that turns a prompt into a reviewe |
 | 9 | 16.5 | [How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX](https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art) | Unity Blog | 官方发布 | Learn how Mega Cat Studios used Unity, readable level design |
 | 10 | 15.0 | [LISK819129/OpenNPC](https://github.com/LISK819129/OpenNPC) | github | 16★ / 8天 | A NPC AI Framework , based on character personalities, can b |
