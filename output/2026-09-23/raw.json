@@ -15,13 +15,13 @@
    "learn-to-code",
    "vibe-coding"
   ],
-  "stars": 300,
+  "stars": 301,
   "forks": 5,
   "age_days": 8,
-  "velocity": 37.5,
+  "velocity": 37.62,
   "created": "2026-09-14",
   "relevance": 4.0,
-  "score": 150.0
+  "score": 150.48
  },
  {
   "source": "github",
@@ -53,13 +53,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 655,
-  "forks": 208,
+  "stars": 656,
+  "forks": 209,
   "age_days": 21,
-  "velocity": 31.19,
+  "velocity": 31.24,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 93.57
+  "score": 93.72
  },
  {
   "source": "github",
@@ -83,13 +83,13 @@
   "desc": "An open-source game coding agent environment and benchmark for Godot.",
   "lang": "Python",
   "topics": [],
-  "stars": 473,
+  "stars": 474,
   "forks": 7,
-  "age_days": 32,
-  "velocity": 14.78,
+  "age_days": 33,
+  "velocity": 14.36,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 22.17
+  "score": 21.54
  },
  {
   "source": "github",
@@ -336,6 +336,36 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Mon, 15 Jun 2026",
+  "relevance": 5.0,
+  "score": 15.0
+ },
+ {
+  "source": "PocketGamer.biz",
+  "title": "Smadex refreshes brand as Performance CTV becomes growth engine",
+  "url": "https://www.pocketgamer.biz/smadex-refreshes-brand-as-performance-ctv-becomes-growth-engine/",
+  "desc": "Smadex has refreshed its brand and website as the advertising company expands from its mobile ads roots into Performance CTV for apps and games.\n\nFounded in 2011, Smadex has historically focused on mo",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Fri, 18 Sep 2026",
+  "relevance": 5.0,
+  "score": 15.0
+ },
+ {
+  "source": "PocketGamer.biz",
+  "title": "Ludus: Merge Arena surpasses $50m in lifetime revenue",
+  "url": "https://www.pocketgamer.biz/ludus-merge-arena-generates-29m-in-the-first-half-of-2026/",
+  "desc": "Mobile games developer Top App Games has confirmed Ludus: Merge Arena has surpassed $50 million in gross turnover.\n\nA total $29m was earned during the first half of 2026, with a record Q2 generating $",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Thu, 17 Sep 2026",
   "relevance": 5.0,
   "score": 15.0
  },
@@ -780,36 +810,6 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Tue, 30 Jun 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "Strange Scaffold's Xalavier Nelson, Jr. on picking projects for impact",
-  "url": "https://unity.com/blog/xalavier-nelson-strange-scaffold",
-  "desc": "Unity talks to prolific indie dev Xalavier Nelson Jr. about how the Strange Scaffold studio setup helps to power indie creators and communities, and shares the DIDIT system for evaluating new projects",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Fri, 26 Jun 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "D7 or D28 IAP ROAS campaigns? The answer is both",
-  "url": "https://unity.com/blog/d7-vs-d28-iap-roas-campaigns",
-  "desc": "Running both D7 and D28 IAP ROAS campaigns captures early spenders and late-game converters. Unity Vector uses game creation data to optimize both cohorts.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Thu, 25 Jun 2026",
   "relevance": 3.0,
   "score": 9.0
  }

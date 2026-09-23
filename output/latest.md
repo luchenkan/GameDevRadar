@@ -1,14 +1,14 @@
 # 游戏开发技术雷达 · 2026-09-23
 
-> 自动生成于 2026-09-23 10:25 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-23 13:10 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 150.0 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 300★ / 8天 | An explorable island world to learn AI coding and build real |
+| 1 | 150.48 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 301★ / 8天 | An explorable island world to learn AI coding and build real |
 | 2 | 124.5 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 166★ / 8天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 3 | 93.57 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 655★ / 21天 | A video game for AI agents. Created by Jarren Rocks |
+| 3 | 93.72 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 656★ / 21天 | A video game for AI agents. Created by Jarren Rocks |
 | 4 | 48.0 | [Mantimestwo/Light-sprite-renderer](https://github.com/Mantimestwo/Light-sprite-renderer) | github | 24★ / 2天 | Simple Godot-based tool for procedurally creating and render |
-| 5 | 22.17 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 473★ / 32天 | An open-source game coding agent environment and benchmark f |
+| 5 | 21.54 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 474★ / 33天 | An open-source game coding agent environment and benchmark f |
 | 6 | 21.35 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 250★ / 41天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
 | 7 | 21.0 | [tallslab/threeforge](https://github.com/tallslab/threeforge) | github | 15★ / 5天 | Frame-budget compiler and diagnostics for three.js games: ba |
 | 8 | 16.68 | [RainNameless/aigccat](https://github.com/RainNameless/aigccat) | github | 25★ / 6天 | aigccat，用自然语言或图片生成 3D 模型，并完成贴图、减面、重拓扑、UV、绑骨、动画、版本管理、质量检测，最终直 |
