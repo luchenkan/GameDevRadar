@@ -1,17 +1,17 @@
 # 游戏开发技术雷达 · 2026-09-24
 
-> 自动生成于 2026-09-24 10:24 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-24 13:25 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 140.88 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 317★ / 9天 | An explorable island world to learn AI coding and build real |
+| 1 | 142.24 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 320★ / 9天 | An explorable island world to learn AI coding and build real |
 | 2 | 110.64 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 166★ / 9天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 3 | 90.96 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 667★ / 22天 | A video game for AI agents. Created by Jarren Rocks |
+| 3 | 91.5 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 671★ / 22天 | A video game for AI agents. Created by Jarren Rocks |
 | 4 | 45.0 | [DasDarki/grit](https://github.com/DasDarki/grit) | github | 30★ / 1天 | GDScript Compiler for Godot. |
-| 5 | 21.54 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 474★ / 33天 | An open-source game coding agent environment and benchmark f |
-| 6 | 20.82 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 250★ / 42天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
-| 7 | 18.0 | [tantaneity/seashell-gen](https://github.com/tantaneity/seashell-gen) | github | 2★ / 1天 | Procedural seashells in Unity URP from Raup's coiling model, |
-| 8 | 18.0 | [tantaneity/butterfly-gen](https://github.com/tantaneity/butterfly-gen) | github | 2★ / 1天 | Procedural butterflies in Unity: polar wings, groundplan pat |
+| 5 | 27.0 | [tantaneity/butterfly-gen](https://github.com/tantaneity/butterfly-gen) | github | 3★ / 1天 | Procedural butterflies in Unity: polar wings, groundplan pat |
+| 6 | 20.91 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 474★ / 34天 | An open-source game coding agent environment and benchmark f |
+| 7 | 20.82 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 250★ / 42天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
+| 8 | 18.0 | [tantaneity/seashell-gen](https://github.com/tantaneity/seashell-gen) | github | 2★ / 1天 | Procedural seashells in Unity URP from Raup's coiling model, |
 | 9 | 17.5 | [tallslab/threeforge](https://github.com/tallslab/threeforge) | github | 15★ / 6天 | Frame-budget compiler and diagnostics for three.js games: ba |
 | 10 | 16.5 | [How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX](https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art) | Unity Blog | 官方发布 | Learn how Mega Cat Studios used Unity, readable level design |
 | 11 | 15.44 | [RainNameless/aigccat](https://github.com/RainNameless/aigccat) | github | 27★ / 7天 | aigccat，用自然语言或图片生成 3D 模型，并完成贴图、减面、重拓扑、UV、绑骨、动画、版本管理、质量检测，最终直 |
