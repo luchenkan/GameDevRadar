@@ -1,5 +1,6 @@
 # 游戏开发技术雷达 · 2026-09-25
 
+<<<<<<< HEAD
 > 自动生成于 2026-09-25 13:24 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
@@ -11,6 +12,19 @@
 | 5 | 36.0 | [tantaneity/butterfly-gen](https://github.com/tantaneity/butterfly-gen) | github | 4★ / 1天 | Procedural butterflies in Unity: polar wings, groundplan pat |
 | 6 | 26.25 | [DasDarki/grit](https://github.com/DasDarki/grit) | github | 35★ / 2天 | GDScript Compiler for Godot. |
 | 7 | 20.36 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 475★ / 35天 | An open-source game coding agent environment and benchmark f |
+=======
+> 自动生成于 2026-09-25 10:24 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+
+| # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
+|---|---|---|---|---|---|
+| 1 | 130.4 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 326★ / 10天 | An explorable island world to learn AI coding and build real |
+| 2 | 97.8 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 163★ / 10天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
+| 3 | 89.61 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 687★ / 23天 | A video game for AI agents. Created by Jarren Rocks |
+| 4 | 66.0 | [frrazer/roblox-game-boilerplate](https://github.com/frrazer/roblox-game-boilerplate) | github | 22★ / 1天 | Roblox game boilerplate for AI agents: Rojo, Wally, typed Pa |
+| 5 | 36.0 | [tantaneity/butterfly-gen](https://github.com/tantaneity/butterfly-gen) | github | 4★ / 1天 | Procedural butterflies in Unity: polar wings, groundplan pat |
+| 6 | 26.25 | [DasDarki/grit](https://github.com/DasDarki/grit) | github | 35★ / 2天 | GDScript Compiler for Godot. |
+| 7 | 20.96 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 475★ / 34天 | An open-source game coding agent environment and benchmark f |
+>>>>>>> 6899b90 (kimi: output/2026-09-25, output/2026-09-25/raw.json, output/2026-09-25/daily.md +3)
 | 8 | 20.33 | [tettethu/VibeGame](https://github.com/tettethu/VibeGame) | github | 250★ / 43天 | VibeGame: Vibe Your Dream Game -- An open-source self-evolvi |
 | 9 | 17.25 | [distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined) | github | 23★ / 4天 | Fan-made Initial D Arcade Stage 3 project with Unity renderi |
 | 10 | 16.5 | [How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX](https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art) | Unity Blog | 官方发布 | Learn how Mega Cat Studios used Unity, readable level design |

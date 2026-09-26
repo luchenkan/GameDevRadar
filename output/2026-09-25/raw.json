@@ -15,6 +15,7 @@
    "learn-to-code",
    "vibe-coding"
   ],
+<<<<<<< HEAD
   "stars": 327,
   "forks": 6,
   "age_days": 10,
@@ -22,6 +23,15 @@
   "created": "2026-09-14",
   "relevance": 4.0,
   "score": 130.8
+=======
+  "stars": 326,
+  "forks": 6,
+  "age_days": 10,
+  "velocity": 32.6,
+  "created": "2026-09-14",
+  "relevance": 4.0,
+  "score": 130.4
+>>>>>>> 6899b90 (kimi: output/2026-09-25, output/2026-09-25/raw.json, output/2026-09-25/daily.md +3)
  },
  {
   "source": "github",
@@ -53,6 +63,7 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
+<<<<<<< HEAD
   "stars": 688,
   "forks": 217,
   "age_days": 23,
@@ -60,6 +71,15 @@
   "created": "2026-09-01",
   "relevance": 3.0,
   "score": 89.73
+=======
+  "stars": 687,
+  "forks": 216,
+  "age_days": 23,
+  "velocity": 29.87,
+  "created": "2026-09-01",
+  "relevance": 3.0,
+  "score": 89.61
+>>>>>>> 6899b90 (kimi: output/2026-09-25, output/2026-09-25/raw.json, output/2026-09-25/daily.md +3)
  },
  {
   "source": "github",
@@ -68,6 +88,7 @@
   "desc": "Roblox game boilerplate for AI agents: Rojo, Wally, typed Packet networking, ProfileStore data, strict Luau and an AGENTS.md",
   "lang": "Luau",
   "topics": [],
+<<<<<<< HEAD
   "stars": 28,
   "forks": 3,
   "age_days": 1,
@@ -75,6 +96,15 @@
   "created": "2026-09-24",
   "relevance": 3.0,
   "score": 84.0
+=======
+  "stars": 22,
+  "forks": 1,
+  "age_days": 1,
+  "velocity": 22.0,
+  "created": "2026-09-24",
+  "relevance": 3.0,
+  "score": 66.0
+>>>>>>> 6899b90 (kimi: output/2026-09-25, output/2026-09-25/raw.json, output/2026-09-25/daily.md +3)
  },
  {
   "source": "github",
@@ -125,11 +155,19 @@
   "topics": [],
   "stars": 475,
   "forks": 7,
+<<<<<<< HEAD
   "age_days": 35,
   "velocity": 13.57,
   "created": "2026-08-21",
   "relevance": 1.5,
   "score": 20.36
+=======
+  "age_days": 34,
+  "velocity": 13.97,
+  "created": "2026-08-21",
+  "relevance": 1.5,
+  "score": 20.96
+>>>>>>> 6899b90 (kimi: output/2026-09-25, output/2026-09-25/raw.json, output/2026-09-25/daily.md +3)
  },
  {
   "source": "github",
@@ -356,6 +394,7 @@
   "score": 15.0
  },
  {
+<<<<<<< HEAD
   "source": "PocketGamer.biz",
   "title": "Smadex refreshes brand as Performance CTV becomes growth engine",
   "url": "https://www.pocketgamer.biz/smadex-refreshes-brand-as-performance-ctv-becomes-growth-engine/",
@@ -386,6 +425,8 @@
   "score": 15.0
  },
  {
+=======
+>>>>>>> 6899b90 (kimi: output/2026-09-25, output/2026-09-25/raw.json, output/2026-09-25/daily.md +3)
   "source": "github",
   "title": "tallslab/threeforge",
   "url": "https://github.com/tallslab/threeforge",
@@ -835,5 +876,38 @@
   "created": "Fri, 03 Jul 2026",
   "relevance": 3.0,
   "score": 9.0
+<<<<<<< HEAD
+=======
+ },
+ {
+  "source": "Unity Blog",
+  "title": "What the industry told us at Cannes 2026: mobile gaming is no longer optional",
+  "url": "https://unity.com/blog/cannes-2026-mobile-game-advertising",
+  "desc": "Industry leaders from across the advertising ecosystem at Cannes 2026 share why mobile game advertising is a premium, full-funnel programmatic channel.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Thu, 02 Jul 2026",
+  "relevance": 3.0,
+  "score": 9.0
+ },
+ {
+  "source": "Unity Blog",
+  "title": "The Immersive Edge: June 2026 industry content wrap-up",
+  "url": "https://unity.com/blog/june-2026-industry-content-wrap-up",
+  "desc": "Explore Unity’s June 2026 industry content wrap-up, with resources on Unity Studio, CAD automation, industrial AI, digital twins, and customer stories.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Wed, 01 Jul 2026",
+  "relevance": 3.0,
+  "score": 9.0
+>>>>>>> 6899b90 (kimi: output/2026-09-25, output/2026-09-25/raw.json, output/2026-09-25/daily.md +3)
  }
 ]
