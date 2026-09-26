@@ -6,13 +6,13 @@
   "desc": "Roblox game boilerplate for AI agents: Rojo, Wally, typed Packet networking, ProfileStore data, strict Luau and an AGENTS.md",
   "lang": "Luau",
   "topics": [],
-  "stars": 74,
+  "stars": 76,
   "forks": 10,
   "age_days": 1,
-  "velocity": 74.0,
+  "velocity": 76.0,
   "created": "2026-09-24",
   "relevance": 3.0,
-  "score": 222.0
+  "score": 228.0
  },
  {
   "source": "github",
@@ -30,13 +30,13 @@
    "learn-to-code",
    "vibe-coding"
   ],
-  "stars": 340,
+  "stars": 341,
   "forks": 5,
   "age_days": 11,
-  "velocity": 30.91,
+  "velocity": 31.0,
   "created": "2026-09-14",
   "relevance": 4.0,
-  "score": 123.64
+  "score": 124.0
  },
  {
   "source": "github",
@@ -68,13 +68,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 699,
-  "forks": 218,
+  "stars": 702,
+  "forks": 219,
   "age_days": 24,
-  "velocity": 29.12,
+  "velocity": 29.25,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 87.36
+  "score": 87.75
  },
  {
   "source": "github",
@@ -85,11 +85,11 @@
   "topics": [],
   "stars": 475,
   "forks": 7,
-  "age_days": 35,
-  "velocity": 13.57,
+  "age_days": 36,
+  "velocity": 13.19,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 20.36
+  "score": 19.79
  },
  {
   "source": "GamesIndustry.biz",
@@ -362,6 +362,21 @@
   "score": 15.0
  },
  {
+  "source": "PocketGamer.biz",
+  "title": "Smadex refreshes brand as Performance CTV becomes growth engine",
+  "url": "https://www.pocketgamer.biz/smadex-refreshes-brand-as-performance-ctv-becomes-growth-engine/",
+  "desc": "Smadex has refreshed its brand and website as the advertising company expands from its mobile ads roots into Performance CTV for apps and games.\n\nFounded in 2011, Smadex has historically focused on mo",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Fri, 18 Sep 2026",
+  "relevance": 5.0,
+  "score": 15.0
+ },
+ {
   "source": "github",
   "title": "tallslab/threeforge",
   "url": "https://github.com/tallslab/threeforge",
@@ -427,13 +442,13 @@
   "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
   "lang": "Python",
   "topics": [],
-  "stars": 196,
+  "stars": 198,
   "forks": 31,
   "age_days": 33,
-  "velocity": 5.94,
+  "velocity": 6.0,
   "created": "2026-08-23",
   "relevance": 2.0,
-  "score": 11.88
+  "score": 12.0
  },
  {
   "source": "github",
@@ -794,21 +809,6 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Wed, 01 Jul 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "Unity IAP SDK with Direct-to-Consumer (D2C) commerce",
-  "url": "https://unity.com/blog/unity-iap-d2c-launch-blog",
-  "desc": "Unity IAP SDK 5.4 now supports direct-to-consumer (D2C) payments and a free, no-code webshop in the Unity Dashboard — sell directly to players with Stripe and Coda.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Tue, 30 Jun 2026",
   "relevance": 3.0,
   "score": 9.0
  }

@@ -1,14 +1,14 @@
 # 游戏开发技术雷达 · 2026-09-26
 
-> 自动生成于 2026-09-26 10:27 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-09-26 13:29 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 222.0 | [frrazer/roblox-game-boilerplate](https://github.com/frrazer/roblox-game-boilerplate) | github | 74★ / 1天 | Roblox game boilerplate for AI agents: Rojo, Wally, typed Pa |
-| 2 | 123.64 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 340★ / 11天 | An explorable island world to learn AI coding and build real |
+| 1 | 228.0 | [frrazer/roblox-game-boilerplate](https://github.com/frrazer/roblox-game-boilerplate) | github | 76★ / 1天 | Roblox game boilerplate for AI agents: Rojo, Wally, typed Pa |
+| 2 | 124.0 | [Qiuner/QCode](https://github.com/Qiuner/QCode) | github | 341★ / 11天 | An explorable island world to learn AI coding and build real |
 | 3 | 88.92 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 163★ / 11天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 4 | 87.36 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 699★ / 24天 | A video game for AI agents. Created by Jarren Rocks |
-| 5 | 20.36 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 475★ / 35天 | An open-source game coding agent environment and benchmark f |
+| 4 | 87.75 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 702★ / 24天 | A video game for AI agents. Created by Jarren Rocks |
+| 5 | 19.79 | [GamePhanesStudio/GamePhanes](https://github.com/GamePhanesStudio/GamePhanes) | github | 475★ / 36天 | An open-source game coding agent environment and benchmark f |
 | 6 | 19.5 | [Meta unveils AI-powered game tools for mobile devices and browsers; announces VR Glasses with day-one Unity support](https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support) | GamesIndustry.biz | 官方发布 | Meta has revealed two AI-powered game tools that let players |
 | 7 | 18.6 | [distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined](https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined) | github | 31★ / 5天 | Fan-made Initial D Arcade Stage 3 project with Unity renderi |
 | 8 | 18.0 | [tantaneity/butterfly-gen](https://github.com/tantaneity/butterfly-gen) | github | 4★ / 2天 | Procedural butterflies in Unity: polar wings, groundplan pat |
