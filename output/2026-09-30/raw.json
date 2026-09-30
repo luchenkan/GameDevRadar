@@ -68,13 +68,13 @@
   "desc": "Roblox game boilerplate for AI agents: Rojo, Wally, typed Packet networking, ProfileStore data, strict Luau and an AGENTS.md",
   "lang": "Luau",
   "topics": [],
-  "stars": 87,
+  "stars": 88,
   "forks": 11,
   "age_days": 5,
-  "velocity": 17.4,
+  "velocity": 17.6,
   "created": "2026-09-24",
   "relevance": 3.0,
-  "score": 52.2
+  "score": 52.8
  },
  {
   "source": "github",
@@ -98,13 +98,13 @@
   "desc": "Godot Tool to create 2,5D stylized cartoon terrain.",
   "lang": "C#",
   "topics": [],
-  "stars": 26,
+  "stars": 28,
   "forks": 3,
   "age_days": 2,
-  "velocity": 13.0,
+  "velocity": 14.0,
   "created": "2026-09-27",
   "relevance": 2.0,
-  "score": 26.0
+  "score": 28.0
  },
  {
   "source": "github",
@@ -113,13 +113,13 @@
   "desc": "A Godot 4.6+ addon that implements four-point perspective warping for 2D sprites.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 48,
+  "stars": 49,
   "forks": 1,
   "age_days": 4,
-  "velocity": 12.0,
+  "velocity": 12.25,
   "created": "2026-09-25",
   "relevance": 2.0,
-  "score": 24.0
+  "score": 24.5
  },
  {
   "source": "Unity Blog",
@@ -182,11 +182,11 @@
   "topics": [],
   "stars": 475,
   "forks": 7,
-  "age_days": 39,
-  "velocity": 12.18,
+  "age_days": 40,
+  "velocity": 11.88,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 18.27
+  "score": 17.82
  },
  {
   "source": "github",
@@ -425,13 +425,13 @@
   "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
   "lang": "Python",
   "topics": [],
-  "stars": 222,
+  "stars": 223,
   "forks": 35,
   "age_days": 37,
-  "velocity": 6.0,
+  "velocity": 6.03,
   "created": "2026-08-23",
   "relevance": 2.0,
-  "score": 12.0
+  "score": 12.06
  },
  {
   "source": "Unity Blog",
