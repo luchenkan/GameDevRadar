@@ -6,13 +6,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 744,
+  "stars": 745,
   "forks": 230,
   "age_days": 29,
-  "velocity": 25.66,
+  "velocity": 25.69,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 76.98
+  "score": 77.07
  },
  {
   "source": "github",
@@ -36,6 +36,21 @@
   "created": "2026-09-14",
   "relevance": 6.0,
   "score": 61.14
+ },
+ {
+  "source": "github",
+  "title": "JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
+  "url": "https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
+  "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
+  "lang": "C",
+  "topics": [],
+  "stars": 20,
+  "forks": 2,
+  "age_days": 1,
+  "velocity": 20.0,
+  "created": "2026-09-29",
+  "relevance": 3.0,
+  "score": 60.0
  },
  {
   "source": "github",
@@ -84,6 +99,21 @@
  },
  {
   "source": "github",
+  "title": "idlerunner00/cartoon-terrain-studio",
+  "url": "https://github.com/idlerunner00/cartoon-terrain-studio",
+  "desc": "Godot Tool to create 2,5D stylized cartoon terrain.",
+  "lang": "C#",
+  "topics": [],
+  "stars": 30,
+  "forks": 4,
+  "age_days": 3,
+  "velocity": 10.0,
+  "created": "2026-09-27",
+  "relevance": 2.0,
+  "score": 20.0
+ },
+ {
+  "source": "github",
   "title": "BunkWire2X8/perspective-quads",
   "url": "https://github.com/BunkWire2X8/perspective-quads",
   "desc": "A Godot 4.6+ addon that implements four-point perspective warping for 2D sprites.",
@@ -114,21 +144,6 @@
  },
  {
   "source": "github",
-  "title": "idlerunner00/cartoon-terrain-studio",
-  "url": "https://github.com/idlerunner00/cartoon-terrain-studio",
-  "desc": "Godot Tool to create 2,5D stylized cartoon terrain.",
-  "lang": "C#",
-  "topics": [],
-  "stars": 29,
-  "forks": 4,
-  "age_days": 3,
-  "velocity": 9.67,
-  "created": "2026-09-27",
-  "relevance": 2.0,
-  "score": 19.34
- },
- {
-  "source": "github",
   "title": "GamePhanesStudio/GamePhanes",
   "url": "https://github.com/GamePhanesStudio/GamePhanes",
   "desc": "An open-source game coding agent environment and benchmark for Godot.",
@@ -136,11 +151,11 @@
   "topics": [],
   "stars": 475,
   "forks": 7,
-  "age_days": 40,
-  "velocity": 11.88,
+  "age_days": 41,
+  "velocity": 11.59,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 17.82
+  "score": 17.38
  },
  {
   "source": "github",
@@ -215,7 +230,7 @@
    "unity"
   ],
   "stars": 52,
-  "forks": 1,
+  "forks": 2,
   "age_days": 10,
   "velocity": 5.2,
   "created": "2026-09-20",
@@ -425,7 +440,7 @@
   "lang": "Python",
   "topics": [],
   "stars": 230,
-  "forks": 36,
+  "forks": 37,
   "age_days": 38,
   "velocity": 6.05,
   "created": "2026-08-23",
@@ -773,21 +788,6 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Thu, 02 Jul 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "The Immersive Edge: June 2026 industry content wrap-up",
-  "url": "https://unity.com/blog/june-2026-industry-content-wrap-up",
-  "desc": "Explore Unity’s June 2026 industry content wrap-up, with resources on Unity Studio, CAD automation, industrial AI, digital twins, and customer stories.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Wed, 01 Jul 2026",
   "relevance": 3.0,
   "score": 9.0
  }
