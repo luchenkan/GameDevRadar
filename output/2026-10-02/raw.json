@@ -1,13 +1,28 @@
 [
  {
   "source": "github",
+  "title": "idlerunner00/procedural-pixel-creatures",
+  "url": "https://github.com/idlerunner00/procedural-pixel-creatures",
+  "desc": "Godot Tool to create procedural pixel creatures",
+  "lang": "C#",
+  "topics": [],
+  "stars": 22,
+  "forks": 7,
+  "age_days": 1,
+  "velocity": 22.0,
+  "created": "2026-10-01",
+  "relevance": 4.5,
+  "score": 99.0
+ },
+ {
+  "source": "github",
   "title": "Station-Sciences/bot-crossing",
   "url": "https://github.com/Station-Sciences/bot-crossing",
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
   "stars": 751,
-  "forks": 234,
+  "forks": 236,
   "age_days": 30,
   "velocity": 25.03,
   "created": "2026-09-01",
@@ -44,13 +59,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 30,
+  "stars": 31,
   "forks": 3,
   "age_days": 2,
-  "velocity": 15.0,
+  "velocity": 15.5,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 45.0
+  "score": 46.5
  },
  {
   "source": "github",
@@ -59,13 +74,13 @@
   "desc": "Roblox game boilerplate for AI agents: Rojo, Wally, typed Packet networking, ProfileStore data, strict Luau and an AGENTS.md",
   "lang": "Luau",
   "topics": [],
-  "stars": 90,
+  "stars": 91,
   "forks": 10,
   "age_days": 7,
-  "velocity": 12.86,
+  "velocity": 13.0,
   "created": "2026-09-24",
   "relevance": 3.0,
-  "score": 38.58
+  "score": 39.0
  },
  {
   "source": "github",
@@ -121,11 +136,11 @@
   "topics": [],
   "stars": 475,
   "forks": 7,
-  "age_days": 41,
-  "velocity": 11.59,
+  "age_days": 42,
+  "velocity": 11.31,
   "created": "2026-08-21",
   "relevance": 1.5,
-  "score": 17.38
+  "score": 16.96
  },
  {
   "source": "github",
@@ -206,13 +221,13 @@
    "racing-game",
    "unity"
   ],
-  "stars": 55,
+  "stars": 56,
   "forks": 2,
   "age_days": 11,
-  "velocity": 5.0,
+  "velocity": 5.09,
   "created": "2026-09-20",
   "relevance": 3.0,
-  "score": 15.0
+  "score": 15.27
  },
  {
   "source": "Unity Blog",
@@ -424,13 +439,13 @@
   "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
   "lang": "Python",
   "topics": [],
-  "stars": 235,
+  "stars": 236,
   "forks": 37,
   "age_days": 39,
-  "velocity": 6.03,
+  "velocity": 6.05,
   "created": "2026-08-23",
   "relevance": 2.0,
-  "score": 12.06
+  "score": 12.1
  },
  {
   "source": "Unity Blog",
@@ -649,7 +664,7 @@
   "lang": "JavaScript",
   "topics": [],
   "stars": 35,
-  "forks": 2,
+  "forks": 3,
   "age_days": 15,
   "velocity": 2.33,
   "created": "2026-09-16",
@@ -773,21 +788,6 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Tue, 11 Aug 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "Games made with Unity: July 2026 in review",
-  "url": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
-  "desc": "Stay updated with the latest creations from the Unity community. Explore our list of standout games made with Unity in July 2026.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Mon, 03 Aug 2026",
   "relevance": 3.0,
   "score": 9.0
  }
