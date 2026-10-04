@@ -6,13 +6,13 @@
   "desc": "Godot Tool to create procedural pixel creatures",
   "lang": "C#",
   "topics": [],
-  "stars": 139,
+  "stars": 143,
   "forks": 18,
   "age_days": 2,
-  "velocity": 69.5,
+  "velocity": 71.5,
   "created": "2026-10-01",
   "relevance": 4.5,
-  "score": 312.75
+  "score": 321.75
  },
  {
   "source": "github",
@@ -74,13 +74,13 @@
   "desc": "Roblox game boilerplate for AI agents: Rojo, Wally, typed Packet networking, ProfileStore data, strict Luau and an AGENTS.md",
   "lang": "Luau",
   "topics": [],
-  "stars": 92,
+  "stars": 93,
   "forks": 10,
   "age_days": 9,
-  "velocity": 10.22,
+  "velocity": 10.33,
   "created": "2026-09-24",
   "relevance": 3.0,
-  "score": 30.66
+  "score": 30.99
  },
  {
   "source": "github",
@@ -114,18 +114,18 @@
  },
  {
   "source": "github",
-  "title": "GamePhanesStudio/GamePhanes",
-  "url": "https://github.com/GamePhanesStudio/GamePhanes",
-  "desc": "An open-source game coding agent environment and benchmark for Godot.",
-  "lang": "Python",
+  "title": "trevaintdead/ai-game-modding-guides",
+  "url": "https://github.com/trevaintdead/ai-game-modding-guides",
+  "desc": "Beginner guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
+  "lang": "",
   "topics": [],
-  "stars": 475,
-  "forks": 7,
-  "age_days": 43,
-  "velocity": 11.05,
-  "created": "2026-08-21",
-  "relevance": 1.5,
-  "score": 16.58
+  "stars": 18,
+  "forks": 2,
+  "age_days": 1,
+  "velocity": 18.0,
+  "created": "2026-10-03",
+  "relevance": 1.0,
+  "score": 18.0
  },
  {
   "source": "Unity Blog",
@@ -141,6 +141,21 @@
   "created": "Tue, 28 Jul 2026",
   "relevance": 5.5,
   "score": 16.5
+ },
+ {
+  "source": "github",
+  "title": "GamePhanesStudio/GamePhanes",
+  "url": "https://github.com/GamePhanesStudio/GamePhanes",
+  "desc": "An open-source game coding agent environment and benchmark for Godot.",
+  "lang": "Python",
+  "topics": [],
+  "stars": 475,
+  "forks": 7,
+  "age_days": 44,
+  "velocity": 10.8,
+  "created": "2026-08-21",
+  "relevance": 1.5,
+  "score": 16.2
  },
  {
   "source": "github",
@@ -326,13 +341,13 @@
    "racing-game",
    "unity"
   ],
-  "stars": 59,
+  "stars": 60,
   "forks": 2,
   "age_days": 13,
-  "velocity": 4.54,
+  "velocity": 4.62,
   "created": "2026-09-20",
   "relevance": 3.0,
-  "score": 13.62
+  "score": 13.86
  },
  {
   "source": "Unity Blog",
@@ -351,21 +366,6 @@
  },
  {
   "source": "github",
-  "title": "trevaintdead/ai-game-modding-guides",
-  "url": "https://github.com/trevaintdead/ai-game-modding-guides",
-  "desc": "Beginner guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
-  "lang": "",
-  "topics": [],
-  "stars": 13,
-  "forks": 2,
-  "age_days": 1,
-  "velocity": 13.0,
-  "created": "2026-10-03",
-  "relevance": 1.0,
-  "score": 13.0
- },
- {
-  "source": "github",
   "title": "BunkWire2X8/perspective-quads",
   "url": "https://github.com/BunkWire2X8/perspective-quads",
   "desc": "A Godot 4.6+ addon that implements four-point perspective warping for 2D sprites.",
@@ -378,6 +378,21 @@
   "created": "2026-09-25",
   "relevance": 2.0,
   "score": 12.24
+ },
+ {
+  "source": "github",
+  "title": "zimo-xiao-zheng/godot-ui-integration",
+  "url": "https://github.com/zimo-xiao-zheng/godot-ui-integration",
+  "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
+  "lang": "Python",
+  "topics": [],
+  "stars": 246,
+  "forks": 39,
+  "age_days": 41,
+  "velocity": 6.0,
+  "created": "2026-08-23",
+  "relevance": 2.0,
+  "score": 12.0
  },
  {
   "source": "Unity Blog",
@@ -393,21 +408,6 @@
   "created": "Fri, 25 Sep 2026",
   "relevance": 4.0,
   "score": 12.0
- },
- {
-  "source": "github",
-  "title": "zimo-xiao-zheng/godot-ui-integration",
-  "url": "https://github.com/zimo-xiao-zheng/godot-ui-integration",
-  "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
-  "lang": "Python",
-  "topics": [],
-  "stars": 245,
-  "forks": 39,
-  "age_days": 41,
-  "velocity": 5.98,
-  "created": "2026-08-23",
-  "relevance": 2.0,
-  "score": 11.96
  },
  {
   "source": "github",
