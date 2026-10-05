@@ -1,14 +1,14 @@
 # 游戏开发技术雷达 · 2026-10-05
 
-> 自动生成于 2026-10-05 10:24 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-10-05 14:13 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 234.0 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 156★ / 3天 | Godot Tool to create procedural pixel creatures |
-| 2 | 69.9 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 769★ / 33天 | A video game for AI agents. Created by Jarren Rocks |
+| 1 | 237.02 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 158★ / 3天 | Godot Tool to create procedural pixel creatures |
+| 2 | 69.99 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 770★ / 33天 | A video game for AI agents. Created by Jarren Rocks |
 | 3 | 49.8 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 166★ / 20天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
 | 4 | 38.25 | [Yokino337088/Revolution](https://github.com/Yokino337088/Revolution) | github | 102★ / 8天 | Revolution——具有革命性的Unity客户端框架 |
-| 5 | 30.0 | [trevaintdead/ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides) | github | 30★ / 1天 | Guides for building game mods with AI coding agents: passthr |
+| 5 | 32.0 | [trevaintdead/ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides) | github | 32★ / 1天 | Guides for building game mods with AI coding agents: passthr |
 | 6 | 27.9 | [frrazer/roblox-game-boilerplate](https://github.com/frrazer/roblox-game-boilerplate) | github | 93★ / 10天 | Roblox game boilerplate for AI agents: Rojo, Wally, typed Pa |
 | 7 | 25.32 | [ruccho/YAUI](https://github.com/ruccho/YAUI) | github | 76★ / 9天 | Yet Another Unity UI: a fast, Flexbox-based UI system on Gam |
 | 8 | 21.0 | [Scaling Scritchy Scratchy across platforms](https://unity.com/blog/scaling-scritchy-scratchy-across-platforms) | Unity Blog | 官方发布 | Learn how Scritchy Scratchy used Unity to port the game acro |

@@ -6,13 +6,13 @@
   "desc": "Godot Tool to create procedural pixel creatures",
   "lang": "C#",
   "topics": [],
-  "stars": 156,
+  "stars": 158,
   "forks": 19,
   "age_days": 3,
-  "velocity": 52.0,
+  "velocity": 52.67,
   "created": "2026-10-01",
   "relevance": 4.5,
-  "score": 234.0
+  "score": 237.02
  },
  {
   "source": "github",
@@ -21,13 +21,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 769,
+  "stars": 770,
   "forks": 244,
   "age_days": 33,
-  "velocity": 23.3,
+  "velocity": 23.33,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 69.9
+  "score": 69.99
  },
  {
   "source": "github",
@@ -74,13 +74,13 @@
   "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
   "lang": "",
   "topics": [],
-  "stars": 30,
+  "stars": 32,
   "forks": 3,
   "age_days": 1,
-  "velocity": 30.0,
+  "velocity": 32.0,
   "created": "2026-10-03",
   "relevance": 1.0,
-  "score": 30.0
+  "score": 32.0
  },
  {
   "source": "github",
@@ -350,6 +350,21 @@
   "score": 13.5
  },
  {
+  "source": "github",
+  "title": "zimo-xiao-zheng/godot-ui-integration",
+  "url": "https://github.com/zimo-xiao-zheng/godot-ui-integration",
+  "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
+  "lang": "Python",
+  "topics": [],
+  "stars": 253,
+  "forks": 39,
+  "age_days": 42,
+  "velocity": 6.02,
+  "created": "2026-08-23",
+  "relevance": 2.0,
+  "score": 12.04
+ },
+ {
   "source": "Unity Blog",
   "title": "How RUST LTD built the deep firearm simulation for Hot Dogs, Horseshoes & Hand Grenades 2",
   "url": "https://unity.com/blog/rust-ltd-hot-dogs-horseshoes-hand-grenades-2",
@@ -363,21 +378,6 @@
   "created": "Fri, 25 Sep 2026",
   "relevance": 4.0,
   "score": 12.0
- },
- {
-  "source": "github",
-  "title": "zimo-xiao-zheng/godot-ui-integration",
-  "url": "https://github.com/zimo-xiao-zheng/godot-ui-integration",
-  "desc": "A Codex skill for building Godot UI from approved designs with editor-visible scenes and runtime visual-parity checks.",
-  "lang": "Python",
-  "topics": [],
-  "stars": 251,
-  "forks": 39,
-  "age_days": 42,
-  "velocity": 5.98,
-  "created": "2026-08-23",
-  "relevance": 2.0,
-  "score": 11.96
  },
  {
   "source": "github",
