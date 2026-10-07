@@ -44,13 +44,13 @@
   "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
   "lang": "",
   "topics": [],
-  "stars": 218,
+  "stars": 233,
   "forks": 24,
   "age_days": 3,
-  "velocity": 72.67,
+  "velocity": 77.67,
   "created": "2026-10-03",
   "relevance": 1.0,
-  "score": 72.67
+  "score": 77.67
  },
  {
   "source": "github",
@@ -112,13 +112,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 64,
+  "stars": 65,
   "forks": 8,
   "age_days": 7,
-  "velocity": 9.14,
+  "velocity": 9.29,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 27.42
+  "score": 27.87
  },
  {
   "source": "github",
