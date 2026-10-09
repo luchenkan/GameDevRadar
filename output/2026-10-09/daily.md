@@ -1,23 +1,23 @@
 # 游戏开发技术雷达 · 2026-10-09
 
-> 自动生成于 2026-10-09 10:26 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-10-09 14:42 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
 | 1 | 109.94 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 171★ / 7天 | Godot Tool to create procedural pixel creatures |
 | 2 | 107.0 | [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | github | 107★ / 4天 | Ninja Ripper 2.10 Beta, free version for testing. |
-| 3 | 72.6 | [trevaintdead/ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides) | github | 363★ / 5天 | Guides for building game mods with AI coding agents: passthr |
-| 4 | 63.66 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 785★ / 37天 | A video game for AI agents. Created by Jarren Rocks |
+| 3 | 75.0 | [trevaintdead/ai-game-modding-guides](https://github.com/trevaintdead/ai-game-modding-guides) | github | 375★ / 5天 | Guides for building game mods with AI coding agents: passthr |
+| 4 | 63.81 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 787★ / 37天 | A video game for AI agents. Created by Jarren Rocks |
 | 5 | 41.52 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 166★ / 24天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 6 | 30.99 | [JoppieToppie/Galaxy-on-Fire-2-Unity-Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | github | 93★ / 9天 | A Galaxy on Fire 2 Decomp and Unity Remake |
+| 6 | 32.01 | [JoppieToppie/Galaxy-on-Fire-2-Unity-Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | github | 96★ / 9天 | A Galaxy on Fire 2 Decomp and Unity Remake |
 | 7 | 25.5 | [Yokino337088/Revolution](https://github.com/Yokino337088/Revolution) | github | 102★ / 12天 | Revolution——具有革命性的Unity客户端框架 |
-| 8 | 21.42 | [frrazer/roblox-game-boilerplate](https://github.com/frrazer/roblox-game-boilerplate) | github | 100★ / 14天 | Roblox game boilerplate for AI agents: Rojo, Wally, typed Pa |
+| 8 | 21.63 | [frrazer/roblox-game-boilerplate](https://github.com/frrazer/roblox-game-boilerplate) | github | 101★ / 14天 | Roblox game boilerplate for AI agents: Rojo, Wally, typed Pa |
 | 9 | 21.0 | [How Soft Crunch Games built Foxy Dumplings for every platform](https://unity.com/blog/scaling-scritchy-scratchy-across-platforms) | Unity Blog | 官方发布 | Learn how Scritchy Scratchy used Unity to port the game acro |
-| 10 | 18.24 | [ruccho/YAUI](https://github.com/ruccho/YAUI) | github | 79★ / 13天 | Yet Another Unity UI: a fast, Flexbox-based UI system on Gam |
+| 10 | 18.45 | [ruccho/YAUI](https://github.com/ruccho/YAUI) | github | 80★ / 13天 | Yet Another Unity UI: a fast, Flexbox-based UI system on Gam |
 | 11 | 17.24 | [Mutakisa/game-slop-purge](https://github.com/Mutakisa/game-slop-purge) | github | 69★ / 16天 | Best Game UI Cleanup Agent Skill 2026: Remove Slop, Keep Fun |
 | 12 | 16.5 | [Echo Weaver: Building a time-loop metroidbrainia in Unity 6](https://unity.com/blog/echo-weaver-time-loop-unity) | Unity Blog | 官方发布 | Moonlight Kids explain how they built time-loop metroidbrain |
 | 13 | 16.5 | [How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX](https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art) | Unity Blog | 官方发布 | Learn how Mega Cat Studios used Unity, readable level design |
-| 14 | 15.39 | [UpstandPlatform/OpenRive](https://github.com/UpstandPlatform/OpenRive) | github | 26★ / 16天 | Build inetractive UIs, motion, and game experiences in the O |
+| 14 | 16.05 | [UpstandPlatform/OpenRive](https://github.com/UpstandPlatform/OpenRive) | github | 27★ / 16天 | Build inetractive UIs, motion, and game experiences in the O |
 | 15 | 15.0 | [Content directories: Beyond the AssetBundle](https://unity.com/blog/content-directories-beyond-the-assetbundle) | Unity Blog | 官方发布 | Unity 6.6 introduces content directories, a faster and more  |
 | 16 | 15.0 | [Optimizing Deep Rock Galactic Survivor for mobile](https://unity.com/blog/optimizing-deep-rock-galactic-survivor-for-mobile) | Unity Blog | 官方发布 | Learn how Piktiv ported Deep Rock Galactic: Survivor to mobi |
 | 17 | 15.0 | [The Official Unity Plugin for Codex](https://unity.com/blog/unity-plugin-codex) | Unity Blog | 官方发布 | Unity's official plugin for Codex is an official plugin that |

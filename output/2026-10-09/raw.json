@@ -44,13 +44,13 @@
   "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
   "lang": "",
   "topics": [],
-  "stars": 363,
-  "forks": 32,
+  "stars": 375,
+  "forks": 35,
   "age_days": 5,
-  "velocity": 72.6,
+  "velocity": 75.0,
   "created": "2026-10-03",
   "relevance": 1.0,
-  "score": 72.6
+  "score": 75.0
  },
  {
   "source": "github",
@@ -59,13 +59,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 785,
+  "stars": 787,
   "forks": 253,
   "age_days": 37,
-  "velocity": 21.22,
+  "velocity": 21.27,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 63.66
+  "score": 63.81
  },
  {
   "source": "github",
@@ -97,13 +97,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 93,
-  "forks": 12,
+  "stars": 96,
+  "forks": 13,
   "age_days": 9,
-  "velocity": 10.33,
+  "velocity": 10.67,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 30.99
+  "score": 32.01
  },
  {
   "source": "github",
@@ -127,13 +127,13 @@
   "desc": "Roblox game boilerplate for AI agents: Rojo, Wally, typed Packet networking, ProfileStore data, strict Luau and an AGENTS.md",
   "lang": "Luau",
   "topics": [],
-  "stars": 100,
+  "stars": 101,
   "forks": 11,
   "age_days": 14,
-  "velocity": 7.14,
+  "velocity": 7.21,
   "created": "2026-09-24",
   "relevance": 3.0,
-  "score": 21.42
+  "score": 21.63
  },
  {
   "source": "Unity Blog",
@@ -157,13 +157,13 @@
   "desc": "Yet Another Unity UI: a fast, Flexbox-based UI system on GameObjects.",
   "lang": "C#",
   "topics": [],
-  "stars": 79,
+  "stars": 80,
   "forks": 4,
   "age_days": 13,
-  "velocity": 6.08,
+  "velocity": 6.15,
   "created": "2026-09-25",
   "relevance": 3.0,
-  "score": 18.24
+  "score": 18.45
  },
  {
   "source": "github",
@@ -233,13 +233,13 @@
    "openrive",
    "rive"
   ],
-  "stars": 26,
+  "stars": 27,
   "forks": 1,
   "age_days": 16,
-  "velocity": 1.62,
+  "velocity": 1.69,
   "created": "2026-09-22",
   "relevance": 9.5,
-  "score": 15.39
+  "score": 16.05
  },
  {
   "source": "Unity Blog",
