@@ -12,13 +12,13 @@
    "procedural-animation",
    "unity"
   ],
-  "stars": 59,
-  "forks": 4,
+  "stars": 62,
+  "forks": 5,
   "age_days": 1,
-  "velocity": 59.0,
+  "velocity": 62.0,
   "created": "2026-10-09",
   "relevance": 7.0,
-  "score": 413.0
+  "score": 434.0
  },
  {
   "source": "github",
@@ -32,13 +32,13 @@
    "portfolio",
    "unity"
   ],
-  "stars": 55,
+  "stars": 56,
   "forks": 1,
   "age_days": 2,
-  "velocity": 27.5,
+  "velocity": 28.0,
   "created": "2026-10-07",
   "relevance": 6.0,
-  "score": 165.0
+  "score": 168.0
  },
  {
   "source": "github",
@@ -85,13 +85,13 @@
   "desc": "Guides for building game mods with AI coding agents: passthrough mods, Rust rewrites, mod loaders, prompting, and troubleshooting.",
   "lang": "",
   "topics": [],
-  "stars": 417,
+  "stars": 422,
   "forks": 39,
   "age_days": 6,
-  "velocity": 69.5,
+  "velocity": 70.33,
   "created": "2026-10-03",
   "relevance": 1.0,
-  "score": 69.5
+  "score": 70.33
  },
  {
   "source": "github",
@@ -101,7 +101,7 @@
   "lang": "JavaScript",
   "topics": [],
   "stars": 790,
-  "forks": 254,
+  "forks": 255,
   "age_days": 38,
   "velocity": 20.79,
   "created": "2026-09-01",
@@ -138,13 +138,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 108,
+  "stars": 110,
   "forks": 14,
   "age_days": 10,
-  "velocity": 10.8,
+  "velocity": 11.0,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 32.4
+  "score": 33.0
  },
  {
   "source": "github",
