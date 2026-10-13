@@ -11,13 +11,13 @@
    "israel",
    "israeli"
   ],
-  "stars": 218,
+  "stars": 221,
   "forks": 6,
   "age_days": 2,
-  "velocity": 109.0,
+  "velocity": 110.5,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 327.0
+  "score": 331.5
  },
  {
   "source": "github",
@@ -34,13 +34,28 @@
    "procedural-animation",
    "unity"
   ],
-  "stars": 79,
+  "stars": 80,
   "forks": 5,
   "age_days": 4,
-  "velocity": 19.75,
+  "velocity": 20.0,
   "created": "2026-10-09",
   "relevance": 7.0,
-  "score": 138.25
+  "score": 140.0
+ },
+ {
+  "source": "github",
+  "title": "kanaworksai-hue/effekseer-vfx-skill",
+  "url": "https://github.com/kanaworksai-hue/effekseer-vfx-skill",
+  "desc": "Agent skills that make real-time game VFX as code for Effekseer and verify them in real Godot renders (Claude Code, Codex and other Agent Skills hosts).",
+  "lang": "Python",
+  "topics": [],
+  "stars": 46,
+  "forks": 4,
+  "age_days": 2,
+  "velocity": 23.0,
+  "created": "2026-10-10",
+  "relevance": 5.5,
+  "score": 126.5
  },
  {
   "source": "github",
@@ -64,33 +79,18 @@
  },
  {
   "source": "github",
-  "title": "kanaworksai-hue/effekseer-vfx-skill",
-  "url": "https://github.com/kanaworksai-hue/effekseer-vfx-skill",
-  "desc": "Agent skills that make real-time game VFX as code for Effekseer and verify them in real Godot renders (Claude Code, Codex and other Agent Skills hosts).",
-  "lang": "Python",
-  "topics": [],
-  "stars": 45,
-  "forks": 4,
-  "age_days": 2,
-  "velocity": 22.5,
-  "created": "2026-10-10",
-  "relevance": 5.5,
-  "score": 123.75
- },
- {
-  "source": "github",
   "title": "idlerunner00/procedural-pixel-creatures",
   "url": "https://github.com/idlerunner00/procedural-pixel-creatures",
   "desc": "Godot Tool to create procedural pixel creatures",
   "lang": "C#",
   "topics": [],
-  "stars": 176,
+  "stars": 178,
   "forks": 20,
   "age_days": 11,
-  "velocity": 16.0,
+  "velocity": 16.18,
   "created": "2026-10-01",
   "relevance": 4.5,
-  "score": 72.0
+  "score": 72.81
  },
  {
   "source": "github",
@@ -99,13 +99,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 803,
+  "stars": 804,
   "forks": 258,
   "age_days": 41,
-  "velocity": 19.59,
+  "velocity": 19.61,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 58.77
+  "score": 58.83
  },
  {
   "source": "github",
@@ -175,13 +175,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 128,
+  "stars": 129,
   "forks": 15,
   "age_days": 13,
-  "velocity": 9.85,
+  "velocity": 9.92,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 29.55
+  "score": 29.76
  },
  {
   "source": "Unity Blog",
@@ -269,6 +269,21 @@
   "created": "Tue, 28 Jul 2026",
   "relevance": 5.5,
   "score": 16.5
+ },
+ {
+  "source": "github",
+  "title": "Yokino337088/Revolution",
+  "url": "https://github.com/Yokino337088/Revolution",
+  "desc": "Revolution——具有革命性的Unity客户端框架",
+  "lang": "C#",
+  "topics": [],
+  "stars": 83,
+  "forks": 4,
+  "age_days": 16,
+  "velocity": 5.19,
+  "created": "2026-09-26",
+  "relevance": 3.0,
+  "score": 15.57
  },
  {
   "source": "Unity Blog",
@@ -490,6 +505,26 @@
   "score": 13.8
  },
  {
+  "source": "github",
+  "title": "distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined",
+  "url": "https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined",
+  "desc": "Fan-made Initial D Arcade Stage 3 project with Unity rendering, native gameplay, online battles, community times and replays.",
+  "lang": "C++",
+  "topics": [
+   "fan-game",
+   "initial-d",
+   "racing-game",
+   "unity"
+  ],
+  "stars": 100,
+  "forks": 5,
+  "age_days": 22,
+  "velocity": 4.55,
+  "created": "2026-09-20",
+  "relevance": 3.0,
+  "score": 13.65
+ },
+ {
   "source": "Unity Blog",
   "title": "Unite Seoul 2026 Keynote Recap: Announcing Unity 7",
   "url": "https://unity.com/blog/unite-seoul-keynote-2026-recap",
@@ -503,41 +538,6 @@
   "created": "Tue, 21 Jul 2026",
   "relevance": 4.5,
   "score": 13.5
- },
- {
-  "source": "github",
-  "title": "distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined",
-  "url": "https://github.com/distilledorion-sketch/Initial-D-Arcade-Stage-3-Reimagined",
-  "desc": "Fan-made Initial D Arcade Stage 3 project with Unity rendering, native gameplay, online battles, community times and replays.",
-  "lang": "C++",
-  "topics": [
-   "fan-game",
-   "initial-d",
-   "racing-game",
-   "unity"
-  ],
-  "stars": 98,
-  "forks": 5,
-  "age_days": 22,
-  "velocity": 4.45,
-  "created": "2026-09-20",
-  "relevance": 3.0,
-  "score": 13.35
- },
- {
-  "source": "github",
-  "title": "Yokino337088/Revolution",
-  "url": "https://github.com/Yokino337088/Revolution",
-  "desc": "Revolution——具有革命性的Unity客户端框架",
-  "lang": "C#",
-  "topics": [],
-  "stars": 70,
-  "forks": 4,
-  "age_days": 16,
-  "velocity": 4.38,
-  "created": "2026-09-26",
-  "relevance": 3.0,
-  "score": 13.14
  },
  {
   "source": "Unity Blog",
