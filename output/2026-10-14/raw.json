@@ -16,13 +16,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 236,
+  "stars": 239,
   "forks": 9,
   "age_days": 3,
-  "velocity": 78.67,
+  "velocity": 79.67,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 236.01
+  "score": 239.01
  },
  {
   "source": "github",
@@ -84,13 +84,13 @@
   "desc": "A video game for AI agents. Created by Jarren Rocks",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 808,
+  "stars": 812,
   "forks": 259,
   "age_days": 42,
-  "velocity": 19.24,
+  "velocity": 19.33,
   "created": "2026-09-01",
   "relevance": 3.0,
-  "score": 57.72
+  "score": 57.99
  },
  {
   "source": "github",
@@ -145,13 +145,13 @@
   "desc": "Unity uGUI virtualized list and grid components with dynamic sizing, multiple item prefabs, collapsible trees, nested scrolling, and animated navigation.",
   "lang": "C#",
   "topics": [],
-  "stars": 62,
+  "stars": 63,
   "forks": 6,
   "age_days": 6,
-  "velocity": 10.33,
+  "velocity": 10.5,
   "created": "2026-10-07",
   "relevance": 3.0,
-  "score": 30.99
+  "score": 31.5
  },
  {
   "source": "github",
@@ -412,13 +412,13 @@
   "desc": "Revolution——具有革命性的Unity客户端框架",
   "lang": "C#",
   "topics": [],
-  "stars": 81,
+  "stars": 84,
   "forks": 3,
   "age_days": 17,
-  "velocity": 4.76,
+  "velocity": 4.94,
   "created": "2026-09-26",
   "relevance": 3.0,
-  "score": 14.28
+  "score": 14.82
  },
  {
   "source": "github",

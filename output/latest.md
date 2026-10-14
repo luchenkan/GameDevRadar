@@ -1,17 +1,17 @@
 # 游戏开发技术雷达 · 2026-10-14
 
-> 自动生成于 2026-10-14 10:24 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-10-14 13:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 236.01 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 236★ / 3天 | A Civilization-style strategy game about governing Israel fr |
+| 1 | 239.01 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 239★ / 3天 | A Civilization-style strategy game about governing Israel fr |
 | 2 | 114.8 | [WouterApts/openik-unity](https://github.com/WouterApts/openik-unity) | github | 82★ / 5天 | Inverse Kinematics package for Unity, featuring multiple sol |
 | 3 | 86.19 | [kanaworksai-hue/effekseer-vfx-skill](https://github.com/kanaworksai-hue/effekseer-vfx-skill) | github | 47★ / 3天 | Agent skills that make real-time game VFX as code for Effeks |
 | 4 | 66.73 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 178★ / 12天 | Godot Tool to create procedural pixel creatures |
-| 5 | 57.72 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 808★ / 42天 | A video game for AI agents. Created by Jarren Rocks |
+| 5 | 57.99 | [Station-Sciences/bot-crossing](https://github.com/Station-Sciences/bot-crossing) | github | 812★ / 42天 | A video game for AI agents. Created by Jarren Rocks |
 | 6 | 48.44 | [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | github | 109★ / 9天 | Ninja Ripper 2.10 Beta, free version for testing. |
 | 7 | 34.32 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 166★ / 29天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 8 | 30.99 | [zhanglinshuia-code/ZRList](https://github.com/zhanglinshuia-code/ZRList) | github | 62★ / 6天 | Unity uGUI virtualized list and grid components with dynamic |
+| 8 | 31.5 | [zhanglinshuia-code/ZRList](https://github.com/zhanglinshuia-code/ZRList) | github | 63★ / 6天 | Unity uGUI virtualized list and grid components with dynamic |
 | 9 | 28.92 | [JoppieToppie/Galaxy-on-Fire-2-Unity-Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | github | 135★ / 14天 | A Galaxy on Fire 2 Decomp and Unity Remake |
 | 10 | 21.0 | [How Soft Crunch Games built Foxy Dumplings for every platform](https://unity.com/blog/scaling-scritchy-scratchy-across-platforms) | Unity Blog | 官方发布 | Learn how Scritchy Scratchy used Unity to port the game acro |
 | 11 | 16.5 | [Echo Weaver: Building a time-loop metroidbrainia in Unity 6](https://unity.com/blog/echo-weaver-time-loop-unity) | Unity Blog | 官方发布 | Moonlight Kids explain how they built time-loop metroidbrain |
