@@ -1,6 +1,27 @@
 [
  {
   "source": "github",
+  "title": "ahwootech/BRUTAL",
+  "url": "https://github.com/ahwootech/BRUTAL",
+  "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+  "lang": "C#",
+  "topics": [
+   "csharp",
+   "dotnet",
+   "game-engine",
+   "gamedev",
+   "vulkan"
+  ],
+  "stars": 1605,
+  "forks": 81,
+  "age_days": 2,
+  "velocity": 802.5,
+  "created": "2026-10-14",
+  "relevance": 1.0,
+  "score": 802.5
+ },
+ {
+  "source": "github",
   "title": "christos-antono/NPCTalk",
   "url": "https://github.com/christos-antono/NPCTalk",
   "desc": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
@@ -16,13 +37,13 @@
    "text-to-speech",
    "voice-cloning"
   ],
-  "stars": 87,
+  "stars": 91,
   "forks": 8,
   "age_days": 1,
-  "velocity": 87.0,
+  "velocity": 91.0,
   "created": "2026-10-15",
   "relevance": 5.5,
-  "score": 478.5
+  "score": 500.5
  },
  {
   "source": "github",
@@ -31,13 +52,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 67,
-  "forks": 8,
+  "stars": 77,
+  "forks": 9,
   "age_days": 1,
-  "velocity": 67.0,
+  "velocity": 77.0,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 335.0
+  "score": 385.0
  },
  {
   "source": "github",
@@ -65,13 +86,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 52,
+  "stars": 53,
   "forks": 5,
   "age_days": 2,
-  "velocity": 26.0,
+  "velocity": 26.5,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 286.0
+  "score": 291.5
  },
  {
   "source": "github",
@@ -92,13 +113,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 377,
+  "stars": 378,
   "forks": 13,
   "age_days": 6,
-  "velocity": 62.83,
+  "velocity": 63.0,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 188.49
+  "score": 189.0
  },
  {
   "source": "github",
@@ -206,13 +227,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 145,
+  "stars": 146,
   "forks": 16,
   "age_days": 17,
-  "velocity": 8.53,
+  "velocity": 8.59,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 25.59
+  "score": 25.77
  },
  {
   "source": "github",
@@ -508,13 +529,13 @@
    "racing-game",
    "unity"
   ],
-  "stars": 108,
+  "stars": 109,
   "forks": 8,
   "age_days": 26,
-  "velocity": 4.15,
+  "velocity": 4.19,
   "created": "2026-09-20",
   "relevance": 3.0,
-  "score": 12.45
+  "score": 12.57
  },
  {
   "source": "Unity Blog",
@@ -822,21 +843,6 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Thu, 17 Sep 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "The Immersive Edge: August 2026 industry content wrap-up",
-  "url": "https://unity.com/blog/immersive-edge-august-2026",
-  "desc": "The Immersive Edge, August 2026: 31 Unity resources from July and August, including BMW Group's Virtual Teardown Assistant and the Ditmara twin architecture.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Wed, 02 Sep 2026",
   "relevance": 3.0,
   "score": 9.0
  }
