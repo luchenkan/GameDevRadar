@@ -1,14 +1,14 @@
 # 游戏开发技术雷达 · 2026-10-18
 
-> 自动生成于 2026-10-18 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-10-18 13:08 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 895.0 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 179★ / 1天 | Co-op Anything: point your AI agent at any single-player gam |
-| 2 | 599.33 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 1798★ / 3天 | A free, open source C# framework for making games, or your o |
-| 3 | 332.75 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 121★ / 2天 | Make any NPC in any game talk back with Fish Audio: skills,  |
-| 4 | 320.0 | [pkdec/uDPR](https://github.com/pkdec/uDPR) | github | 128★ / 2天 | Pokémon Brilliant Diamond and Shining Pearl as a Unity proje |
-| 5 | 231.0 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 63★ / 3天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
+| 1 | 950.0 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 190★ / 1天 | Co-op Anything: point your AI agent at any single-player gam |
+| 2 | 603.67 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 1811★ / 3天 | A free, open source C# framework for making games, or your o |
+| 3 | 338.25 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 123★ / 2天 | Make any NPC in any game talk back with Fish Audio: skills,  |
+| 4 | 327.5 | [pkdec/uDPR](https://github.com/pkdec/uDPR) | github | 131★ / 2天 | Pokémon Brilliant Diamond and Shining Pearl as a Unity proje |
+| 5 | 234.63 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 64★ / 3天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
 | 6 | 176.58 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 412★ / 7天 | A Civilization-style strategy game about governing Israel fr |
 | 7 | 66.92 | [WouterApts/openik-unity](https://github.com/WouterApts/openik-unity) | github | 86★ / 9天 | Inverse Kinematics package for Unity, featuring multiple sol |
 | 8 | 54.0 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 192★ / 16天 | Godot Tool to create procedural pixel creatures |
