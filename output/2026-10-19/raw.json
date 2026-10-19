@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "C",
   "topics": [],
-  "stars": 422,
-  "forks": 36,
+  "stars": 436,
+  "forks": 38,
   "age_days": 2,
-  "velocity": 211.0,
+  "velocity": 218.0,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 1055.0
+  "score": 1090.0
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 214,
+  "stars": 224,
   "forks": 21,
   "age_days": 4,
-  "velocity": 53.5,
+  "velocity": 56.0,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 588.5
+  "score": 616.0
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 1906,
+  "stars": 1922,
   "forks": 102,
   "age_days": 4,
-  "velocity": 476.5,
+  "velocity": 480.5,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 476.5
+  "score": 480.5
  },
  {
   "source": "github",
@@ -86,13 +86,13 @@
    "text-to-speech",
    "voice-cloning"
   ],
-  "stars": 169,
+  "stars": 171,
   "forks": 11,
   "age_days": 3,
-  "velocity": 56.33,
+  "velocity": 57.0,
   "created": "2026-10-15",
   "relevance": 5.5,
-  "score": 309.81
+  "score": 313.5
  },
  {
   "source": "github",
@@ -113,13 +113,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 433,
+  "stars": 435,
   "forks": 17,
   "age_days": 8,
-  "velocity": 54.12,
+  "velocity": 54.38,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 162.36
+  "score": 163.14
  },
  {
   "source": "github",
@@ -266,6 +266,33 @@
   "score": 19.65
  },
  {
+  "source": "github",
+  "title": "UpstandPlatform/OpenRive",
+  "url": "https://github.com/UpstandPlatform/OpenRive",
+  "desc": "Build inetractive UIs, motion, and game experiences in the OpenRive Editor, or let an AI agent generate them through the CLI, Your creations run natively across mobile, desktop, web, consoles, TVs, and vehicles",
+  "lang": "TypeScript",
+  "topics": [
+   "ai",
+   "android",
+   "animation",
+   "editor",
+   "flutter",
+   "llm",
+   "mcp",
+   "openrive",
+   "opensource",
+   "rive",
+   "web"
+  ],
+  "stars": 38,
+  "forks": 2,
+  "age_days": 26,
+  "velocity": 1.46,
+  "created": "2026-09-22",
+  "relevance": 11.5,
+  "score": 16.79
+ },
+ {
   "source": "Unity Blog",
   "title": "Echo Weaver: Building a time-loop metroidbrainia in Unity 6",
   "url": "https://unity.com/blog/echo-weaver-time-loop-unity",
@@ -309,33 +336,6 @@
   "created": "Wed, 14 Oct 2026",
   "relevance": 5.5,
   "score": 16.5
- },
- {
-  "source": "github",
-  "title": "UpstandPlatform/OpenRive",
-  "url": "https://github.com/UpstandPlatform/OpenRive",
-  "desc": "Build inetractive UIs, motion, and game experiences in the OpenRive Editor, or let an AI agent generate them through the CLI, Your creations run natively across mobile, desktop, web, consoles, TVs, and vehicles",
-  "lang": "TypeScript",
-  "topics": [
-   "ai",
-   "android",
-   "animation",
-   "editor",
-   "flutter",
-   "llm",
-   "mcp",
-   "openrive",
-   "opensource",
-   "rive",
-   "web"
-  ],
-  "stars": 37,
-  "forks": 2,
-  "age_days": 26,
-  "velocity": 1.42,
-  "created": "2026-09-22",
-  "relevance": 11.5,
-  "score": 16.33
  },
  {
   "source": "Unity Blog",
