@@ -1,20 +1,20 @@
 # 游戏开发技术雷达 · 2026-10-20
 
-> 自动生成于 2026-10-20 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-10-20 13:17 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 986.65 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 592★ / 3天 | Co-op Anything: point your AI agent at any single-player gam |
-| 2 | 631.4 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 287★ / 5天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
-| 3 | 399.4 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 1997★ / 5天 | A free, open source C# framework for making games, or your o |
-| 4 | 248.88 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 181★ / 4天 | Make any NPC in any game talk back with Fish Audio: skills,  |
+| 1 | 996.65 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 598★ / 3天 | Co-op Anything: point your AI agent at any single-player gam |
+| 2 | 640.2 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 291★ / 5天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
+| 3 | 400.2 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 2001★ / 5天 | A free, open source C# framework for making games, or your o |
+| 4 | 250.25 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 182★ / 4天 | Make any NPC in any game talk back with Fish Audio: skills,  |
 | 5 | 150.99 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 453★ / 9天 | A Civilization-style strategy game about governing Israel fr |
 | 6 | 55.37 | [WouterApts/openik-unity](https://github.com/WouterApts/openik-unity) | github | 87★ / 11天 | Inverse Kinematics package for Unity, featuring multiple sol |
 | 7 | 49.5 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 198★ / 18天 | Godot Tool to create procedural pixel creatures |
 | 8 | 31.79 | [kanaworksai-hue/effekseer-vfx-skill](https://github.com/kanaworksai-hue/effekseer-vfx-skill) | github | 52★ / 9天 | Agent skills that make real-time game VFX as code for Effeks |
 | 9 | 29.32 | [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | github | 110★ / 15天 | Ninja Ripper 2.10 Beta, free version for testing. |
 | 10 | 28.44 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 166★ / 35天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 11 | 25.8 | [JoppieToppie/Galaxy-on-Fire-2-Unity-Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | github | 172★ / 20天 | A Galaxy on Fire 2 Decomp and Unity Remake |
+| 11 | 26.1 | [JoppieToppie/Galaxy-on-Fire-2-Unity-Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | github | 174★ / 20天 | A Galaxy on Fire 2 Decomp and Unity Remake |
 | 12 | 21.0 | [Scaling Scritchy Scratchy across platforms](https://unity.com/blog/scaling-scritchy-scratchy-across-platforms) | Unity Blog | 官方发布 | Learn how Scritchy Scratchy used Unity to port the game acro |
 | 13 | 18.24 | [zhanglinshuia-code/ZRList](https://github.com/zhanglinshuia-code/ZRList) | github | 73★ / 12天 | Unity uGUI virtualized list and grid components with dynamic |
 | 14 | 16.56 | [UpstandPlatform/OpenRive](https://github.com/UpstandPlatform/OpenRive) | github | 39★ / 27天 | Build inetractive UIs, motion, and game experiences in the O |

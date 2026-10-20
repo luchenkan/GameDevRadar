@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "C",
   "topics": [],
-  "stars": 592,
-  "forks": 58,
+  "stars": 598,
+  "forks": 59,
   "age_days": 3,
-  "velocity": 197.33,
+  "velocity": 199.33,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 986.65
+  "score": 996.65
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 287,
+  "stars": 291,
   "forks": 32,
   "age_days": 5,
-  "velocity": 57.4,
+  "velocity": 58.2,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 631.4
+  "score": 640.2
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 1997,
-  "forks": 110,
+  "stars": 2001,
+  "forks": 112,
   "age_days": 5,
-  "velocity": 399.4,
+  "velocity": 400.2,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 399.4
+  "score": 400.2
  },
  {
   "source": "github",
@@ -86,13 +86,13 @@
    "text-to-speech",
    "voice-cloning"
   ],
-  "stars": 181,
+  "stars": 182,
   "forks": 13,
   "age_days": 4,
-  "velocity": 45.25,
+  "velocity": 45.5,
   "created": "2026-10-15",
   "relevance": 5.5,
-  "score": 248.88
+  "score": 250.25
  },
  {
   "source": "github",
@@ -227,13 +227,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 172,
+  "stars": 174,
   "forks": 17,
   "age_days": 20,
-  "velocity": 8.6,
+  "velocity": 8.7,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 25.8
+  "score": 26.1
  },
  {
   "source": "Unity Blog",
@@ -574,13 +574,13 @@
   "desc": "Yet Another Unity UI: a fast, Flexbox-based UI system on GameObjects.",
   "lang": "C#",
   "topics": [],
-  "stars": 90,
+  "stars": 91,
   "forks": 4,
   "age_days": 24,
-  "velocity": 3.75,
+  "velocity": 3.79,
   "created": "2026-09-25",
   "relevance": 3.0,
-  "score": 11.25
+  "score": 11.37
  },
  {
   "source": "Unity Blog",
