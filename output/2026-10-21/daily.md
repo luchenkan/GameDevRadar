@@ -1,14 +1,14 @@
 # 游戏开发技术雷达 · 2026-10-21
 
-> 自动生成于 2026-10-21 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-10-21 13:19 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 892.5 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 714★ / 4天 | Co-op Anything: point your AI agent at any single-player gam |
-| 2 | 594.0 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 324★ / 6天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
-| 3 | 343.5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 2061★ / 6天 | A free, open source C# framework for making games, or your o |
+| 1 | 903.75 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 723★ / 4天 | Co-op Anything: point your AI agent at any single-player gam |
+| 2 | 599.5 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 327★ / 6天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
+| 3 | 344.83 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 2069★ / 6天 | A free, open source C# framework for making games, or your o |
 | 4 | 204.6 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 186★ / 5天 | Make any NPC in any game talk back with Fish Audio: skills,  |
-| 5 | 190.5 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 635★ / 10天 | A Civilization-style strategy game about governing Israel fr |
+| 5 | 192.0 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 640★ / 10天 | A Civilization-style strategy game about governing Israel fr |
 | 6 | 50.75 | [WouterApts/openik-unity](https://github.com/WouterApts/openik-unity) | github | 87★ / 12天 | Inverse Kinematics package for Unity, featuring multiple sol |
 | 7 | 47.12 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 199★ / 19天 | Godot Tool to create procedural pixel creatures |
 | 8 | 29.15 | [kanaworksai-hue/effekseer-vfx-skill](https://github.com/kanaworksai-hue/effekseer-vfx-skill) | github | 53★ / 10天 | Agent skills that make real-time game VFX as code for Effeks |

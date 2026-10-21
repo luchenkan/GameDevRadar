@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 714,
-  "forks": 89,
+  "stars": 723,
+  "forks": 90,
   "age_days": 4,
-  "velocity": 178.5,
+  "velocity": 180.75,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 892.5
+  "score": 903.75
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 324,
+  "stars": 327,
   "forks": 33,
   "age_days": 6,
-  "velocity": 54.0,
+  "velocity": 54.5,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 594.0
+  "score": 599.5
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2061,
+  "stars": 2069,
   "forks": 116,
   "age_days": 6,
-  "velocity": 343.5,
+  "velocity": 344.83,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 343.5
+  "score": 344.83
  },
  {
   "source": "github",
@@ -113,13 +113,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 635,
+  "stars": 640,
   "forks": 18,
   "age_days": 10,
-  "velocity": 63.5,
+  "velocity": 64.0,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 190.5
+  "score": 192.0
  },
  {
   "source": "github",
@@ -228,7 +228,7 @@
   "lang": "C",
   "topics": [],
   "stars": 178,
-  "forks": 17,
+  "forks": 18,
   "age_days": 21,
   "velocity": 8.48,
   "created": "2026-09-29",
@@ -560,7 +560,7 @@
    "unity"
   ],
   "stars": 113,
-  "forks": 8,
+  "forks": 9,
   "age_days": 30,
   "velocity": 3.77,
   "created": "2026-09-20",
