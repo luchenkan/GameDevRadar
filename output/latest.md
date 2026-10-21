@@ -1,23 +1,23 @@
-# 游戏开发技术雷达 · 2026-10-20
+# 游戏开发技术雷达 · 2026-10-21
 
-> 自动生成于 2026-10-20 13:17 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-10-21 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 996.65 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 598★ / 3天 | Co-op Anything: point your AI agent at any single-player gam |
-| 2 | 640.2 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 291★ / 5天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
-| 3 | 400.2 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 2001★ / 5天 | A free, open source C# framework for making games, or your o |
-| 4 | 250.25 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 182★ / 4天 | Make any NPC in any game talk back with Fish Audio: skills,  |
-| 5 | 150.99 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 453★ / 9天 | A Civilization-style strategy game about governing Israel fr |
-| 6 | 55.37 | [WouterApts/openik-unity](https://github.com/WouterApts/openik-unity) | github | 87★ / 11天 | Inverse Kinematics package for Unity, featuring multiple sol |
-| 7 | 49.5 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 198★ / 18天 | Godot Tool to create procedural pixel creatures |
-| 8 | 31.79 | [kanaworksai-hue/effekseer-vfx-skill](https://github.com/kanaworksai-hue/effekseer-vfx-skill) | github | 52★ / 9天 | Agent skills that make real-time game VFX as code for Effeks |
-| 9 | 29.32 | [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | github | 110★ / 15天 | Ninja Ripper 2.10 Beta, free version for testing. |
-| 10 | 28.44 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 166★ / 35天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
-| 11 | 26.1 | [JoppieToppie/Galaxy-on-Fire-2-Unity-Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | github | 174★ / 20天 | A Galaxy on Fire 2 Decomp and Unity Remake |
+| 1 | 892.5 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 714★ / 4天 | Co-op Anything: point your AI agent at any single-player gam |
+| 2 | 594.0 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 324★ / 6天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
+| 3 | 343.5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 2061★ / 6天 | A free, open source C# framework for making games, or your o |
+| 4 | 204.6 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 186★ / 5天 | Make any NPC in any game talk back with Fish Audio: skills,  |
+| 5 | 190.5 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 635★ / 10天 | A Civilization-style strategy game about governing Israel fr |
+| 6 | 50.75 | [WouterApts/openik-unity](https://github.com/WouterApts/openik-unity) | github | 87★ / 12天 | Inverse Kinematics package for Unity, featuring multiple sol |
+| 7 | 47.12 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | github | 199★ / 19天 | Godot Tool to create procedural pixel creatures |
+| 8 | 29.15 | [kanaworksai-hue/effekseer-vfx-skill](https://github.com/kanaworksai-hue/effekseer-vfx-skill) | github | 53★ / 10天 | Agent skills that make real-time game VFX as code for Effeks |
+| 9 | 27.66 | [TheGreatSimon/AnvilCSG](https://github.com/TheGreatSimon/AnvilCSG) | github | 166★ / 36天 | Anvil CSG Beta 2: a free legacy preview of brush-based level |
+| 10 | 27.52 | [thienbao1233/ninja-ripper-2.10](https://github.com/thienbao1233/ninja-ripper-2.10) | github | 110★ / 16天 | Ninja Ripper 2.10 Beta, free version for testing. |
+| 11 | 25.44 | [JoppieToppie/Galaxy-on-Fire-2-Unity-Remake](https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake) | github | 178★ / 21天 | A Galaxy on Fire 2 Decomp and Unity Remake |
 | 12 | 21.0 | [Scaling Scritchy Scratchy across platforms](https://unity.com/blog/scaling-scritchy-scratchy-across-platforms) | Unity Blog | 官方发布 | Learn how Scritchy Scratchy used Unity to port the game acro |
-| 13 | 18.24 | [zhanglinshuia-code/ZRList](https://github.com/zhanglinshuia-code/ZRList) | github | 73★ / 12天 | Unity uGUI virtualized list and grid components with dynamic |
-| 14 | 16.56 | [UpstandPlatform/OpenRive](https://github.com/UpstandPlatform/OpenRive) | github | 39★ / 27天 | Build inetractive UIs, motion, and game experiences in the O |
+| 13 | 17.25 | [UpstandPlatform/OpenRive](https://github.com/UpstandPlatform/OpenRive) | github | 42★ / 28天 | Build inetractive UIs, motion, and game experiences in the O |
+| 14 | 16.86 | [zhanglinshuia-code/ZRList](https://github.com/zhanglinshuia-code/ZRList) | github | 73★ / 13天 | Unity uGUI virtualized list and grid components with dynamic |
 | 15 | 16.5 | [Echo Weaver: Building a time-loop metroidbrainia in Unity 6](https://unity.com/blog/echo-weaver-time-loop-unity) | Unity Blog | 官方发布 | Moonlight Kids explain how they built time-loop metroidbrain |
 | 16 | 16.5 | [How to reimagine a classic sports game for a new generation with level design, worldbuilding, and VFX](https://unity.com/blog/reimagining-backyard-baseball-3d-level-design-and-environment-art) | Unity Blog | 官方发布 | Learn how Mega Cat Studios used Unity, readable level design |
 | 17 | 16.5 | [Playgama launches tools for AI agents to publish and improve games](https://www.pocketgamer.biz/playgama-launches-tools-for-ai-agents-to-publish-and-improve-games/) | PocketGamer.biz | 官方发布 | Playgama has launched a suite of tools that lets AI agents p |
