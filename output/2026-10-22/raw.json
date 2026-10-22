@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 796,
-  "forks": 100,
+  "stars": 803,
+  "forks": 101,
   "age_days": 5,
-  "velocity": 159.2,
+  "velocity": 160.6,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 796.0
+  "score": 803.0
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 341,
-  "forks": 34,
+  "stars": 352,
+  "forks": 35,
   "age_days": 7,
-  "velocity": 48.71,
+  "velocity": 50.29,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 535.81
+  "score": 553.19
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2125,
+  "stars": 2127,
   "forks": 121,
   "age_days": 7,
-  "velocity": 303.57,
+  "velocity": 303.86,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 303.57
+  "score": 303.86
  },
  {
   "source": "github",
@@ -88,13 +88,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 651,
+  "stars": 653,
   "forks": 19,
   "age_days": 11,
-  "velocity": 59.18,
+  "velocity": 59.36,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 177.54
+  "score": 178.08
  },
  {
   "source": "github",
@@ -113,13 +113,13 @@
    "text-to-speech",
    "voice-cloning"
   ],
-  "stars": 190,
+  "stars": 191,
   "forks": 16,
   "age_days": 6,
-  "velocity": 31.67,
+  "velocity": 31.83,
   "created": "2026-10-15",
   "relevance": 5.5,
-  "score": 174.19
+  "score": 175.06
  },
  {
   "source": "github",
@@ -211,7 +211,7 @@
    "unity3d"
   ],
   "stars": 166,
-  "forks": 2,
+  "forks": 1,
   "age_days": 37,
   "velocity": 4.49,
   "created": "2026-09-14",
@@ -272,6 +272,21 @@
   "score": 24.42
  },
  {
+  "source": "github",
+  "title": "excifroge/VFX-Essential-Shader",
+  "url": "https://github.com/excifroge/VFX-Essential-Shader",
+  "desc": "VFX Essential Shader: an all-in-one VFX shader for Unity URP with a custom material inspector",
+  "lang": "C#",
+  "topics": [],
+  "stars": 36,
+  "forks": 2,
+  "age_days": 15,
+  "velocity": 2.4,
+  "created": "2026-10-06",
+  "relevance": 9.0,
+  "score": 21.6
+ },
+ {
   "source": "Unity Blog",
   "title": "Scaling Scritchy Scratchy across platforms",
   "url": "https://unity.com/blog/scaling-scritchy-scratchy-across-platforms",
@@ -285,21 +300,6 @@
   "created": "Mon, 28 Sep 2026",
   "relevance": 7.0,
   "score": 21.0
- },
- {
-  "source": "github",
-  "title": "excifroge/VFX-Essential-Shader",
-  "url": "https://github.com/excifroge/VFX-Essential-Shader",
-  "desc": "VFX Essential Shader: an all-in-one VFX shader for Unity URP with a custom material inspector",
-  "lang": "C#",
-  "topics": [],
-  "stars": 32,
-  "forks": 2,
-  "age_days": 15,
-  "velocity": 2.13,
-  "created": "2026-10-06",
-  "relevance": 9.0,
-  "score": 19.17
  },
  {
   "source": "github",
