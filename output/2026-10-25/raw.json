@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1163,
-  "forks": 157,
+  "stars": 1204,
+  "forks": 159,
   "age_days": 8,
-  "velocity": 145.38,
+  "velocity": 150.5,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 726.9
+  "score": 752.5
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 469,
-  "forks": 43,
+  "stars": 475,
+  "forks": 44,
   "age_days": 10,
-  "velocity": 46.9,
+  "velocity": 47.5,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 515.9
+  "score": 522.5
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2214,
+  "stars": 2215,
   "forks": 129,
   "age_days": 10,
-  "velocity": 221.4,
+  "velocity": 221.5,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 221.4
+  "score": 221.5
  },
  {
   "source": "github",

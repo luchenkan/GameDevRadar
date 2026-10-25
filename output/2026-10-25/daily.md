@@ -1,12 +1,12 @@
 # 游戏开发技术雷达 · 2026-10-25
 
-> 自动生成于 2026-10-25 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-10-25 13:18 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 726.9 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 1163★ / 8天 | Co-op Anything: point your AI agent at any single-player gam |
-| 2 | 515.9 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 469★ / 10天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
-| 3 | 221.4 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 2214★ / 10天 | A free, open source C# framework for making games, or your o |
+| 1 | 752.5 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 1204★ / 8天 | Co-op Anything: point your AI agent at any single-player gam |
+| 2 | 522.5 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 475★ / 10天 | Professional Blender 5.2 workflows as Agent Skills for Claud |
+| 3 | 221.5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 2215★ / 10天 | A free, open source C# framework for making games, or your o |
 | 4 | 142.29 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 664★ / 14天 | A Civilization-style strategy game about governing Israel fr |
 | 5 | 127.1 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 208★ / 9天 | Make any NPC in any game talk back with Fish Audio: skills,  |
 | 6 | 97.5 | [wnsrn3436/open-game-works-core](https://github.com/wnsrn3436/open-game-works-core) | github | 13★ / 1天 | Harness that lets AI agents make server-client games of comm |
