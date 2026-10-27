@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1446,
-  "forks": 186,
+  "stars": 1453,
+  "forks": 187,
   "age_days": 10,
-  "velocity": 144.6,
+  "velocity": 145.3,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 723.0
+  "score": 726.5
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 530,
+  "stars": 532,
   "forks": 45,
   "age_days": 12,
-  "velocity": 44.17,
+  "velocity": 44.33,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 485.87
+  "score": 487.63
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2253,
+  "stars": 2255,
   "forks": 132,
   "age_days": 12,
-  "velocity": 187.75,
+  "velocity": 187.92,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 187.75
+  "score": 187.92
  },
  {
   "source": "github",
@@ -194,13 +194,13 @@
    "open-game-works",
    "typescript"
   ],
-  "stars": 17,
+  "stars": 19,
   "forks": 1,
   "age_days": 3,
-  "velocity": 5.67,
+  "velocity": 6.33,
   "created": "2026-10-23",
   "relevance": 7.5,
-  "score": 42.52
+  "score": 47.48
  },
  {
   "source": "github",
@@ -304,13 +304,13 @@
    "skeletal-animation",
    "tauri"
   ],
-  "stars": 51,
+  "stars": 52,
   "forks": 7,
   "age_days": 13,
-  "velocity": 3.92,
+  "velocity": 4.0,
   "created": "2026-10-13",
   "relevance": 6.5,
-  "score": 25.48
+  "score": 26.0
  },
  {
   "source": "github",
@@ -319,13 +319,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 210,
-  "forks": 21,
+  "stars": 212,
+  "forks": 22,
   "age_days": 27,
-  "velocity": 7.78,
+  "velocity": 7.85,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 23.34
+  "score": 23.55
  },
  {
   "source": "github",
@@ -414,13 +414,45 @@
    "rive",
    "web"
   ],
-  "stars": 51,
+  "stars": 52,
   "forks": 5,
   "age_days": 34,
-  "velocity": 1.5,
+  "velocity": 1.53,
   "created": "2026-09-22",
   "relevance": 11.5,
-  "score": 17.25
+  "score": 17.59
+ },
+ {
+  "source": "github",
+  "title": "Cynthia-wlan9509/offline-game-revival",
+  "url": "https://github.com/Cynthia-wlan9509/offline-game-revival",
+  "desc": "🎮 AI agent skill that revives shut-down mobile games as fully offline memorial builds — plus a zero-token pipeline that rescues lost game data from screenshots & screen recordings. 停服手游离线化 · 录屏抽帧OCR",
+  "lang": "Python",
+  "topics": [
+   "agent-skills",
+   "android",
+   "apk",
+   "claude-code",
+   "claude-code-plugin",
+   "claude-skills",
+   "emulation-alternative",
+   "game-preservation",
+   "keyframe-extraction",
+   "layaair",
+   "lua",
+   "mobile-games",
+   "ocr",
+   "offline-mode",
+   "screen-recording",
+   "unity"
+  ],
+  "stars": 15,
+  "forks": 6,
+  "age_days": 8,
+  "velocity": 1.88,
+  "created": "2026-10-19",
+  "relevance": 9.0,
+  "score": 16.92
  },
  {
   "source": "Unity Blog",
@@ -451,38 +483,6 @@
   "created": "Tue, 28 Jul 2026",
   "relevance": 5.5,
   "score": 16.5
- },
- {
-  "source": "github",
-  "title": "Cynthia-wlan9509/offline-game-revival",
-  "url": "https://github.com/Cynthia-wlan9509/offline-game-revival",
-  "desc": "🎮 AI agent skill that revives shut-down mobile games as fully offline memorial builds — plus a zero-token pipeline that rescues lost game data from screenshots & screen recordings. 停服手游离线化 · 录屏抽帧OCR",
-  "lang": "Python",
-  "topics": [
-   "agent-skills",
-   "android",
-   "apk",
-   "claude-code",
-   "claude-code-plugin",
-   "claude-skills",
-   "emulation-alternative",
-   "game-preservation",
-   "keyframe-extraction",
-   "layaair",
-   "lua",
-   "mobile-games",
-   "ocr",
-   "offline-mode",
-   "screen-recording",
-   "unity"
-  ],
-  "stars": 14,
-  "forks": 5,
-  "age_days": 8,
-  "velocity": 1.75,
-  "created": "2026-10-19",
-  "relevance": 9.0,
-  "score": 15.75
  },
  {
   "source": "github",
