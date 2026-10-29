@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1548,
-  "forks": 207,
+  "stars": 1554,
+  "forks": 210,
   "age_days": 12,
-  "velocity": 129.0,
+  "velocity": 129.5,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 645.0
+  "score": 647.5
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 571,
+  "stars": 572,
   "forks": 48,
   "age_days": 14,
-  "velocity": 40.79,
+  "velocity": 40.86,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 448.69
+  "score": 449.46
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2275,
+  "stars": 2276,
   "forks": 137,
   "age_days": 14,
-  "velocity": 162.5,
+  "velocity": 162.57,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 162.5
+  "score": 162.57
  },
  {
   "source": "github",
@@ -319,13 +319,28 @@
    "skeletal-animation",
    "tauri"
   ],
-  "stars": 68,
+  "stars": 69,
   "forks": 11,
   "age_days": 15,
-  "velocity": 4.53,
+  "velocity": 4.6,
   "created": "2026-10-13",
   "relevance": 6.5,
-  "score": 29.45
+  "score": 29.9
+ },
+ {
+  "source": "github",
+  "title": "kanaworksai-hue/effekseer-vfx-skill",
+  "url": "https://github.com/kanaworksai-hue/effekseer-vfx-skill",
+  "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
+  "lang": "Python",
+  "topics": [],
+  "stars": 54,
+  "forks": 5,
+  "age_days": 18,
+  "velocity": 3.0,
+  "created": "2026-10-10",
+  "relevance": 9.5,
+  "score": 28.5
  },
  {
   "source": "github",
@@ -335,7 +350,7 @@
   "lang": "GDScript",
   "topics": [],
   "stars": 47,
-  "forks": 13,
+  "forks": 14,
   "age_days": 7,
   "velocity": 6.71,
   "created": "2026-10-21",
@@ -366,13 +381,13 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 28,
-  "forks": 11,
+  "stars": 29,
+  "forks": 12,
   "age_days": 10,
-  "velocity": 2.8,
+  "velocity": 2.9,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 25.2
+  "score": 26.1
  },
  {
   "source": "github",
@@ -396,13 +411,13 @@
   "desc": "il2cpp Dump 翻译工作台 - Unity il2cpp 游戏逆向辅助工具",
   "lang": "Python",
   "topics": [],
-  "stars": 57,
+  "stars": 58,
   "forks": 18,
   "age_days": 9,
-  "velocity": 6.33,
+  "velocity": 6.44,
   "created": "2026-10-19",
   "relevance": 3.5,
-  "score": 22.16
+  "score": 22.54
  },
  {
   "source": "Unity Blog",
@@ -460,21 +475,6 @@
   "created": "2026-10-06",
   "relevance": 9.0,
   "score": 18.45
- },
- {
-  "source": "github",
-  "title": "kanaworksai-hue/effekseer-vfx-skill",
-  "url": "https://github.com/kanaworksai-hue/effekseer-vfx-skill",
-  "desc": "Agent skills that make real-time game VFX as code for Effekseer and verify them in real Godot renders (Claude Code, Codex and other Agent Skills hosts).",
-  "lang": "Python",
-  "topics": [],
-  "stars": 54,
-  "forks": 5,
-  "age_days": 18,
-  "velocity": 3.0,
-  "created": "2026-10-10",
-  "relevance": 5.5,
-  "score": 16.5
  },
  {
   "source": "Unity Blog",
