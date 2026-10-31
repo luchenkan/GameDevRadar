@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1654,
+  "stars": 1665,
   "forks": 231,
   "age_days": 14,
-  "velocity": 118.14,
+  "velocity": 118.93,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 590.7
+  "score": 594.65
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 605,
-  "forks": 52,
+  "stars": 607,
+  "forks": 55,
   "age_days": 16,
-  "velocity": 37.81,
+  "velocity": 37.94,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 415.91
+  "score": 417.34
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2312,
-  "forks": 141,
+  "stars": 2313,
+  "forks": 142,
   "age_days": 16,
-  "velocity": 144.5,
+  "velocity": 144.56,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 144.5
+  "score": 144.56
  },
  {
   "source": "github",
@@ -88,13 +88,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 677,
+  "stars": 678,
   "forks": 22,
   "age_days": 20,
-  "velocity": 33.85,
+  "velocity": 33.9,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 101.55
+  "score": 101.7
  },
  {
   "source": "github",
@@ -117,13 +117,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 75,
+  "stars": 76,
   "forks": 5,
   "age_days": 9,
-  "velocity": 8.33,
+  "velocity": 8.44,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 91.63
+  "score": 92.84
  },
  {
   "source": "github",
@@ -149,29 +149,6 @@
   "created": "2026-10-15",
   "relevance": 5.5,
   "score": 78.1
- },
- {
-  "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 55,
-  "forks": 15,
-  "age_days": 4,
-  "velocity": 13.75,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 75.62
  },
  {
   "source": "github",
@@ -206,18 +183,26 @@
  },
  {
   "source": "github",
-  "title": "zoran123456/lola-retro",
-  "url": "https://github.com/zoran123456/lola-retro",
-  "desc": "CRT shader for retroarch, unity, kodi, amiberry and 86box",
-  "lang": "GLSL",
-  "topics": [],
-  "stars": 142,
-  "forks": 5,
-  "age_days": 16,
-  "velocity": 8.88,
-  "created": "2026-10-14",
-  "relevance": 5.0,
-  "score": 44.4
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 55,
+  "forks": 15,
+  "age_days": 5,
+  "velocity": 11.0,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 60.5
  },
  {
   "source": "github",
@@ -247,13 +232,28 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 87,
+  "stars": 90,
   "forks": 11,
   "age_days": 17,
-  "velocity": 5.12,
+  "velocity": 5.29,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 43.52
+  "score": 44.97
+ },
+ {
+  "source": "github",
+  "title": "zoran123456/lola-retro",
+  "url": "https://github.com/zoran123456/lola-retro",
+  "desc": "CRT shader for retroarch, unity, kodi, amiberry and 86box",
+  "lang": "GLSL",
+  "topics": [],
+  "stars": 142,
+  "forks": 5,
+  "age_days": 16,
+  "velocity": 8.88,
+  "created": "2026-10-14",
+  "relevance": 5.0,
+  "score": 44.4
  },
  {
   "source": "github",
@@ -404,6 +404,21 @@
  },
  {
   "source": "github",
+  "title": "Smidle/Jeff-FX-forge",
+  "url": "https://github.com/Smidle/Jeff-FX-forge",
+  "desc": "Jeff FX 1.0.1 — Godot 4.7 pixel VFX workshop. 82 presets, sprite-sheet export and scene placement.",
+  "lang": "GDScript",
+  "topics": [],
+  "stars": 53,
+  "forks": 14,
+  "age_days": 9,
+  "velocity": 5.89,
+  "created": "2026-10-21",
+  "relevance": 4.0,
+  "score": 23.56
+ },
+ {
+  "source": "github",
   "title": "wnsrn3436/open-game-works-core",
   "url": "https://github.com/wnsrn3436/open-game-works-core",
   "desc": "A harness that lets AI agents make server-client games of commercial quality on a prebuilt core",
@@ -425,21 +440,6 @@
   "created": "2026-10-23",
   "relevance": 7.5,
   "score": 23.55
- },
- {
-  "source": "github",
-  "title": "Smidle/Jeff-FX-forge",
-  "url": "https://github.com/Smidle/Jeff-FX-forge",
-  "desc": "Jeff FX 1.0.1 — Godot 4.7 pixel VFX workshop. 82 presets, sprite-sheet export and scene placement.",
-  "lang": "GDScript",
-  "topics": [],
-  "stars": 52,
-  "forks": 14,
-  "age_days": 9,
-  "velocity": 5.78,
-  "created": "2026-10-21",
-  "relevance": 4.0,
-  "score": 23.12
  },
  {
   "source": "github",
@@ -506,7 +506,7 @@
    "web"
   ],
   "stars": 61,
-  "forks": 6,
+  "forks": 7,
   "age_days": 38,
   "velocity": 1.61,
   "created": "2026-09-22",
@@ -542,6 +542,34 @@
   "created": "Thu, 08 Oct 2026",
   "relevance": 5.5,
   "score": 16.5
+ },
+ {
+  "source": "github",
+  "title": "LumioGames/LGUI",
+  "url": "https://github.com/LumioGames/LGUI",
+  "desc": "Game UI framework for AI agents, made by LumioGames. Build screens, logic and tests in the browser with no game engine, then export to Unity. 给 AI Agent 用的游戏 UI 框架，不依赖游戏引擎。",
+  "lang": "JavaScript",
+  "topics": [
+   "agent-plugins",
+   "ai-agents",
+   "claude-code",
+   "codex",
+   "fairygui",
+   "game-ui",
+   "gamedev",
+   "html5",
+   "puerts",
+   "typescript",
+   "ui-framework",
+   "unity"
+  ],
+  "stars": 25,
+  "forks": 3,
+  "age_days": 14,
+  "velocity": 1.79,
+  "created": "2026-10-16",
+  "relevance": 9.0,
+  "score": 16.11
  },
  {
   "source": "Unity Blog",
@@ -685,34 +713,6 @@
   "created": "Fri, 25 Sep 2026",
   "relevance": 4.0,
   "score": 12.0
- },
- {
-  "source": "github",
-  "title": "LumioGames/LGUI",
-  "url": "https://github.com/LumioGames/LGUI",
-  "desc": "Game UI framework for AI agents, made by LumioGames. Build screens, logic and tests in the browser with no game engine, then export to Unity. 给 AI Agent 用的游戏 UI 框架，不依赖游戏引擎。",
-  "lang": "JavaScript",
-  "topics": [
-   "agent-plugins",
-   "ai-agents",
-   "claude-code",
-   "codex",
-   "fairygui",
-   "game-ui",
-   "gamedev",
-   "html5",
-   "puerts",
-   "typescript",
-   "ui-framework",
-   "unity"
-  ],
-  "stars": 18,
-  "forks": 2,
-  "age_days": 14,
-  "velocity": 1.29,
-  "created": "2026-10-16",
-  "relevance": 9.0,
-  "score": 11.61
  },
  {
   "source": "Unity Blog",
