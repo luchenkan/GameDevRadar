@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1787,
+  "stars": 1790,
   "forks": 247,
   "age_days": 16,
-  "velocity": 111.69,
+  "velocity": 111.88,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 558.45
+  "score": 559.4
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 652,
+  "stars": 656,
   "forks": 65,
   "age_days": 18,
-  "velocity": 36.22,
+  "velocity": 36.44,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 398.42
+  "score": 400.84
  },
  {
   "source": "github",
@@ -72,13 +72,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 138,
-  "forks": 4,
+  "stars": 152,
+  "forks": 5,
   "age_days": 2,
-  "velocity": 69.0,
+  "velocity": 76.0,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 207.0
+  "score": 228.0
  },
  {
   "source": "github",
@@ -87,13 +87,13 @@
   "desc": "Google Cardboard with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 80,
-  "forks": 16,
+  "stars": 86,
+  "forks": 18,
   "age_days": 3,
-  "velocity": 26.67,
+  "velocity": 28.67,
   "created": "2026-10-29",
   "relevance": 5.0,
-  "score": 133.35
+  "score": 143.35
  },
  {
   "source": "github",
@@ -108,13 +108,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2335,
+  "stars": 2337,
   "forks": 145,
   "age_days": 18,
-  "velocity": 129.72,
+  "velocity": 129.83,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 129.72
+  "score": 129.83
  },
  {
   "source": "github",
@@ -136,7 +136,7 @@
    "zionism"
   ],
   "stars": 681,
-  "forks": 27,
+  "forks": 28,
   "age_days": 22,
   "velocity": 30.95,
   "created": "2026-10-10",
@@ -164,13 +164,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 77,
+  "stars": 78,
   "forks": 8,
   "age_days": 11,
-  "velocity": 7.0,
+  "velocity": 7.09,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 77.0
+  "score": 77.99
  },
  {
   "source": "github",
@@ -230,29 +230,6 @@
  },
  {
   "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 57,
-  "forks": 15,
-  "age_days": 6,
-  "velocity": 9.5,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 52.25
- },
- {
-  "source": "github",
   "title": "jaisurya-dev-art/rigby2d",
   "url": "https://github.com/jaisurya-dev-art/rigby2d",
   "desc": "Open-source 2D skeletal animation editor for games and film. AutoRig layered PSDs, animate with meshes, IK and physics, lip-sync from audio, render video, export JSON/.skel. JavaScript, Rust, Godot and Unity runtimes. Built-in MCP server for AI assistants. Docs: rigby2d.com/docs",
@@ -279,13 +256,36 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 109,
+  "stars": 110,
   "forks": 12,
   "age_days": 19,
-  "velocity": 5.74,
+  "velocity": 5.79,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 48.79
+  "score": 49.22
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 57,
+  "forks": 15,
+  "age_days": 7,
+  "velocity": 8.14,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 44.77
  },
  {
   "source": "github",
@@ -326,13 +326,13 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 58,
+  "stars": 59,
   "forks": 17,
   "age_days": 14,
-  "velocity": 4.14,
+  "velocity": 4.21,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 37.26
+  "score": 37.89
  },
  {
   "source": "github",
@@ -384,13 +384,13 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 49,
-  "forks": 6,
+  "stars": 56,
+  "forks": 7,
   "age_days": 16,
-  "velocity": 3.06,
+  "velocity": 3.5,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 27.54
+  "score": 31.5
  },
  {
   "source": "github",
@@ -443,13 +443,13 @@
    "procedural-animation",
    "unity"
   ],
-  "stars": 89,
+  "stars": 90,
   "forks": 5,
   "age_days": 24,
-  "velocity": 3.71,
+  "velocity": 3.75,
   "created": "2026-10-09",
   "relevance": 7.0,
-  "score": 25.97
+  "score": 26.25
  },
  {
   "source": "github",
@@ -469,13 +469,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 77,
+  "stars": 82,
   "forks": 4,
   "age_days": 17,
-  "velocity": 4.53,
+  "velocity": 4.82,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 22.65
+  "score": 24.1
  },
  {
   "source": "github",
@@ -485,7 +485,7 @@
   "lang": "C",
   "topics": [],
   "stars": 239,
-  "forks": 25,
+  "forks": 26,
   "age_days": 33,
   "velocity": 7.24,
   "created": "2026-09-29",
