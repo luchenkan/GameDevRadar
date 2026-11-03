@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1823,
+  "stars": 1830,
   "forks": 251,
   "age_days": 17,
-  "velocity": 107.24,
+  "velocity": 107.65,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 536.2
+  "score": 538.25
  },
  {
   "source": "github",
@@ -72,13 +72,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 193,
+  "stars": 205,
   "forks": 7,
   "age_days": 3,
-  "velocity": 64.33,
+  "velocity": 68.33,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 192.99
+  "score": 204.99
  },
  {
   "source": "github",
@@ -87,13 +87,13 @@
   "desc": "Google Cardboard with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 130,
-  "forks": 30,
+  "stars": 136,
+  "forks": 32,
   "age_days": 4,
-  "velocity": 32.5,
+  "velocity": 34.0,
   "created": "2026-10-29",
   "relevance": 5.0,
-  "score": 162.5
+  "score": 170.0
  },
  {
   "source": "github",
@@ -108,13 +108,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2349,
+  "stars": 2351,
   "forks": 145,
   "age_days": 19,
-  "velocity": 123.63,
+  "velocity": 123.74,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 123.63
+  "score": 123.74
  },
  {
   "source": "github",
@@ -164,13 +164,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 79,
+  "stars": 80,
   "forks": 8,
   "age_days": 12,
-  "velocity": 6.58,
+  "velocity": 6.67,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 72.38
+  "score": 73.37
  },
  {
   "source": "github",
@@ -220,13 +220,13 @@
    "unity",
    "unreal"
   ],
-  "stars": 67,
-  "forks": 0,
+  "stars": 68,
+  "forks": 1,
   "age_days": 11,
-  "velocity": 6.09,
+  "velocity": 6.18,
   "created": "2026-10-22",
   "relevance": 9.0,
-  "score": 54.81
+  "score": 55.62
  },
  {
   "source": "github",
@@ -256,36 +256,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 121,
+  "stars": 122,
   "forks": 13,
   "age_days": 20,
-  "velocity": 6.05,
+  "velocity": 6.1,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 51.42
- },
- {
-  "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 57,
-  "forks": 15,
-  "age_days": 7,
-  "velocity": 8.14,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 44.77
+  "score": 51.85
  },
  {
   "source": "github",
@@ -307,13 +284,36 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 79,
-  "forks": 10,
+  "stars": 86,
+  "forks": 11,
   "age_days": 17,
-  "velocity": 4.65,
+  "velocity": 5.06,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 41.85
+  "score": 45.54
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 58,
+  "forks": 15,
+  "age_days": 8,
+  "velocity": 7.25,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 39.88
  },
  {
   "source": "github",
@@ -322,13 +322,13 @@
   "desc": "CRT shader for retroarch, unity, kodi, amiberry and 86box",
   "lang": "GLSL",
   "topics": [],
-  "stars": 150,
+  "stars": 151,
   "forks": 5,
   "age_days": 19,
-  "velocity": 7.89,
+  "velocity": 7.95,
   "created": "2026-10-14",
   "relevance": 5.0,
-  "score": 39.45
+  "score": 39.75
  },
  {
   "source": "github",
@@ -394,6 +394,32 @@
  },
  {
   "source": "github",
+  "title": "tigin-backwards/oni-moono",
+  "url": "https://github.com/tigin-backwards/oni-moono",
+  "desc": "Oxygen Not Included's Unity layer on the BRUTAL framework, .NET 10 CoreCLR. On a late-game colony the game runs at about 8× the original's frame rate",
+  "lang": "C#",
+  "topics": [
+   "brutal",
+   "coreclr",
+   "dotnet",
+   "game-engine",
+   "harmony",
+   "klei",
+   "modding",
+   "oni",
+   "oxygen-not-included",
+   "performance"
+  ],
+  "stars": 94,
+  "forks": 4,
+  "age_days": 18,
+  "velocity": 5.22,
+  "created": "2026-10-16",
+  "relevance": 5.0,
+  "score": 26.1
+ },
+ {
+  "source": "github",
   "title": "WouterApts/openik-unity",
   "url": "https://github.com/WouterApts/openik-unity",
   "desc": "Inverse Kinematics package for Unity, featuring multiple solvers, joint limits and procedural animation samples.",
@@ -414,32 +440,6 @@
   "created": "2026-10-09",
   "relevance": 7.0,
   "score": 25.76
- },
- {
-  "source": "github",
-  "title": "tigin-backwards/oni-moono",
-  "url": "https://github.com/tigin-backwards/oni-moono",
-  "desc": "Oxygen Not Included's Unity layer on the BRUTAL framework, .NET 10 CoreCLR. On a late-game colony the game runs at about 8× the original's frame rate",
-  "lang": "C#",
-  "topics": [
-   "brutal",
-   "coreclr",
-   "dotnet",
-   "game-engine",
-   "harmony",
-   "klei",
-   "modding",
-   "oni",
-   "oxygen-not-included",
-   "performance"
-  ],
-  "stars": 90,
-  "forks": 4,
-  "age_days": 18,
-  "velocity": 5.0,
-  "created": "2026-10-16",
-  "relevance": 5.0,
-  "score": 25.0
  },
  {
   "source": "github",
@@ -478,13 +478,13 @@
   "desc": "Jeff FX 1.0.1 — Godot 4.7 pixel VFX workshop. 82 presets, sprite-sheet export and scene placement.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 57,
+  "stars": 58,
   "forks": 15,
   "age_days": 12,
-  "velocity": 4.75,
+  "velocity": 4.83,
   "created": "2026-10-21",
   "relevance": 4.0,
-  "score": 19.0
+  "score": 19.32
  },
  {
   "source": "github",
@@ -555,13 +555,13 @@
    "open-game-works",
    "typescript"
   ],
-  "stars": 22,
+  "stars": 23,
   "forks": 1,
   "age_days": 10,
-  "velocity": 2.2,
+  "velocity": 2.3,
   "created": "2026-10-23",
   "relevance": 7.5,
-  "score": 16.5
+  "score": 17.25
  },
  {
   "source": "Unity Blog",
@@ -730,13 +730,13 @@
    "godot-engine",
    "stm32"
   ],
-  "stars": 68,
+  "stars": 72,
   "forks": 4,
   "age_days": 8,
-  "velocity": 8.5,
+  "velocity": 9.0,
   "created": "2026-10-25",
   "relevance": 1.5,
-  "score": 12.75
+  "score": 13.5
  },
  {
   "source": "Unity Blog",
