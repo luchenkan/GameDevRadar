@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1863,
+  "stars": 1866,
   "forks": 257,
   "age_days": 18,
-  "velocity": 103.5,
+  "velocity": 103.67,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 517.5
+  "score": 518.35
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 694,
+  "stars": 695,
   "forks": 69,
   "age_days": 20,
-  "velocity": 34.7,
+  "velocity": 34.75,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 381.7
+  "score": 382.25
  },
  {
   "source": "github",
@@ -67,13 +67,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 789,
-  "forks": 96,
+  "stars": 791,
+  "forks": 97,
   "age_days": 32,
-  "velocity": 24.66,
+  "velocity": 24.72,
   "created": "2026-10-02",
   "relevance": 10.0,
-  "score": 246.6
+  "score": 247.2
  },
  {
   "source": "github",
@@ -99,13 +99,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 248,
-  "forks": 8,
+  "stars": 251,
+  "forks": 9,
   "age_days": 4,
-  "velocity": 62.0,
+  "velocity": 62.75,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 186.0
+  "score": 188.25
  },
  {
   "source": "github",
@@ -114,13 +114,13 @@
   "desc": "Google Cardboard with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 178,
-  "forks": 34,
+  "stars": 184,
+  "forks": 37,
   "age_days": 5,
-  "velocity": 35.6,
+  "velocity": 36.8,
   "created": "2026-10-29",
   "relevance": 5.0,
-  "score": 178.0
+  "score": 184.0
  },
  {
   "source": "github",
@@ -216,13 +216,13 @@
    "text-to-speech",
    "voice-cloning"
   ],
-  "stars": 216,
-  "forks": 19,
+  "stars": 217,
+  "forks": 20,
   "age_days": 19,
-  "velocity": 11.37,
+  "velocity": 11.42,
   "created": "2026-10-15",
   "relevance": 5.5,
-  "score": 62.53
+  "score": 62.81
  },
  {
   "source": "github",
@@ -266,10 +266,11 @@
    "ai",
    "animation",
    "animation-editor",
+   "cocos-creator",
+   "defold",
    "film",
    "game-development",
    "game-runtime",
-   "gamedev",
    "gdextension",
    "godot-engine",
    "javascript",
@@ -279,17 +280,16 @@
    "rigging",
    "rust",
    "skeletal-animation",
-   "tauri",
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 125,
+  "stars": 127,
   "forks": 14,
   "age_days": 21,
-  "velocity": 5.95,
+  "velocity": 6.05,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 50.58
+  "score": 51.42
  },
  {
   "source": "github",
@@ -318,29 +318,6 @@
   "created": "2026-10-16",
   "relevance": 9.0,
   "score": 45.0
- },
- {
-  "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 59,
-  "forks": 15,
-  "age_days": 8,
-  "velocity": 7.38,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 40.59
  },
  {
   "source": "github",
@@ -381,13 +358,51 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 64,
+  "stars": 65,
   "forks": 17,
   "age_days": 16,
-  "velocity": 4.0,
+  "velocity": 4.06,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 36.0
+  "score": 36.54
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 59,
+  "forks": 15,
+  "age_days": 9,
+  "velocity": 6.56,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 36.08
+ },
+ {
+  "source": "github",
+  "title": "kanaworksai-hue/effekseer-vfx-skill",
+  "url": "https://github.com/kanaworksai-hue/effekseer-vfx-skill",
+  "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
+  "lang": "Python",
+  "topics": [],
+  "stars": 89,
+  "forks": 7,
+  "age_days": 24,
+  "velocity": 3.71,
+  "created": "2026-10-10",
+  "relevance": 9.5,
+  "score": 35.24
  },
  {
   "source": "github",
@@ -403,21 +418,6 @@
   "created": "2026-10-01",
   "relevance": 4.5,
   "score": 30.69
- },
- {
-  "source": "github",
-  "title": "kanaworksai-hue/effekseer-vfx-skill",
-  "url": "https://github.com/kanaworksai-hue/effekseer-vfx-skill",
-  "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
-  "lang": "Python",
-  "topics": [],
-  "stars": 77,
-  "forks": 5,
-  "age_days": 24,
-  "velocity": 3.21,
-  "created": "2026-10-10",
-  "relevance": 9.5,
-  "score": 30.5
  },
  {
   "source": "github",
@@ -437,13 +437,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 109,
+  "stars": 112,
   "forks": 5,
   "age_days": 19,
-  "velocity": 5.74,
+  "velocity": 5.89,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 28.7
+  "score": 29.45
  },
  {
   "source": "github",
@@ -475,13 +475,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 252,
-  "forks": 27,
+  "stars": 254,
+  "forks": 28,
   "age_days": 35,
-  "velocity": 7.2,
+  "velocity": 7.26,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 21.6
+  "score": 21.78
  },
  {
   "source": "Unity Blog",
@@ -505,13 +505,13 @@
   "desc": "Jeff FX 1.0.1 — Godot 4.7 pixel VFX workshop. 82 presets, sprite-sheet export and scene placement.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 62,
+  "stars": 64,
   "forks": 16,
   "age_days": 13,
-  "velocity": 4.77,
+  "velocity": 4.92,
   "created": "2026-10-21",
   "relevance": 4.0,
-  "score": 19.08
+  "score": 19.68
  },
  {
   "source": "github",
@@ -533,7 +533,7 @@
    "web"
   ],
   "stars": 65,
-  "forks": 7,
+  "forks": 8,
   "age_days": 42,
   "velocity": 1.55,
   "created": "2026-09-22",
@@ -727,13 +727,13 @@
    "godot-engine",
    "stm32"
   ],
-  "stars": 80,
+  "stars": 81,
   "forks": 4,
   "age_days": 9,
-  "velocity": 8.89,
+  "velocity": 9.0,
   "created": "2026-10-25",
   "relevance": 1.5,
-  "score": 13.34
+  "score": 13.5
  },
  {
   "source": "github",
@@ -753,13 +753,13 @@
    "typescript",
    "webgpu"
   ],
-  "stars": 49,
+  "stars": 51,
   "forks": 8,
   "age_days": 19,
-  "velocity": 2.58,
+  "velocity": 2.68,
   "created": "2026-10-15",
   "relevance": 5.0,
-  "score": 12.9
+  "score": 13.4
  },
  {
   "source": "Unity Blog",
@@ -920,6 +920,36 @@
   "score": 10.5
  },
  {
+  "source": "github",
+  "title": "ShrugYu/game-client-to-server-reverse",
+  "url": "https://github.com/ShrugYu/game-client-to-server-reverse",
+  "desc": "从游戏客户端反推服务端协议并复现可部署服务端 (Agent Skill)。Unity/UE/Cocos, IL2CPP/Lua/JS…",
+  "lang": "Python",
+  "topics": [
+   "agent-skill",
+   "agent-skills",
+   "ai-agents",
+   "claude-code",
+   "claude-code-skill",
+   "claude-skills",
+   "game-server",
+   "il2cpp",
+   "private-server",
+   "protocol-reverse",
+   "reverse-engineering",
+   "skills",
+   "unity",
+   "unreal"
+  ],
+  "stars": 71,
+  "forks": 27,
+  "age_days": 43,
+  "velocity": 1.65,
+  "created": "2026-09-22",
+  "relevance": 5.5,
+  "score": 9.07
+ },
+ {
   "source": "Unity Blog",
   "title": "Games made with Unity: October 2026 in review",
   "url": "https://unity.com/blog/games-made-with-unity-october-2026-releases",
@@ -976,21 +1006,6 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Wed, 28 Oct 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "Meeting you where you work: Inside 200M+ Unity CLI events",
-  "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
-  "desc": "Unity CLI usage data from 200 million events: 98% of runs come from AI coding agents and automation. See the top commands, agents, and where it’s used.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Thu, 22 Oct 2026",
   "relevance": 3.0,
   "score": 9.0
  }
