@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1892,
-  "forks": 260,
+  "stars": 1894,
+  "forks": 259,
   "age_days": 19,
-  "velocity": 99.58,
+  "velocity": 99.68,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 497.9
+  "score": 498.4
  },
  {
   "source": "github",
@@ -40,13 +40,28 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 712,
-  "forks": 73,
+  "stars": 716,
+  "forks": 74,
   "age_days": 21,
-  "velocity": 33.9,
+  "velocity": 34.1,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 372.9
+  "score": 375.1
+ },
+ {
+  "source": "github",
+  "title": "PigCanFly1001/unitytool-agent-radar",
+  "url": "https://github.com/PigCanFly1001/unitytool-agent-radar",
+  "desc": "Real-time radar for Binance Agent ID wallets on BNB Smart Chain.",
+  "lang": "JavaScript",
+  "topics": [],
+  "stars": 75,
+  "forks": 26,
+  "age_days": 1,
+  "velocity": 75.0,
+  "created": "2026-11-04",
+  "relevance": 3.5,
+  "score": 262.5
  },
  {
   "source": "github",
@@ -83,7 +98,7 @@
   "lang": "C#",
   "topics": [],
   "stars": 205,
-  "forks": 45,
+  "forks": 46,
   "age_days": 6,
   "velocity": 34.17,
   "created": "2026-10-29",
@@ -114,13 +129,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 265,
+  "stars": 271,
   "forks": 10,
   "age_days": 5,
-  "velocity": 53.0,
+  "velocity": 54.2,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 159.0
+  "score": 162.6
  },
  {
   "source": "github",
@@ -135,13 +150,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2362,
+  "stars": 2363,
   "forks": 150,
   "age_days": 21,
-  "velocity": 112.48,
+  "velocity": 112.52,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 112.48
+  "score": 112.52
  },
  {
   "source": "github",
@@ -162,13 +177,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 676,
+  "stars": 675,
   "forks": 29,
   "age_days": 25,
-  "velocity": 27.04,
+  "velocity": 27.0,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 81.12
+  "score": 81.0
  },
  {
   "source": "github",
@@ -191,13 +206,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 81,
+  "stars": 83,
   "forks": 8,
   "age_days": 14,
-  "velocity": 5.79,
+  "velocity": 5.93,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 63.69
+  "score": 65.23
  },
  {
   "source": "github",
@@ -231,13 +246,13 @@
   "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
   "lang": "Python",
   "topics": [],
-  "stars": 149,
+  "stars": 153,
   "forks": 11,
   "age_days": 25,
-  "velocity": 5.96,
+  "velocity": 6.12,
   "created": "2026-10-10",
   "relevance": 9.5,
-  "score": 56.62
+  "score": 58.14
  },
  {
   "source": "github",
@@ -267,13 +282,41 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 139,
+  "stars": 143,
   "forks": 14,
   "age_days": 22,
-  "velocity": 6.32,
+  "velocity": 6.5,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 53.72
+  "score": 55.25
+ },
+ {
+  "source": "github",
+  "title": "LumioGames/LGUI",
+  "url": "https://github.com/LumioGames/LGUI",
+  "desc": "Game UI framework for AI agents, made by LumioGames. Build screens, logic and tests in the browser with no game engine, then export to Unity. 给 AI Agent 用的游戏 UI 框架，不依赖游戏引擎。",
+  "lang": "JavaScript",
+  "topics": [
+   "agent-plugins",
+   "ai-agents",
+   "claude-code",
+   "codex",
+   "fairygui",
+   "game-ui",
+   "gamedev",
+   "html5",
+   "puerts",
+   "typescript",
+   "ui-framework",
+   "unity"
+  ],
+  "stars": 105,
+  "forks": 13,
+  "age_days": 19,
+  "velocity": 5.53,
+  "created": "2026-10-16",
+  "relevance": 9.0,
+  "score": 49.77
  },
  {
   "source": "github",
@@ -308,69 +351,18 @@
  },
  {
   "source": "github",
-  "title": "LumioGames/LGUI",
-  "url": "https://github.com/LumioGames/LGUI",
-  "desc": "Game UI framework for AI agents, made by LumioGames. Build screens, logic and tests in the browser with no game engine, then export to Unity. 给 AI Agent 用的游戏 UI 框架，不依赖游戏引擎。",
-  "lang": "JavaScript",
-  "topics": [
-   "agent-plugins",
-   "ai-agents",
-   "claude-code",
-   "codex",
-   "fairygui",
-   "game-ui",
-   "gamedev",
-   "html5",
-   "puerts",
-   "typescript",
-   "ui-framework",
-   "unity"
-  ],
-  "stars": 98,
-  "forks": 13,
-  "age_days": 19,
-  "velocity": 5.16,
-  "created": "2026-10-16",
-  "relevance": 9.0,
-  "score": 46.44
- },
- {
-  "source": "github",
   "title": "zoran123456/lola-retro",
   "url": "https://github.com/zoran123456/lola-retro",
   "desc": "CRT shader for retroarch, unity, kodi, amiberry and 86box",
   "lang": "GLSL",
   "topics": [],
-  "stars": 162,
+  "stars": 163,
   "forks": 5,
   "age_days": 21,
-  "velocity": 7.71,
+  "velocity": 7.76,
   "created": "2026-10-14",
   "relevance": 5.0,
-  "score": 38.55
- },
- {
-  "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 61,
-  "forks": 15,
-  "age_days": 9,
-  "velocity": 6.78,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 37.29
+  "score": 38.8
  },
  {
   "source": "github",
@@ -396,13 +388,36 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 68,
+  "stars": 69,
   "forks": 17,
   "age_days": 17,
-  "velocity": 4.0,
+  "velocity": 4.06,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 36.0
+  "score": 36.54
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 62,
+  "forks": 15,
+  "age_days": 10,
+  "velocity": 6.2,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 34.1
  },
  {
   "source": "github",
@@ -422,13 +437,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 122,
+  "stars": 124,
   "forks": 5,
   "age_days": 20,
-  "velocity": 6.1,
+  "velocity": 6.2,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 30.5
+  "score": 31.0
  },
  {
   "source": "github",
@@ -498,11 +513,11 @@
   ],
   "stars": 51,
   "forks": 11,
-  "age_days": 20,
-  "velocity": 2.55,
+  "age_days": 21,
+  "velocity": 2.43,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 22.95
+  "score": 21.87
  },
  {
   "source": "github",
@@ -511,13 +526,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 254,
+  "stars": 255,
   "forks": 27,
   "age_days": 36,
-  "velocity": 7.06,
+  "velocity": 7.08,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 21.18
+  "score": 21.24
  },
  {
   "source": "Unity Blog",
@@ -541,13 +556,13 @@
   "desc": "Jeff FX 1.0.1 — Godot 4.7 pixel VFX workshop. 82 presets, sprite-sheet export and scene placement.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 65,
+  "stars": 66,
   "forks": 16,
   "age_days": 14,
-  "velocity": 4.64,
+  "velocity": 4.71,
   "created": "2026-10-21",
   "relevance": 4.0,
-  "score": 18.56
+  "score": 18.84
  },
  {
   "source": "github",
@@ -609,13 +624,13 @@
    "typescript",
    "webgpu"
   ],
-  "stars": 62,
+  "stars": 63,
   "forks": 9,
   "age_days": 20,
-  "velocity": 3.1,
+  "velocity": 3.15,
   "created": "2026-10-15",
   "relevance": 5.0,
-  "score": 15.5
+  "score": 15.75
  },
  {
   "source": "Unity Blog",
@@ -911,6 +926,36 @@
   "score": 10.5
  },
  {
+  "source": "PocketGamer.biz",
+  "title": "The Top 50 Mobile Game Makers of 2026, iPhone Duo games and Pokémon Unite ends service | Week in Mobile Games podcast",
+  "url": "https://www.pocketgamer.biz/week-in-mobile-games-podcast-108/",
+  "desc": "PocketGamer.biz head of content Craig Chapple and features and data editor Aaron Astle talk through the latest games industry news on the 108th episode of the Week in Mobile Games Podcast.\n\nOn the sho",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Mon, 02 Nov 2026",
+  "relevance": 3.5,
+  "score": 10.5
+ },
+ {
+  "source": "PocketGamer.biz",
+  "title": "Anthropic restricts Claude from recreating existing games amid AI cloning concerns",
+  "url": "https://www.pocketgamer.biz/anthropic-restricts-claude-from-recreating-existing-games-amid-ai-cloning-concerns/",
+  "desc": "Artificial intelligence company Anthropic has updated Claude Code to discourage its AI tool from recreating specific existing video games, as concerns grow over AI-generated copies and their impact on",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Mon, 02 Nov 2026",
+  "relevance": 3.5,
+  "score": 10.5
+ },
+ {
   "source": "80.lv",
   "title": "Get This Blender Add-On for Realistic Real-Time Procedural Sky",
   "url": "https://80.lv/articles/get-this-blender-add-on-for-realistic-real-time-procedural-sky/",
@@ -964,11 +1009,11 @@
   ],
   "stars": 74,
   "forks": 28,
-  "age_days": 43,
-  "velocity": 1.72,
+  "age_days": 44,
+  "velocity": 1.68,
   "created": "2026-09-22",
   "relevance": 5.5,
-  "score": 9.46
+  "score": 9.24
  },
  {
   "source": "Unity Blog",
@@ -982,51 +1027,6 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Wed, 04 Nov 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "Games made with Unity: October 2026 in review",
-  "url": "https://unity.com/blog/games-made-with-unity-october-2026-releases",
-  "desc": "Stay updated with the latest creations from the Unity community. Explore our list of standout games made with Unity in October 2026.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Mon, 02 Nov 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "2026 Industry releases and what’s coming in Q4",
-  "url": "https://unity.com/blog/unity-industry-product-releases-2026",
-  "desc": "Explore Unity Industry 2026 product releases, from Unity Studio and Pipeline Automation to Simulation Pro, AI Workflows, SOC 2 Type 2, HMI, and Q4 plans.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Fri, 30 Oct 2026",
-  "relevance": 3.0,
-  "score": 9.0
- },
- {
-  "source": "Unity Blog",
-  "title": "Google Play Indie Games Fund in Africa 2026 - Games Made with Unity",
-  "url": "https://unity.com/blog/google-play-indie-games-fund-2026",
-  "desc": "Google Play Indie Games Fund 2026",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Wed, 28 Oct 2026",
   "relevance": 3.0,
   "score": 9.0
  }
