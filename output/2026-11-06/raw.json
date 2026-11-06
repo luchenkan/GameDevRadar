@@ -1,33 +1,18 @@
 [
  {
   "source": "github",
-  "title": "cranebeaker/coop-anything",
-  "url": "https://github.com/cranebeaker/coop-anything",
-  "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
-  "lang": "Python",
-  "topics": [],
-  "stars": 1915,
-  "forks": 260,
-  "age_days": 20,
-  "velocity": 95.75,
-  "created": "2026-10-16",
-  "relevance": 5.0,
-  "score": 478.75
- },
- {
-  "source": "github",
   "title": "PigCanFly1001/unitytool-agent-radar",
   "url": "https://github.com/PigCanFly1001/unitytool-agent-radar",
   "desc": "Real-time radar for Binance Agent ID wallets on BNB Smart Chain.",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 106,
+  "stars": 107,
   "forks": 36,
   "age_days": 1,
-  "velocity": 106.0,
+  "velocity": 107.0,
   "created": "2026-11-04",
   "relevance": 3.5,
-  "score": 371.0
+  "score": 374.5
  },
  {
   "source": "github",
@@ -55,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 730,
-  "forks": 74,
+  "stars": 735,
+  "forks": 75,
   "age_days": 22,
-  "velocity": 33.18,
+  "velocity": 33.41,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 364.98
+  "score": 367.51
  },
  {
   "source": "github",
@@ -97,45 +82,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 213,
+  "stars": 219,
   "forks": 48,
   "age_days": 7,
-  "velocity": 30.43,
+  "velocity": 31.29,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 213.01
- },
- {
-  "source": "github",
-  "title": "daniel-madrid-07/weeping-of-the-empire",
-  "url": "https://github.com/daniel-madrid-07/weeping-of-the-empire",
-  "desc": "Zelda: Tears of the Kingdom (TotK) 1.0.0 recompiled to native Windows and Vulkan. Frame cap up to 240, DLSS option, mouse and keyboard. Open source, mostly written by AI agents. You build it from your own dump; no game files included. Measured on one PC so far.",
-  "lang": "C",
-  "topics": [
-   "dlss",
-   "game-port",
-   "native-port",
-   "nintendo-switch",
-   "pc-port",
-   "recomp",
-   "recompilation",
-   "reverse-engineering",
-   "static-recompilation",
-   "tears-of-the-kingdom",
-   "totk",
-   "vulkan",
-   "windows",
-   "zelda",
-   "zelda-pc",
-   "zelda-totk"
-  ],
-  "stars": 284,
-  "forks": 10,
-  "age_days": 6,
-  "velocity": 47.33,
-  "created": "2026-10-30",
-  "relevance": 3.0,
-  "score": 141.99
+  "score": 219.03
  },
  {
   "source": "github",
@@ -150,13 +103,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2376,
-  "forks": 149,
+  "stars": 2377,
+  "forks": 150,
   "age_days": 22,
-  "velocity": 108.0,
+  "velocity": 108.05,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 108.0
+  "score": 108.05
  },
  {
   "source": "github",
@@ -179,13 +132,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 120,
-  "forks": 11,
+  "stars": 124,
+  "forks": 12,
   "age_days": 15,
-  "velocity": 8.0,
+  "velocity": 8.27,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 88.0
+  "score": 90.97
  },
  {
   "source": "github",
@@ -252,31 +205,6 @@
  },
  {
   "source": "github",
-  "title": "christos-antono/NPCTalk",
-  "url": "https://github.com/christos-antono/NPCTalk",
-  "desc": "Make any NPC in any game talk back with Fish Audio: skills, a self-hosted voice server and tools for AI coding agents, with a full GTA V example.",
-  "lang": "Python",
-  "topics": [
-   "agent-skills",
-   "claude-code",
-   "fish-audio",
-   "game-modding",
-   "gta5",
-   "llm",
-   "npc",
-   "text-to-speech",
-   "voice-cloning"
-  ],
-  "stars": 220,
-  "forks": 20,
-  "age_days": 21,
-  "velocity": 10.48,
-  "created": "2026-10-15",
-  "relevance": 5.5,
-  "score": 57.64
- },
- {
-  "source": "github",
   "title": "jaisurya-dev-art/rigby2d",
   "url": "https://github.com/jaisurya-dev-art/rigby2d",
   "desc": "Open-source 2D skeletal animation editor for games and film. AutoRig layered PSDs, animate with meshes, IK and physics, lip-sync from audio, render video, export JSON/.skel. JavaScript, Rust, Godot and Unity runtimes. Built-in MCP server for AI assistants. Docs: rigby2d.com/docs",
@@ -303,13 +231,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 153,
+  "stars": 155,
   "forks": 16,
   "age_days": 23,
-  "velocity": 6.65,
+  "velocity": 6.74,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 56.53
+  "score": 57.29
  },
  {
   "source": "github",
@@ -346,13 +274,13 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 106,
+  "stars": 107,
   "forks": 13,
   "age_days": 20,
-  "velocity": 5.3,
+  "velocity": 5.35,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 47.7
+  "score": 48.15
  },
  {
   "source": "github",
@@ -424,36 +352,13 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 72,
+  "stars": 73,
   "forks": 18,
   "age_days": 18,
-  "velocity": 4.0,
+  "velocity": 4.06,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 36.0
- },
- {
-  "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 62,
-  "forks": 15,
-  "age_days": 10,
-  "velocity": 6.2,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 34.1
+  "score": 36.54
  },
  {
   "source": "github",
@@ -473,13 +378,36 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 132,
+  "stars": 133,
   "forks": 7,
   "age_days": 21,
-  "velocity": 6.29,
+  "velocity": 6.33,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 31.45
+  "score": 31.65
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 62,
+  "forks": 15,
+  "age_days": 11,
+  "velocity": 5.64,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 31.02
  },
  {
   "source": "github",
@@ -520,6 +448,36 @@
   "score": 23.52
  },
  {
+  "source": "Unity Blog",
+  "title": "Scaling Scritchy Scratchy across platforms",
+  "url": "https://unity.com/blog/scaling-scritchy-scratchy-across-platforms",
+  "desc": "Learn how Scritchy Scratchy used Unity to port the game across PC, mobile, Nintendo Switch, and Nintendo Switch 2 while maintaining performance and tactile gameplay.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Mon, 28 Sep 2026",
+  "relevance": 7.0,
+  "score": 21.0
+ },
+ {
+  "source": "github",
+  "title": "JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
+  "url": "https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
+  "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
+  "lang": "C",
+  "topics": [],
+  "stars": 258,
+  "forks": 27,
+  "age_days": 37,
+  "velocity": 6.97,
+  "created": "2026-09-29",
+  "relevance": 3.0,
+  "score": 20.91
+ },
+ {
   "source": "github",
   "title": "Alone9898/SpineSlim",
   "url": "https://github.com/Alone9898/SpineSlim",
@@ -549,41 +507,11 @@
   ],
   "stars": 51,
   "forks": 11,
-  "age_days": 21,
-  "velocity": 2.43,
+  "age_days": 22,
+  "velocity": 2.32,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 21.87
- },
- {
-  "source": "Unity Blog",
-  "title": "Scaling Scritchy Scratchy across platforms",
-  "url": "https://unity.com/blog/scaling-scritchy-scratchy-across-platforms",
-  "desc": "Learn how Scritchy Scratchy used Unity to port the game across PC, mobile, Nintendo Switch, and Nintendo Switch 2 while maintaining performance and tactile gameplay.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Mon, 28 Sep 2026",
-  "relevance": 7.0,
-  "score": 21.0
- },
- {
-  "source": "github",
-  "title": "JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
-  "url": "https://github.com/JoppieToppie/Galaxy-on-Fire-2-Unity-Remake",
-  "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
-  "lang": "C",
-  "topics": [],
-  "stars": 257,
-  "forks": 27,
-  "age_days": 37,
-  "velocity": 6.95,
-  "created": "2026-09-29",
-  "relevance": 3.0,
-  "score": 20.85
+  "score": 20.88
  },
  {
   "source": "github",
@@ -605,13 +533,13 @@
    "pytorch",
    "smpl-x"
   ],
-  "stars": 70,
+  "stars": 72,
   "forks": 8,
   "age_days": 16,
-  "velocity": 4.38,
+  "velocity": 4.5,
   "created": "2026-10-20",
   "relevance": 4.5,
-  "score": 19.71
+  "score": 20.25
  },
  {
   "source": "github",
@@ -664,32 +592,6 @@
   "created": "Thu, 08 Oct 2026",
   "relevance": 5.5,
   "score": 16.5
- },
- {
-  "source": "github",
-  "title": "ForgeAX/forgeax-engine",
-  "url": "https://github.com/ForgeAX/forgeax-engine",
-  "desc": "AI-native TypeScript game engine for AI agents, targeting all major platforms. WebGPU rendering, ECS, procedural assets, and a CLI-first development workflow.",
-  "lang": "TypeScript",
-  "topics": [
-   "ai-agents",
-   "ai-native",
-   "cross-platform",
-   "ecs",
-   "entity-component-system",
-   "game-development",
-   "game-engine",
-   "procedural-generation",
-   "typescript",
-   "webgpu"
-  ],
-  "stars": 67,
-  "forks": 10,
-  "age_days": 21,
-  "velocity": 3.19,
-  "created": "2026-10-15",
-  "relevance": 5.0,
-  "score": 15.95
  },
  {
   "source": "Unity Blog",
@@ -818,63 +720,13 @@
   "desc": "il2cpp Dump 翻译工作台 - Unity il2cpp 游戏逆向辅助工具",
   "lang": "Python",
   "topics": [],
-  "stars": 66,
-  "forks": 20,
+  "stars": 67,
+  "forks": 21,
   "age_days": 17,
-  "velocity": 3.88,
+  "velocity": 3.94,
   "created": "2026-10-19",
   "relevance": 3.5,
-  "score": 13.58
- },
- {
-  "source": "github",
-  "title": "wnsrn3436/open-game-works-core",
-  "url": "https://github.com/wnsrn3436/open-game-works-core",
-  "desc": "A harness that lets AI agents make server-client games of commercial quality on a prebuilt core",
-  "lang": "TypeScript",
-  "topics": [
-   "ai-agents",
-   "claude-code",
-   "codex",
-   "game-development",
-   "godot",
-   "llm",
-   "open-game-works",
-   "typescript"
-  ],
-  "stars": 23,
-  "forks": 1,
-  "age_days": 13,
-  "velocity": 1.77,
-  "created": "2026-10-23",
-  "relevance": 7.5,
-  "score": 13.28
- },
- {
-  "source": "github",
-  "title": "ersingvn/ludra",
-  "url": "https://github.com/ersingvn/ludra",
-  "desc": "The game engine built for AI agents. Games are JSON, errors come with fixes, and agents play-test their own games headlessly.",
-  "lang": "TypeScript",
-  "topics": [
-   "2d",
-   "ai",
-   "ai-agents",
-   "claude",
-   "claude-code",
-   "game-engine",
-   "gamedev",
-   "headless-testing",
-   "llm",
-   "typescript"
-  ],
-  "stars": 21,
-  "forks": 2,
-  "age_days": 12,
-  "velocity": 1.75,
-  "created": "2026-10-24",
-  "relevance": 7.5,
-  "score": 13.12
+  "score": 13.79
  },
  {
   "source": "github",
@@ -1035,5 +887,119 @@
   "created": "Thu, 05 Nov 2026",
   "relevance": 3.5,
   "score": 10.5
+ },
+ {
+  "source": "80.lv",
+  "title": "Creating Mesh-Based Procedural Ice In Blender",
+  "url": "https://80.lv/articles/creating-mesh-based-procedural-ice-in-blender/",
+  "desc": "Check out Deepak Kushwaha's system.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Thu, 05 Nov 2026",
+  "relevance": 3.5,
+  "score": 10.5
+ },
+ {
+  "source": "github",
+  "title": "thienbao1233/ninja-ripper-2.10",
+  "url": "https://github.com/thienbao1233/ninja-ripper-2.10",
+  "desc": "Ninja Ripper 2.10 Beta, free version for testing.",
+  "lang": "",
+  "topics": [
+   "3d",
+   "assets",
+   "game-development",
+   "gamedev",
+   "ninja-ripper",
+   "unity",
+   "unreal-engine-5"
+  ],
+  "stars": 84,
+  "forks": 2,
+  "age_days": 32,
+  "velocity": 2.62,
+  "created": "2026-10-04",
+  "relevance": 4.0,
+  "score": 10.48
+ },
+ {
+  "source": "github",
+  "title": "sgfsd/game-russificator",
+  "url": "https://github.com/sgfsd/game-russificator",
+  "desc": "Русификатор игр в одну кнопку: Unity, Ren'Py, RPG Maker. Переводит файлы игры, а любую другую игру (Unreal, Godot) — поверх экрана. Офлайн-переводчик, нейросеть на ПК или по API-ключу. Бесплатно, без регистрации, открытый код.",
+  "lang": "Python",
+  "topics": [
+   "bepinex",
+   "game-localization",
+   "game-translation",
+   "llm",
+   "localization",
+   "machine-translation",
+   "ocr",
+   "overlay",
+   "renpy",
+   "rpg-maker",
+   "russian",
+   "russificator",
+   "translation",
+   "unity",
+   "xunity-autotranslator"
+  ],
+  "stars": 66,
+  "forks": 1,
+  "age_days": 42,
+  "velocity": 1.57,
+  "created": "2026-09-24",
+  "relevance": 6.0,
+  "score": 9.42
+ },
+ {
+  "source": "Unity Blog",
+  "title": "The Immersive Edge: October 2026 industry content wrap-up",
+  "url": "https://unity.com/blog/october-2026-industry-content-wrap-up",
+  "desc": "The Immersive Edge, October 2026: 23 Unity Industry resources, from an F1 Academy simulator to five Industry Summit sessions.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Wed, 04 Nov 2026",
+  "relevance": 3.0,
+  "score": 9.0
+ },
+ {
+  "source": "Unity Blog",
+  "title": "Games made with Unity: October 2026 in review",
+  "url": "https://unity.com/blog/games-made-with-unity-october-2026-releases",
+  "desc": "Stay updated with the latest creations from the Unity community. Explore our list of standout games made with Unity in October 2026.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Mon, 02 Nov 2026",
+  "relevance": 3.0,
+  "score": 9.0
+ },
+ {
+  "source": "Unity Blog",
+  "title": "2026 Industry releases and what’s coming in Q4",
+  "url": "https://unity.com/blog/unity-industry-product-releases-2026",
+  "desc": "Explore Unity Industry 2026 product releases, from Unity Studio and Pipeline Automation to Simulation Pro, AI Workflows, SOC 2 Type 2, HMI, and Q4 plans.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Fri, 30 Oct 2026",
+  "relevance": 3.0,
+  "score": 9.0
  }
 ]
