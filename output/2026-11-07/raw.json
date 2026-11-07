@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1932,
+  "stars": 1933,
   "forks": 263,
   "age_days": 21,
-  "velocity": 92.0,
+  "velocity": 92.05,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 460.0
+  "score": 460.25
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 744,
-  "forks": 76,
+  "stars": 748,
+  "forks": 77,
   "age_days": 23,
-  "velocity": 32.35,
+  "velocity": 32.52,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 355.85
+  "score": 357.72
  },
  {
   "source": "github",
@@ -67,13 +67,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 798,
+  "stars": 802,
   "forks": 98,
   "age_days": 35,
-  "velocity": 22.8,
+  "velocity": 22.91,
   "created": "2026-10-02",
   "relevance": 10.0,
-  "score": 228.0
+  "score": 229.1
  },
  {
   "source": "github",
@@ -82,13 +82,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 242,
-  "forks": 51,
+  "stars": 247,
+  "forks": 53,
   "age_days": 8,
-  "velocity": 30.25,
+  "velocity": 30.88,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 211.75
+  "score": 216.16
  },
  {
   "source": "github",
@@ -129,13 +129,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 292,
+  "stars": 293,
   "forks": 11,
   "age_days": 7,
-  "velocity": 41.71,
+  "velocity": 41.86,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 125.13
+  "score": 125.58
  },
  {
   "source": "github",
@@ -179,13 +179,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 131,
+  "stars": 132,
   "forks": 12,
   "age_days": 16,
-  "velocity": 8.19,
+  "velocity": 8.25,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 90.09
+  "score": 90.75
  },
  {
   "source": "github",
@@ -242,13 +242,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 678,
+  "stars": 679,
   "forks": 29,
   "age_days": 27,
-  "velocity": 25.11,
+  "velocity": 25.15,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 75.33
+  "score": 75.45
  },
  {
   "source": "github",
@@ -278,13 +278,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 161,
+  "stars": 162,
   "forks": 17,
   "age_days": 24,
-  "velocity": 6.71,
+  "velocity": 6.75,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 57.03
+  "score": 57.38
  },
  {
   "source": "github",
@@ -409,13 +409,13 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 76,
+  "stars": 78,
   "forks": 18,
   "age_days": 19,
-  "velocity": 4.0,
+  "velocity": 4.11,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 36.0
+  "score": 36.99
  },
  {
   "source": "github",
@@ -436,7 +436,7 @@
   "source": "github",
   "title": "tigin-backwards/oni-moono",
   "url": "https://github.com/tigin-backwards/oni-moono",
-  "desc": "Oxygen Not Included's Unity layer on the BRUTAL framework, .NET 10 CoreCLR. On a late-game colony the game runs at about 8× the original's frame rate",
+  "desc": "Oxygen Not Included's Unity layer on the BRUTAL framework, .NET 10 CoreCLR. On a late-game colony the game runs at up to 13× the original's frame rate",
   "lang": "C#",
   "topics": [
    "brutal",
@@ -450,13 +450,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 146,
+  "stars": 148,
   "forks": 8,
   "age_days": 22,
-  "velocity": 6.64,
+  "velocity": 6.73,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 33.2
+  "score": 33.65
  },
  {
   "source": "github",
@@ -475,11 +475,11 @@
   ],
   "stars": 64,
   "forks": 15,
-  "age_days": 11,
-  "velocity": 5.82,
+  "age_days": 12,
+  "velocity": 5.33,
   "created": "2026-10-26",
   "relevance": 5.5,
-  "score": 32.01
+  "score": 29.32
  },
  {
   "source": "github",
@@ -657,13 +657,13 @@
    "game-assets",
    "godot"
   ],
-  "stars": 52,
+  "stars": 53,
   "forks": 7,
   "age_days": 20,
-  "velocity": 2.6,
+  "velocity": 2.65,
   "created": "2026-10-18",
   "relevance": 6.5,
-  "score": 16.9
+  "score": 17.22
  },
  {
   "source": "Unity Blog",
