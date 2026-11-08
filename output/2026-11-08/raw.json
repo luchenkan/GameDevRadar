@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1945,
-  "forks": 264,
+  "stars": 1948,
+  "forks": 265,
   "age_days": 22,
-  "velocity": 88.41,
+  "velocity": 88.55,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 442.05
+  "score": 442.75
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 761,
-  "forks": 78,
+  "stars": 768,
+  "forks": 80,
   "age_days": 24,
-  "velocity": 31.71,
+  "velocity": 32.0,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 348.81
+  "score": 352.0
  },
  {
   "source": "github",
@@ -67,13 +67,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 808,
+  "stars": 810,
   "forks": 99,
   "age_days": 36,
-  "velocity": 22.44,
+  "velocity": 22.5,
   "created": "2026-10-02",
   "relevance": 10.0,
-  "score": 224.4
+  "score": 225.0
  },
  {
   "source": "github",
@@ -82,13 +82,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 261,
+  "stars": 263,
   "forks": 58,
   "age_days": 9,
-  "velocity": 29.0,
+  "velocity": 29.22,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 203.0
+  "score": 204.54
  },
  {
   "source": "github",
@@ -150,13 +150,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2396,
+  "stars": 2397,
   "forks": 155,
   "age_days": 24,
-  "velocity": 99.83,
+  "velocity": 99.88,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 99.83
+  "score": 99.88
  },
  {
   "source": "github",
@@ -179,13 +179,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 135,
+  "stars": 136,
   "forks": 12,
   "age_days": 17,
-  "velocity": 7.94,
+  "velocity": 8.0,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 87.34
+  "score": 88.0
  },
  {
   "source": "github",
@@ -278,13 +278,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 166,
+  "stars": 167,
   "forks": 20,
   "age_days": 25,
-  "velocity": 6.64,
+  "velocity": 6.68,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 56.44
+  "score": 56.78
  },
  {
   "source": "github",
@@ -303,13 +303,13 @@
    "text-to-speech",
    "voice-cloning"
   ],
-  "stars": 227,
+  "stars": 228,
   "forks": 20,
   "age_days": 23,
-  "velocity": 9.87,
+  "velocity": 9.91,
   "created": "2026-10-15",
   "relevance": 5.5,
-  "score": 54.28
+  "score": 54.51
  },
  {
   "source": "github",
@@ -318,13 +318,13 @@
   "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
   "lang": "Python",
   "topics": [],
-  "stars": 156,
+  "stars": 157,
   "forks": 11,
   "age_days": 28,
-  "velocity": 5.57,
+  "velocity": 5.61,
   "created": "2026-10-10",
   "relevance": 9.5,
-  "score": 52.92
+  "score": 53.3
  },
  {
   "source": "github",
@@ -347,7 +347,7 @@
    "unity"
   ],
   "stars": 112,
-  "forks": 14,
+  "forks": 15,
   "age_days": 22,
   "velocity": 5.09,
   "created": "2026-10-16",
@@ -437,28 +437,13 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 79,
+  "stars": 81,
   "forks": 18,
   "age_days": 20,
-  "velocity": 3.95,
+  "velocity": 4.05,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 35.55
- },
- {
-  "source": "github",
-  "title": "zoran123456/lola-retro",
-  "url": "https://github.com/zoran123456/lola-retro",
-  "desc": "CRT shader for retroarch, unity, kodi, amiberry and 86box",
-  "lang": "GLSL",
-  "topics": [],
-  "stars": 165,
-  "forks": 5,
-  "age_days": 24,
-  "velocity": 6.88,
-  "created": "2026-10-14",
-  "relevance": 5.0,
-  "score": 34.4
+  "score": 36.45
  },
  {
   "source": "github",
@@ -478,13 +463,28 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 157,
+  "stars": 160,
   "forks": 8,
   "age_days": 23,
-  "velocity": 6.83,
+  "velocity": 6.96,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 34.15
+  "score": 34.8
+ },
+ {
+  "source": "github",
+  "title": "zoran123456/lola-retro",
+  "url": "https://github.com/zoran123456/lola-retro",
+  "desc": "CRT shader for retroarch, unity, kodi, amiberry and 86box",
+  "lang": "GLSL",
+  "topics": [],
+  "stars": 165,
+  "forks": 5,
+  "age_days": 24,
+  "velocity": 6.88,
+  "created": "2026-10-14",
+  "relevance": 5.0,
+  "score": 34.4
  },
  {
   "source": "github",
@@ -493,13 +493,13 @@
   "desc": "Godot Tool to create procedural pixel creatures",
   "lang": "C#",
   "topics": [],
-  "stars": 250,
+  "stars": 253,
   "forks": 30,
   "age_days": 37,
-  "velocity": 6.76,
+  "velocity": 6.84,
   "created": "2026-10-01",
   "relevance": 4.5,
-  "score": 30.42
+  "score": 30.78
  },
  {
   "source": "github",
@@ -518,11 +518,39 @@
   ],
   "stars": 65,
   "forks": 15,
-  "age_days": 12,
-  "velocity": 5.42,
+  "age_days": 13,
+  "velocity": 5.0,
   "created": "2026-10-26",
   "relevance": 5.5,
-  "score": 29.81
+  "score": 27.5
+ },
+ {
+  "source": "github",
+  "title": "twehrbein/ExMR",
+  "url": "https://github.com/twehrbein/ExMR",
+  "desc": "3D body, hand and foot motion (SMPL-X) from a single monocular video: world-grounded, with export for Blender, Unity, Unreal and humanoid robots. Official code of ExMR (arXiv 2610.26213).",
+  "lang": "Python",
+  "topics": [
+   "3d-human-pose-estimation",
+   "blender",
+   "bvh",
+   "gvhmr",
+   "hand-pose-estimation",
+   "human-mesh-recovery",
+   "human-motion-capture",
+   "humanoid-robot",
+   "motion-capture",
+   "motion-retargeting",
+   "pytorch",
+   "smpl-x"
+  ],
+  "stars": 89,
+  "forks": 9,
+  "age_days": 18,
+  "velocity": 4.94,
+  "created": "2026-10-20",
+  "relevance": 4.5,
+  "score": 22.23
  },
  {
   "source": "github",
@@ -583,34 +611,6 @@
   "score": 22.15
  },
  {
-  "source": "github",
-  "title": "twehrbein/ExMR",
-  "url": "https://github.com/twehrbein/ExMR",
-  "desc": "3D body, hand and foot motion (SMPL-X) from a single monocular video: world-grounded, with export for Blender, Unity, Unreal and humanoid robots. Official code of ExMR (arXiv 2610.26213).",
-  "lang": "Python",
-  "topics": [
-   "3d-human-pose-estimation",
-   "blender",
-   "bvh",
-   "gvhmr",
-   "hand-pose-estimation",
-   "human-mesh-recovery",
-   "human-motion-capture",
-   "humanoid-robot",
-   "motion-capture",
-   "motion-retargeting",
-   "pytorch",
-   "smpl-x"
-  ],
-  "stars": 88,
-  "forks": 9,
-  "age_days": 18,
-  "velocity": 4.89,
-  "created": "2026-10-20",
-  "relevance": 4.5,
-  "score": 22.0
- },
- {
   "source": "Unity Blog",
   "title": "How SEED renders a world players never stop building",
   "url": "https://unity.com/blog/seed-unity-rendering-performance",
@@ -647,13 +647,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 264,
+  "stars": 265,
   "forks": 28,
   "age_days": 39,
-  "velocity": 6.77,
+  "velocity": 6.79,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 20.31
+  "score": 20.37
  },
  {
   "source": "github",
@@ -662,13 +662,13 @@
   "desc": "Jeff FX 1.0.1 — Godot 4.7 pixel VFX workshop. 82 presets, sprite-sheet export and scene placement.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 73,
+  "stars": 74,
   "forks": 17,
   "age_days": 17,
-  "velocity": 4.29,
+  "velocity": 4.35,
   "created": "2026-10-21",
   "relevance": 4.0,
-  "score": 17.16
+  "score": 17.4
  },
  {
   "source": "github",
