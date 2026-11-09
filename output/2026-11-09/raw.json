@@ -6,13 +6,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 1986,
-  "forks": 268,
+  "stars": 1987,
+  "forks": 269,
   "age_days": 23,
-  "velocity": 86.35,
+  "velocity": 86.39,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 431.75
+  "score": 431.95
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 796,
-  "forks": 81,
+  "stars": 803,
+  "forks": 82,
   "age_days": 25,
-  "velocity": 31.84,
+  "velocity": 32.12,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 350.24
+  "score": 353.32
  },
  {
   "source": "github",
@@ -82,13 +82,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 270,
-  "forks": 59,
+  "stars": 271,
+  "forks": 60,
   "age_days": 10,
-  "velocity": 27.0,
+  "velocity": 27.1,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 189.0
+  "score": 189.7
  },
  {
   "source": "github",
@@ -114,13 +114,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 309,
+  "stars": 310,
   "forks": 14,
   "age_days": 9,
-  "velocity": 34.33,
+  "velocity": 34.44,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 102.99
+  "score": 103.32
  },
  {
   "source": "github",
@@ -150,13 +150,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2405,
+  "stars": 2407,
   "forks": 154,
   "age_days": 25,
-  "velocity": 96.2,
+  "velocity": 96.28,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 96.2
+  "score": 96.28
  },
  {
   "source": "github",
@@ -179,13 +179,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 140,
-  "forks": 13,
+  "stars": 141,
+  "forks": 14,
   "age_days": 18,
-  "velocity": 7.78,
+  "velocity": 7.83,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 85.58
+  "score": 86.13
  },
  {
   "source": "github",
@@ -242,13 +242,36 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 173,
-  "forks": 20,
+  "stars": 174,
+  "forks": 21,
   "age_days": 26,
-  "velocity": 6.65,
+  "velocity": 6.69,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 56.53
+  "score": 56.87
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 135,
+  "forks": 19,
+  "age_days": 14,
+  "velocity": 9.64,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 53.02
  },
  {
   "source": "github",
@@ -310,36 +333,13 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 115,
+  "stars": 117,
   "forks": 15,
   "age_days": 23,
-  "velocity": 5.0,
+  "velocity": 5.09,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 45.0
- },
- {
-  "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 101,
-  "forks": 16,
-  "age_days": 13,
-  "velocity": 7.77,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 42.73
+  "score": 45.81
  },
  {
   "source": "github",
@@ -396,13 +396,13 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 83,
+  "stars": 84,
   "forks": 18,
   "age_days": 21,
-  "velocity": 3.95,
+  "velocity": 4.0,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 35.55
+  "score": 36.0
  },
  {
   "source": "github",
@@ -478,13 +478,13 @@
    "open-source",
    "unity"
   ],
-  "stars": 85,
-  "forks": 15,
+  "stars": 93,
+  "forks": 16,
   "age_days": 13,
-  "velocity": 6.54,
+  "velocity": 7.15,
   "created": "2026-10-26",
   "relevance": 4.0,
-  "score": 26.16
+  "score": 28.6
  },
  {
   "source": "github",
@@ -493,13 +493,13 @@
   "desc": "Procedural low poly tree generator in Godot.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 90,
+  "stars": 99,
   "forks": 10,
   "age_days": 13,
-  "velocity": 6.92,
+  "velocity": 7.62,
   "created": "2026-10-27",
   "relevance": 3.5,
-  "score": 24.22
+  "score": 26.67
  },
  {
   "source": "github",
@@ -589,13 +589,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C",
   "topics": [],
-  "stars": 266,
+  "stars": 267,
   "forks": 28,
   "age_days": 40,
-  "velocity": 6.65,
+  "velocity": 6.67,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 19.95
+  "score": 20.01
  },
  {
   "source": "github",
@@ -627,11 +627,11 @@
   ],
   "stars": 52,
   "forks": 11,
-  "age_days": 24,
-  "velocity": 2.17,
+  "age_days": 25,
+  "velocity": 2.08,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 19.53
+  "score": 18.72
  },
  {
   "source": "github",
@@ -777,6 +777,32 @@
  },
  {
   "source": "github",
+  "title": "ForgeAX/forgeax-engine",
+  "url": "https://github.com/ForgeAX/forgeax-engine",
+  "desc": "AI-native TypeScript game engine for AI agents, targeting all major platforms. WebGPU rendering, ECS, procedural assets, and a CLI-first development workflow.",
+  "lang": "TypeScript",
+  "topics": [
+   "ai-agents",
+   "ai-native",
+   "cross-platform",
+   "ecs",
+   "entity-component-system",
+   "game-development",
+   "game-engine",
+   "procedural-generation",
+   "typescript",
+   "webgpu"
+  ],
+  "stars": 71,
+  "forks": 11,
+  "age_days": 24,
+  "velocity": 2.96,
+  "created": "2026-10-15",
+  "relevance": 5.0,
+  "score": 14.8
+ },
+ {
+  "source": "github",
   "title": "LightCursedorc/cat-rpocket-paw",
   "url": "https://github.com/LightCursedorc/cat-rpocket-paw",
   "desc": "A 2D game development engine written on top of Love2D offering 3 different levels of abstraction that aims to offer facilities while not binding the user into any architecture.",
@@ -813,32 +839,6 @@
  },
  {
   "source": "github",
-  "title": "ForgeAX/forgeax-engine",
-  "url": "https://github.com/ForgeAX/forgeax-engine",
-  "desc": "AI-native TypeScript game engine for AI agents, targeting all major platforms. WebGPU rendering, ECS, procedural assets, and a CLI-first development workflow.",
-  "lang": "TypeScript",
-  "topics": [
-   "ai-agents",
-   "ai-native",
-   "cross-platform",
-   "ecs",
-   "entity-component-system",
-   "game-development",
-   "game-engine",
-   "procedural-generation",
-   "typescript",
-   "webgpu"
-  ],
-  "stars": 70,
-  "forks": 11,
-  "age_days": 24,
-  "velocity": 2.92,
-  "created": "2026-10-15",
-  "relevance": 5.0,
-  "score": 14.6
- },
- {
-  "source": "github",
   "title": "excifroge/VFX-Essential-Shader",
   "url": "https://github.com/excifroge/VFX-Essential-Shader",
   "desc": "VFX Essential Shader: an all-in-one VFX shader for Unity URP with a custom material inspector",
@@ -851,21 +851,6 @@
   "created": "2026-10-06",
   "relevance": 9.0,
   "score": 13.95
- },
- {
-  "source": "Unity Blog",
-  "title": "How RUST LTD built the deep firearm simulation for Hot Dogs, Horseshoes & Hand Grenades 2",
-  "url": "https://unity.com/blog/rust-ltd-hot-dogs-horseshoes-hand-grenades-2",
-  "desc": "Rust LTD rebuilt Hot Dogs, Horseshoes & Hand Grenades 2 from scratch in Unity – ECS ballistics, custom firearm physicals, Quest 3 frame budget, and Editor tooling.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Fri, 25 Sep 2026",
-  "relevance": 4.0,
-  "score": 12.0
  },
  {
   "source": "github",
@@ -888,13 +873,28 @@
    "z",
    "zod-engine"
   ],
-  "stars": 92,
+  "stars": 93,
   "forks": 7,
   "age_days": 27,
-  "velocity": 3.41,
+  "velocity": 3.44,
   "created": "2026-10-12",
   "relevance": 3.5,
-  "score": 11.94
+  "score": 12.04
+ },
+ {
+  "source": "Unity Blog",
+  "title": "How RUST LTD built the deep firearm simulation for Hot Dogs, Horseshoes & Hand Grenades 2",
+  "url": "https://unity.com/blog/rust-ltd-hot-dogs-horseshoes-hand-grenades-2",
+  "desc": "Rust LTD rebuilt Hot Dogs, Horseshoes & Hand Grenades 2 from scratch in Unity – ECS ballistics, custom firearm physicals, Quest 3 frame budget, and Editor tooling.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Fri, 25 Sep 2026",
+  "relevance": 4.0,
+  "score": 12.0
  },
  {
   "source": "github",
@@ -903,13 +903,13 @@
   "desc": "Multimodal embodied AI NPC system with spatial perception, voice, LLM agent, relationship memory, emotion, and Unity/VRM integration.",
   "lang": "Python",
   "topics": [],
-  "stars": 82,
+  "stars": 84,
   "forks": 0,
   "age_days": 37,
-  "velocity": 2.22,
+  "velocity": 2.27,
   "created": "2026-10-02",
   "relevance": 5.0,
-  "score": 11.1
+  "score": 11.35
  },
  {
   "source": "github",
