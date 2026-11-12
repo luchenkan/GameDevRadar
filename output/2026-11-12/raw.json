@@ -1,18 +1,51 @@
 [
  {
   "source": "github",
+  "title": "op7418/guizang-game-skill",
+  "url": "https://github.com/op7418/guizang-game-skill",
+  "desc": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+  "lang": "JavaScript",
+  "topics": [
+   "3d-game",
+   "action-game",
+   "agent-skills",
+   "ai-agents",
+   "ai-generated",
+   "browser-game",
+   "claude-code",
+   "claude-skills",
+   "codex",
+   "game-development",
+   "gamedev",
+   "html5-game",
+   "threejs",
+   "tripo",
+   "vibe-coding",
+   "webgl",
+   "wuxia"
+  ],
+  "stars": 119,
+  "forks": 18,
+  "age_days": 1,
+  "velocity": 119.0,
+  "created": "2026-11-11",
+  "relevance": 3.5,
+  "score": 416.5
+ },
+ {
+  "source": "github",
   "title": "cranebeaker/coop-anything",
   "url": "https://github.com/cranebeaker/coop-anything",
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 2068,
+  "stars": 2073,
   "forks": 276,
   "age_days": 26,
-  "velocity": 79.54,
+  "velocity": 79.73,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 397.7
+  "score": 398.65
  },
  {
   "source": "github",
@@ -40,13 +73,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 990,
-  "forks": 97,
+  "stars": 1006,
+  "forks": 98,
   "age_days": 28,
-  "velocity": 35.36,
+  "velocity": 35.93,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 388.96
+  "score": 395.23
  },
  {
   "source": "github",
@@ -67,13 +100,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 837,
+  "stars": 839,
   "forks": 104,
   "age_days": 40,
-  "velocity": 20.93,
+  "velocity": 20.98,
   "created": "2026-10-02",
   "relevance": 10.0,
-  "score": 209.3
+  "score": 209.8
  },
  {
   "source": "github",
@@ -92,39 +125,6 @@
  },
  {
   "source": "github",
-  "title": "op7418/guizang-game-skill",
-  "url": "https://github.com/op7418/guizang-game-skill",
-  "desc": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
-  "lang": "JavaScript",
-  "topics": [
-   "3d-game",
-   "action-game",
-   "agent-skills",
-   "ai-agents",
-   "ai-generated",
-   "browser-game",
-   "claude-code",
-   "claude-skills",
-   "codex",
-   "game-development",
-   "gamedev",
-   "html5-game",
-   "threejs",
-   "tripo",
-   "vibe-coding",
-   "webgl",
-   "wuxia"
-  ],
-  "stars": 30,
-  "forks": 4,
-  "age_days": 1,
-  "velocity": 30.0,
-  "created": "2026-11-11",
-  "relevance": 3.5,
-  "score": 105.0
- },
- {
-  "source": "github",
   "title": "ahwootech/BRUTAL",
   "url": "https://github.com/ahwootech/BRUTAL",
   "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
@@ -136,13 +136,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2460,
-  "forks": 162,
+  "stars": 2462,
+  "forks": 163,
   "age_days": 28,
-  "velocity": 87.86,
+  "velocity": 87.93,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 87.86
+  "score": 87.93
  },
  {
   "source": "github",
@@ -168,13 +168,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 319,
+  "stars": 322,
   "forks": 15,
   "age_days": 12,
-  "velocity": 26.58,
+  "velocity": 26.83,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 79.74
+  "score": 80.49
  },
  {
   "source": "github",
@@ -197,13 +197,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 152,
+  "stars": 153,
   "forks": 14,
   "age_days": 21,
-  "velocity": 7.24,
+  "velocity": 7.29,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 79.64
+  "score": 80.19
  },
  {
   "source": "github",
@@ -248,13 +248,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 224,
+  "stars": 225,
   "forks": 27,
   "age_days": 29,
-  "velocity": 7.72,
+  "velocity": 7.76,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 65.62
+  "score": 65.96
  },
  {
   "source": "github",
@@ -275,13 +275,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 687,
+  "stars": 690,
   "forks": 30,
   "age_days": 32,
-  "velocity": 21.47,
+  "velocity": 21.56,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 64.41
+  "score": 64.68
  },
  {
   "source": "github",
@@ -300,11 +300,11 @@
   ],
   "stars": 186,
   "forks": 28,
-  "age_days": 16,
-  "velocity": 11.62,
+  "age_days": 17,
+  "velocity": 10.94,
   "created": "2026-10-26",
   "relevance": 5.5,
-  "score": 63.91
+  "score": 60.17
  },
  {
   "source": "github",
@@ -313,13 +313,13 @@
   "desc": "Real-time radar for Binance Agent ID wallets on BNB Smart Chain.",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 115,
+  "stars": 116,
   "forks": 37,
   "age_days": 7,
-  "velocity": 16.43,
+  "velocity": 16.57,
   "created": "2026-11-04",
   "relevance": 3.5,
-  "score": 57.5
+  "score": 58.0
  },
  {
   "source": "github",
@@ -381,13 +381,13 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 128,
+  "stars": 129,
   "forks": 17,
   "age_days": 26,
-  "velocity": 4.92,
+  "velocity": 4.96,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 44.28
+  "score": 44.64
  },
  {
   "source": "github",
@@ -407,13 +407,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 183,
+  "stars": 184,
   "forks": 8,
   "age_days": 27,
-  "velocity": 6.78,
+  "velocity": 6.81,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 33.9
+  "score": 34.05
  },
  {
   "source": "github",
@@ -440,7 +440,7 @@
    "unity"
   ],
   "stars": 89,
-  "forks": 18,
+  "forks": 19,
   "age_days": 24,
   "velocity": 3.71,
   "created": "2026-10-19",
@@ -454,13 +454,49 @@
   "desc": "Procedural low poly tree generator in Godot.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 144,
-  "forks": 14,
+  "stars": 149,
+  "forks": 16,
   "age_days": 16,
-  "velocity": 9.0,
+  "velocity": 9.31,
   "created": "2026-10-27",
   "relevance": 3.5,
-  "score": 31.5
+  "score": 32.59
+ },
+ {
+  "source": "github",
+  "title": "afnan0356/world-dominion",
+  "url": "https://github.com/afnan0356/world-dominion",
+  "desc": "An offline grand strategy sandbox where you lead nations, shape economies, build military power, influence global politics, and determine the future of a living world.",
+  "lang": "GDScript",
+  "topics": [
+   "android",
+   "android-game",
+   "diplomacy",
+   "economic-simulation",
+   "gdscript",
+   "geopolitical-simulator",
+   "godot",
+   "godot-engine",
+   "grand-strategy",
+   "military-strategy",
+   "mobile-game",
+   "nation-building",
+   "offline-game",
+   "open-source-game",
+   "political-simulation",
+   "sandbox-game",
+   "simulation-game",
+   "strategy-game",
+   "world-dominion",
+   "world-simulator"
+  ],
+  "stars": 64,
+  "forks": 0,
+  "age_days": 7,
+  "velocity": 9.14,
+  "created": "2026-11-04",
+  "relevance": 3.5,
+  "score": 31.99
  },
  {
   "source": "github",
@@ -507,42 +543,6 @@
   "created": "2026-10-14",
   "relevance": 5.0,
   "score": 30.2
- },
- {
-  "source": "github",
-  "title": "afnan0356/world-dominion",
-  "url": "https://github.com/afnan0356/world-dominion",
-  "desc": "An offline grand strategy sandbox where you lead nations, shape economies, build military power, influence global politics, and determine the future of a living world.",
-  "lang": "GDScript",
-  "topics": [
-   "android",
-   "android-game",
-   "diplomacy",
-   "economic-simulation",
-   "gdscript",
-   "geopolitical-simulator",
-   "godot",
-   "godot-engine",
-   "grand-strategy",
-   "military-strategy",
-   "mobile-game",
-   "nation-building",
-   "offline-game",
-   "open-source-game",
-   "political-simulation",
-   "sandbox-game",
-   "simulation-game",
-   "strategy-game",
-   "world-dominion",
-   "world-simulator"
-  ],
-  "stars": 60,
-  "forks": 0,
-  "age_days": 7,
-  "velocity": 8.57,
-  "created": "2026-11-04",
-  "relevance": 3.5,
-  "score": 30.0
  },
  {
   "source": "github",
@@ -594,13 +594,13 @@
   "desc": "Godot 4 pixel-art water VFX demo with day/night scenes and live parameter workbench",
   "lang": "Python",
   "topics": [],
-  "stars": 54,
+  "stars": 55,
   "forks": 13,
   "age_days": 10,
-  "velocity": 5.4,
+  "velocity": 5.5,
   "created": "2026-11-01",
   "relevance": 4.0,
-  "score": 21.6
+  "score": 22.0
  },
  {
   "source": "Unity Blog",
@@ -690,13 +690,13 @@
   "desc": "A Galaxy on Fire 2 Decomp and Unity Remake",
   "lang": "C#",
   "topics": [],
-  "stars": 278,
+  "stars": 279,
   "forks": 28,
   "age_days": 43,
-  "velocity": 6.47,
+  "velocity": 6.49,
   "created": "2026-09-29",
   "relevance": 3.0,
-  "score": 19.41
+  "score": 19.47
  },
  {
   "source": "github",
@@ -764,11 +764,11 @@
   ],
   "stars": 53,
   "forks": 11,
-  "age_days": 27,
-  "velocity": 1.96,
+  "age_days": 28,
+  "velocity": 1.89,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 17.64
+  "score": 17.01
  },
  {
   "source": "Unity Blog",
@@ -833,13 +833,13 @@
    "typescript",
    "webgpu"
   ],
-  "stars": 81,
+  "stars": 82,
   "forks": 13,
   "age_days": 27,
-  "velocity": 3.0,
+  "velocity": 3.04,
   "created": "2026-10-15",
   "relevance": 5.0,
-  "score": 15.0
+  "score": 15.2
  },
  {
   "source": "Unity Blog",
