@@ -24,13 +24,13 @@
    "webgl",
    "wuxia"
   ],
-  "stars": 248,
-  "forks": 37,
+  "stars": 269,
+  "forks": 46,
   "age_days": 1,
-  "velocity": 248.0,
+  "velocity": 269.0,
   "created": "2026-11-11",
   "relevance": 3.5,
-  "score": 868.0
+  "score": 941.5
  },
  {
   "source": "github",
@@ -58,13 +58,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 1024,
+  "stars": 1033,
   "forks": 100,
   "age_days": 29,
-  "velocity": 35.31,
+  "velocity": 35.62,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 388.41
+  "score": 391.82
  },
  {
   "source": "github",
@@ -73,13 +73,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 2097,
-  "forks": 280,
+  "stars": 2100,
+  "forks": 282,
   "age_days": 27,
-  "velocity": 77.67,
+  "velocity": 77.78,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 388.35
+  "score": 388.9
  },
  {
   "source": "github",
@@ -100,13 +100,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 842,
+  "stars": 848,
   "forks": 104,
   "age_days": 41,
-  "velocity": 20.54,
+  "velocity": 20.68,
   "created": "2026-10-02",
   "relevance": 10.0,
-  "score": 205.4
+  "score": 206.8
  },
  {
   "source": "github",
@@ -115,13 +115,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 300,
+  "stars": 301,
   "forks": 66,
   "age_days": 14,
-  "velocity": 21.43,
+  "velocity": 21.5,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 150.01
+  "score": 150.5
  },
  {
   "source": "github",
@@ -136,13 +136,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2474,
-  "forks": 164,
+  "stars": 2475,
+  "forks": 165,
   "age_days": 29,
-  "velocity": 85.31,
+  "velocity": 85.34,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 85.31
+  "score": 85.34
  },
  {
   "source": "github",
@@ -165,13 +165,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 158,
+  "stars": 159,
   "forks": 14,
   "age_days": 22,
-  "velocity": 7.18,
+  "velocity": 7.23,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 78.98
+  "score": 79.53
  },
  {
   "source": "github",
@@ -197,13 +197,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 324,
+  "stars": 325,
   "forks": 15,
   "age_days": 13,
-  "velocity": 24.92,
+  "velocity": 25.0,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 74.76
+  "score": 75.0
  },
  {
   "source": "github",
@@ -233,13 +233,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 233,
+  "stars": 236,
   "forks": 29,
   "age_days": 30,
-  "velocity": 7.77,
+  "velocity": 7.87,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 66.05
+  "score": 66.89
  },
  {
   "source": "github",
@@ -260,13 +260,13 @@
    "zion",
    "zionism"
   ],
-  "stars": 695,
+  "stars": 696,
   "forks": 30,
   "age_days": 33,
-  "velocity": 21.06,
+  "velocity": 21.09,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 63.18
+  "score": 63.27
  },
  {
   "source": "github",
@@ -283,13 +283,13 @@
    "procedural-generation",
    "topdown"
   ],
-  "stars": 187,
-  "forks": 28,
-  "age_days": 17,
-  "velocity": 11.0,
+  "stars": 188,
+  "forks": 29,
+  "age_days": 18,
+  "velocity": 10.44,
   "created": "2026-10-26",
   "relevance": 5.5,
-  "score": 60.5
+  "score": 57.42
  },
  {
   "source": "github",
@@ -407,13 +407,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 189,
+  "stars": 191,
   "forks": 8,
   "age_days": 28,
-  "velocity": 6.75,
+  "velocity": 6.82,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 33.75
+  "score": 34.1
  },
  {
   "source": "github",
@@ -422,13 +422,13 @@
   "desc": "Procedural low poly tree generator in Godot.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 161,
+  "stars": 162,
   "forks": 19,
   "age_days": 17,
-  "velocity": 9.47,
+  "velocity": 9.53,
   "created": "2026-10-27",
   "relevance": 3.5,
-  "score": 33.15
+  "score": 33.35
  },
  {
   "source": "github",
@@ -536,13 +536,13 @@
   "desc": "CRT shader for retroarch, unity, kodi, amiberry and 86box",
   "lang": "GLSL",
   "topics": [],
-  "stars": 169,
+  "stars": 170,
   "forks": 5,
   "age_days": 29,
-  "velocity": 5.83,
+  "velocity": 5.86,
   "created": "2026-10-14",
   "relevance": 5.0,
-  "score": 29.15
+  "score": 29.3
  },
  {
   "source": "github",
@@ -551,13 +551,13 @@
   "desc": "Godot Tool to create procedural pixel creatures",
   "lang": "C#",
   "topics": [],
-  "stars": 262,
+  "stars": 263,
   "forks": 32,
   "age_days": 42,
-  "velocity": 6.24,
+  "velocity": 6.26,
   "created": "2026-10-01",
   "relevance": 4.5,
-  "score": 28.08
+  "score": 28.17
  },
  {
   "source": "github",
@@ -579,13 +579,13 @@
    "pytorch",
    "smpl-x"
   ],
-  "stars": 114,
+  "stars": 116,
   "forks": 12,
   "age_days": 23,
-  "velocity": 4.96,
+  "velocity": 5.04,
   "created": "2026-10-20",
   "relevance": 4.5,
-  "score": 22.32
+  "score": 22.68
  },
  {
   "source": "github",
@@ -594,13 +594,13 @@
   "desc": "Godot 4 pixel-art water VFX demo with day/night scenes and live parameter workbench",
   "lang": "Python",
   "topics": [],
-  "stars": 59,
-  "forks": 13,
+  "stars": 60,
+  "forks": 14,
   "age_days": 11,
-  "velocity": 5.36,
+  "velocity": 5.45,
   "created": "2026-11-01",
   "relevance": 4.0,
-  "score": 21.44
+  "score": 21.8
  },
  {
   "source": "Unity Blog",
@@ -720,6 +720,36 @@
   "score": 18.58
  },
  {
+  "source": "Unity Blog",
+  "title": "10 teams, 3 programs, and 7 years: Efficiently managing 3D assets in defense training",
+  "url": "https://unity.com/blog/3d-asset-management-defense-training",
+  "desc": "i3 Corps maintains military digital twins for years. See how its 10 art teams manage 3D assets with Unity Addressables and Unity Asset Manager.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Tue, 10 Nov 2026",
+  "relevance": 5.5,
+  "score": 16.5
+ },
+ {
+  "source": "Unity Blog",
+  "title": "Echo Weaver: Building a time-loop metroidbrainia in Unity 6",
+  "url": "https://unity.com/blog/echo-weaver-time-loop-unity",
+  "desc": "Moonlight Kids explain how they built time-loop metroidbrainia Echo Weaver in Unity 6: chunk streaming, loop-reset architecture, and 2D optimization tips.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Thu, 08 Oct 2026",
+  "relevance": 5.5,
+  "score": 16.5
+ },
+ {
   "source": "github",
   "title": "Alone9898/SpineSlim",
   "url": "https://github.com/Alone9898/SpineSlim",
@@ -749,41 +779,37 @@
   ],
   "stars": 53,
   "forks": 11,
-  "age_days": 28,
-  "velocity": 1.89,
+  "age_days": 29,
+  "velocity": 1.83,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 17.01
+  "score": 16.47
  },
  {
-  "source": "Unity Blog",
-  "title": "10 teams, 3 programs, and 7 years: Efficiently managing 3D assets in defense training",
-  "url": "https://unity.com/blog/3d-asset-management-defense-training",
-  "desc": "i3 Corps maintains military digital twins for years. See how its 10 art teams manage 3D assets with Unity Addressables and Unity Asset Manager.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Tue, 10 Nov 2026",
-  "relevance": 5.5,
-  "score": 16.5
- },
- {
-  "source": "Unity Blog",
-  "title": "Echo Weaver: Building a time-loop metroidbrainia in Unity 6",
-  "url": "https://unity.com/blog/echo-weaver-time-loop-unity",
-  "desc": "Moonlight Kids explain how they built time-loop metroidbrainia Echo Weaver in Unity 6: chunk streaming, loop-reset architecture, and 2D optimization tips.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Thu, 08 Oct 2026",
-  "relevance": 5.5,
-  "score": 16.5
+  "source": "github",
+  "title": "ForgeAX/forgeax-engine",
+  "url": "https://github.com/ForgeAX/forgeax-engine",
+  "desc": "AI-native TypeScript game engine for AI agents, targeting all major platforms. WebGPU rendering, ECS, procedural assets, and a CLI-first development workflow.",
+  "lang": "TypeScript",
+  "topics": [
+   "ai-agents",
+   "ai-native",
+   "cross-platform",
+   "ecs",
+   "entity-component-system",
+   "game-development",
+   "game-engine",
+   "procedural-generation",
+   "typescript",
+   "webgpu"
+  ],
+  "stars": 85,
+  "forks": 13,
+  "age_days": 28,
+  "velocity": 3.04,
+  "created": "2026-10-15",
+  "relevance": 5.0,
+  "score": 15.2
  },
  {
   "source": "github",
@@ -963,32 +989,6 @@
   "created": "2026-10-12",
   "relevance": 3.5,
   "score": 14.81
- },
- {
-  "source": "github",
-  "title": "ForgeAX/forgeax-engine",
-  "url": "https://github.com/ForgeAX/forgeax-engine",
-  "desc": "AI-native TypeScript game engine for AI agents, targeting all major platforms. WebGPU rendering, ECS, procedural assets, and a CLI-first development workflow.",
-  "lang": "TypeScript",
-  "topics": [
-   "ai-agents",
-   "ai-native",
-   "cross-platform",
-   "ecs",
-   "entity-component-system",
-   "game-development",
-   "game-engine",
-   "procedural-generation",
-   "typescript",
-   "webgpu"
-  ],
-  "stars": 83,
-  "forks": 13,
-  "age_days": 28,
-  "velocity": 2.96,
-  "created": "2026-10-15",
-  "relevance": 5.0,
-  "score": 14.8
  },
  {
   "source": "github",
