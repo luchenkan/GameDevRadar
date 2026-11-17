@@ -25,13 +25,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 1364,
-  "forks": 132,
+  "stars": 1525,
+  "forks": 136,
   "age_days": 33,
-  "velocity": 41.33,
+  "velocity": 46.21,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 454.63
+  "score": 508.31
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 2153,
-  "forks": 295,
+  "stars": 2155,
+  "forks": 296,
   "age_days": 31,
-  "velocity": 69.45,
+  "velocity": 69.52,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 347.25
+  "score": 347.6
  },
  {
   "source": "github",
@@ -73,13 +73,13 @@
    "webgl",
    "wuxia"
   ],
-  "stars": 379,
-  "forks": 59,
+  "stars": 393,
+  "forks": 61,
   "age_days": 5,
-  "velocity": 75.8,
+  "velocity": 78.6,
   "created": "2026-11-11",
   "relevance": 3.5,
-  "score": 265.3
+  "score": 275.1
  },
  {
   "source": "github",
@@ -88,13 +88,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 332,
+  "stars": 333,
   "forks": 73,
   "age_days": 18,
-  "velocity": 18.44,
+  "velocity": 18.5,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 129.08
+  "score": 129.5
  },
  {
   "source": "github",
@@ -109,13 +109,42 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2516,
+  "stars": 2517,
   "forks": 168,
   "age_days": 33,
-  "velocity": 76.24,
+  "velocity": 76.27,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 76.24
+  "score": 76.27
+ },
+ {
+  "source": "github",
+  "title": "LucasJRamos/spritekiln",
+  "url": "https://github.com/LucasJRamos/spritekiln",
+  "desc": "Animated pixel-art sprites (8-direction top-down or side view) from procedural 3D models in YAML, built to be driven by coding AIs. Exports to Godot, Unity, MonoGame or any engine.",
+  "lang": "Python",
+  "topics": [
+   "ai-tools",
+   "claude-code",
+   "gamedev",
+   "godot",
+   "mcp",
+   "monogame",
+   "pixel-art",
+   "procedural-generation",
+   "python",
+   "sdf",
+   "sprites",
+   "spritesheet",
+   "unity"
+  ],
+  "stars": 170,
+  "forks": 15,
+  "age_days": 26,
+  "velocity": 6.54,
+  "created": "2026-10-21",
+  "relevance": 11.0,
+  "score": 71.94
  },
  {
   "source": "github",
@@ -145,42 +174,13 @@
    "webgl",
    "world-building"
   ],
-  "stars": 137,
+  "stars": 138,
   "forks": 13,
-  "age_days": 23,
-  "velocity": 5.96,
+  "age_days": 24,
+  "velocity": 5.75,
   "created": "2026-10-24",
   "relevance": 12.5,
-  "score": 74.5
- },
- {
-  "source": "github",
-  "title": "LucasJRamos/spritekiln",
-  "url": "https://github.com/LucasJRamos/spritekiln",
-  "desc": "Animated pixel-art sprites (8-direction top-down or side view) from procedural 3D models in YAML, built to be driven by coding AIs. Exports to Godot, Unity, MonoGame or any engine.",
-  "lang": "Python",
-  "topics": [
-   "ai-tools",
-   "claude-code",
-   "gamedev",
-   "godot",
-   "mcp",
-   "monogame",
-   "pixel-art",
-   "procedural-generation",
-   "python",
-   "sdf",
-   "sprites",
-   "spritesheet",
-   "unity"
-  ],
-  "stars": 169,
-  "forks": 15,
-  "age_days": 26,
-  "velocity": 6.5,
-  "created": "2026-10-21",
-  "relevance": 11.0,
-  "score": 71.5
+  "score": 71.88
  },
  {
   "source": "github",
@@ -210,13 +210,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 272,
-  "forks": 32,
-  "age_days": 34,
-  "velocity": 8.0,
+  "stars": 277,
+  "forks": 33,
+  "age_days": 35,
+  "velocity": 7.91,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 68.0
+  "score": 67.23
  },
  {
   "source": "github",
@@ -242,13 +242,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 334,
+  "stars": 333,
   "forks": 16,
   "age_days": 17,
-  "velocity": 19.65,
+  "velocity": 19.59,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 58.95
+  "score": 58.77
  },
  {
   "source": "github",
@@ -271,11 +271,11 @@
   ],
   "stars": 699,
   "forks": 29,
-  "age_days": 37,
-  "velocity": 18.89,
+  "age_days": 38,
+  "velocity": 18.39,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 56.67
+  "score": 55.17
  },
  {
   "source": "github",
@@ -292,13 +292,13 @@
    "procedural-generation",
    "topdown"
   ],
-  "stars": 209,
+  "stars": 210,
   "forks": 33,
-  "age_days": 21,
-  "velocity": 9.95,
+  "age_days": 22,
+  "velocity": 9.55,
   "created": "2026-10-26",
   "relevance": 5.5,
-  "score": 54.72
+  "score": 52.53
  },
  {
   "source": "github",
@@ -307,13 +307,13 @@
   "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
   "lang": "Python",
   "topics": [],
-  "stars": 173,
+  "stars": 174,
   "forks": 11,
   "age_days": 37,
-  "velocity": 4.68,
+  "velocity": 4.7,
   "created": "2026-10-10",
   "relevance": 9.5,
-  "score": 44.46
+  "score": 44.65
  },
  {
   "source": "github",
@@ -360,13 +360,13 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 134,
+  "stars": 135,
   "forks": 17,
   "age_days": 31,
-  "velocity": 4.32,
+  "velocity": 4.35,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 38.88
+  "score": 39.15
  },
  {
   "source": "github",
@@ -386,13 +386,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 222,
+  "stars": 226,
   "forks": 8,
   "age_days": 32,
-  "velocity": 6.94,
+  "velocity": 7.06,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 34.7
+  "score": 35.3
  },
  {
   "source": "github",
@@ -401,13 +401,13 @@
   "desc": "Real-time radar for Binance Agent ID wallets on BNB Smart Chain.",
   "lang": "JavaScript",
   "topics": [],
-  "stars": 117,
+  "stars": 116,
   "forks": 37,
   "age_days": 12,
-  "velocity": 9.75,
+  "velocity": 9.67,
   "created": "2026-11-04",
   "relevance": 3.5,
-  "score": 34.12
+  "score": 33.84
  },
  {
   "source": "github",
@@ -554,13 +554,13 @@
    "z",
    "zod-engine"
   ],
-  "stars": 221,
+  "stars": 223,
   "forks": 14,
   "age_days": 35,
-  "velocity": 6.31,
+  "velocity": 6.37,
   "created": "2026-10-12",
   "relevance": 3.5,
-  "score": 22.08
+  "score": 22.3
  },
  {
   "source": "github",
@@ -665,13 +665,13 @@
    "procedural-animation",
    "unity"
   ],
-  "stars": 98,
+  "stars": 99,
   "forks": 7,
   "age_days": 39,
-  "velocity": 2.51,
+  "velocity": 2.54,
   "created": "2026-10-09",
   "relevance": 7.0,
-  "score": 17.57
+  "score": 17.78
  },
  {
   "source": "github",
@@ -767,13 +767,13 @@
   "desc": "Jeff FX 1.1 — Godot 4.7 pixel & 3D VFX workshop. 129 effects (63 pixel + 66 3D), homing missiles, sprite-sheet export and scene placement.",
   "lang": "GDScript",
   "topics": [],
-  "stars": 87,
+  "stars": 89,
   "forks": 21,
   "age_days": 26,
-  "velocity": 3.35,
+  "velocity": 3.42,
   "created": "2026-10-21",
   "relevance": 4.5,
-  "score": 15.08
+  "score": 15.39
  },
  {
   "source": "Unity Blog",
@@ -923,13 +923,13 @@
    "unity",
    "windows"
   ],
-  "stars": 53,
+  "stars": 54,
   "forks": 11,
-  "age_days": 32,
-  "velocity": 1.66,
+  "age_days": 33,
+  "velocity": 1.64,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 14.94
+  "score": 14.76
  },
  {
   "source": "github",
