@@ -25,13 +25,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 2457,
-  "forks": 230,
+  "stars": 2475,
+  "forks": 237,
   "age_days": 36,
-  "velocity": 68.25,
+  "velocity": 68.75,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 750.75
+  "score": 756.25
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 2176,
+  "stars": 2174,
   "forks": 297,
   "age_days": 34,
-  "velocity": 64.0,
+  "velocity": 63.94,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 320.0
+  "score": 319.7
  },
  {
   "source": "github",
@@ -73,13 +73,13 @@
    "webgl",
    "wuxia"
   ],
-  "stars": 420,
-  "forks": 67,
+  "stars": 421,
+  "forks": 68,
   "age_days": 8,
-  "velocity": 52.5,
+  "velocity": 52.62,
   "created": "2026-11-11",
   "relevance": 3.5,
-  "score": 183.75
+  "score": 184.17
  },
  {
   "source": "github",
@@ -123,13 +123,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 344,
+  "stars": 345,
   "forks": 79,
   "age_days": 21,
-  "velocity": 16.38,
+  "velocity": 16.43,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 114.66
+  "score": 115.01
  },
  {
   "source": "github",
@@ -159,13 +159,13 @@
    "webgl",
    "world-building"
   ],
-  "stars": 165,
+  "stars": 167,
   "forks": 18,
   "age_days": 26,
-  "velocity": 6.35,
+  "velocity": 6.42,
   "created": "2026-10-24",
   "relevance": 12.5,
-  "score": 79.38
+  "score": 80.25
  },
  {
   "source": "github",
@@ -231,13 +231,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 314,
+  "stars": 316,
   "forks": 38,
   "age_days": 37,
-  "velocity": 8.49,
+  "velocity": 8.54,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 72.17
+  "score": 72.59
  },
  {
   "source": "github",
@@ -281,36 +281,13 @@
    "spritesheet",
    "unity"
   ],
-  "stars": 175,
+  "stars": 176,
   "forks": 17,
   "age_days": 29,
-  "velocity": 6.03,
+  "velocity": 6.07,
   "created": "2026-10-21",
   "relevance": 11.0,
-  "score": 66.33
- },
- {
-  "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 233,
-  "forks": 36,
-  "age_days": 24,
-  "velocity": 9.71,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 53.41
+  "score": 66.77
  },
  {
   "source": "github",
@@ -338,6 +315,29 @@
   "created": "2026-10-10",
   "relevance": 3.0,
   "score": 52.5
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 234,
+  "forks": 36,
+  "age_days": 25,
+  "velocity": 9.36,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 51.48
  },
  {
   "source": "github",
@@ -457,13 +457,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 240,
+  "stars": 242,
   "forks": 7,
   "age_days": 35,
-  "velocity": 6.86,
+  "velocity": 6.91,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 34.3
+  "score": 34.55
  },
  {
   "source": "github",
@@ -538,13 +538,13 @@
   "desc": "CRT shader for retroarch, unity, kodi, amiberry and 86box",
   "lang": "GLSL",
   "topics": [],
-  "stars": 173,
+  "stars": 174,
   "forks": 5,
   "age_days": 36,
-  "velocity": 4.81,
+  "velocity": 4.83,
   "created": "2026-10-14",
   "relevance": 5.0,
-  "score": 24.05
+  "score": 24.15
  },
  {
   "source": "github",
@@ -626,13 +626,13 @@
    "pytorch",
    "smpl-x"
   ],
-  "stars": 141,
+  "stars": 142,
   "forks": 16,
   "age_days": 30,
-  "velocity": 4.7,
+  "velocity": 4.73,
   "created": "2026-10-20",
   "relevance": 4.5,
-  "score": 21.15
+  "score": 21.29
  },
  {
   "source": "Unity Blog",
@@ -671,13 +671,13 @@
   "desc": "Godot 4 pixel-art water VFX demo with day/night scenes and live parameter workbench",
   "lang": "Python",
   "topics": [],
-  "stars": 84,
+  "stars": 85,
   "forks": 18,
   "age_days": 18,
-  "velocity": 4.67,
+  "velocity": 4.72,
   "created": "2026-11-01",
   "relevance": 4.0,
-  "score": 18.68
+  "score": 18.88
  },
  {
   "source": "github",
@@ -701,13 +701,13 @@
    "threejs",
    "webgpu"
   ],
-  "stars": 61,
+  "stars": 62,
   "forks": 4,
   "age_days": 26,
-  "velocity": 2.35,
+  "velocity": 2.38,
   "created": "2026-10-24",
   "relevance": 7.5,
-  "score": 17.62
+  "score": 17.85
  },
  {
   "source": "github",
@@ -751,7 +751,7 @@
    "unity"
   ],
   "stars": 99,
-  "forks": 7,
+  "forks": 8,
   "age_days": 42,
   "velocity": 2.36,
   "created": "2026-10-09",
@@ -818,6 +818,21 @@
   "created": "2026-10-17",
   "relevance": 9.0,
   "score": 15.57
+ },
+ {
+  "source": "github",
+  "title": "jeffstudio-dev/Jeff-FX-forge",
+  "url": "https://github.com/jeffstudio-dev/Jeff-FX-forge",
+  "desc": "Jeff FX 1.1 — Godot 4.7 pixel & 3D VFX workshop. 129 effects (63 pixel + 66 3D), homing missiles, sprite-sheet export and scene placement.",
+  "lang": "GDScript",
+  "topics": [],
+  "stars": 97,
+  "forks": 22,
+  "age_days": 29,
+  "velocity": 3.34,
+  "created": "2026-10-21",
+  "relevance": 4.5,
+  "score": 15.03
  },
  {
   "source": "github",
@@ -926,18 +941,30 @@
  },
  {
   "source": "github",
-  "title": "jeffstudio-dev/Jeff-FX-forge",
-  "url": "https://github.com/jeffstudio-dev/Jeff-FX-forge",
-  "desc": "Jeff FX 1.1 — Godot 4.7 pixel & 3D VFX workshop. 129 effects (63 pixel + 66 3D), homing missiles, sprite-sheet export and scene placement.",
-  "lang": "GDScript",
-  "topics": [],
-  "stars": 96,
-  "forks": 22,
-  "age_days": 29,
-  "velocity": 3.31,
-  "created": "2026-10-21",
-  "relevance": 4.5,
-  "score": 14.89
+  "title": "Krixx1337/ReAgentLive",
+  "url": "https://github.com/Krixx1337/ReAgentLive",
+  "desc": "Let AI agents explore a running game from the inside. Live, safe, instant.",
+  "lang": "C++",
+  "topics": [
+   "ai-agents",
+   "claude-code",
+   "cpp",
+   "disassembler",
+   "dumper-7",
+   "game-modding",
+   "mcp",
+   "memory-editing",
+   "reverse-engineering",
+   "runtime-analysis",
+   "unreal-engine"
+  ],
+  "stars": 15,
+  "forks": 3,
+  "age_days": 8,
+  "velocity": 1.88,
+  "created": "2026-11-11",
+  "relevance": 7.5,
+  "score": 14.1
  },
  {
   "source": "github",
@@ -969,38 +996,11 @@
   ],
   "stars": 55,
   "forks": 11,
-  "age_days": 35,
-  "velocity": 1.57,
+  "age_days": 36,
+  "velocity": 1.53,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 14.13
- },
- {
-  "source": "github",
-  "title": "Krixx1337/ReAgentLive",
-  "url": "https://github.com/Krixx1337/ReAgentLive",
-  "desc": "Let AI agents explore a running game from the inside. Live, safe, instant.",
-  "lang": "C++",
-  "topics": [
-   "ai-agents",
-   "claude-code",
-   "cpp",
-   "disassembler",
-   "dumper-7",
-   "game-modding",
-   "mcp",
-   "memory-editing",
-   "reverse-engineering",
-   "runtime-analysis",
-   "unreal-engine"
-  ],
-  "stars": 15,
-  "forks": 3,
-  "age_days": 8,
-  "velocity": 1.88,
-  "created": "2026-11-11",
-  "relevance": 7.5,
-  "score": 14.1
+  "score": 13.77
  },
  {
   "source": "github",
