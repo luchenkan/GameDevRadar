@@ -1,29 +1,29 @@
-# 游戏开发技术雷达 · 2026-11-19
+# 游戏开发技术雷达 · 2026-11-20
 
-> 自动生成于 2026-11-19 15:56 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
+> 自动生成于 2026-11-20 10:23 (UTC+8)。评分 = 热度增速 × 个人画像相关度。仅供每日速览, 上榜与否不是质量背书。
 
 | # | 评分 | 项目 / 话题 | 来源 | 信号 | 简介 |
 |---|---|---|---|---|---|
-| 1 | 21.0 | [How SEED renders a world players never stop building](https://unity.com/blog/seed-unity-rendering-performance) | Unity Blog | 官方发布 | Unity rendering performance at scale: Klang Games profiles r |
-| 2 | 21.0 | [Scaling Scritchy Scratchy across platforms](https://unity.com/blog/scaling-scritchy-scratchy-across-platforms) | Unity Blog | 官方发布 | Learn how Scritchy Scratchy used Unity to port the game acro |
-| 3 | 18.0 | [Revopoint's MIRACO 2 Combines Portable 3D Scanning With Automated Scan-to-CAD](https://80.lv/articles/revopoint-s-miraco-2-combines-portable-3d-scanning-with-automated-scan-to-cad/) | 80.lv | 官方发布 | Revopoint’s MIRACO 2 launches on Kickstarter with six scanni |
-| 4 | 16.5 | [10 teams, 3 programs, and 7 years: Efficiently managing 3D assets in defense training](https://unity.com/blog/3d-asset-management-defense-training) | Unity Blog | 官方发布 | i3 Corps maintains military digital twins for years. See how |
-| 5 | 16.5 | [Echo Weaver: Building a time-loop metroidbrainia in Unity 6](https://unity.com/blog/echo-weaver-time-loop-unity) | Unity Blog | 官方发布 | Moonlight Kids explain how they built time-loop metroidbrain |
-| 6 | 15.0 | [The Unity CLI 1.0 is here!](https://unity.com/the-unity-cli-1.0-is-here) | Unity Blog | 官方发布 | Unity CLI 1.0 is out of beta. Connect Claude Code, Codex, Gr |
-| 7 | 15.0 | [The gods are dead. But not forever: Inside Azra Games’ UnGodly](https://unity.com/blog/ungodly-azra-games-mobile-rpg-unity) | Unity Blog | 官方发布 | UnGodly is a dark-fantasy action RPG built with Unity for iP |
-| 8 | 15.0 | [How Soft Crunch Games built Foxy Dumplings for every platform](https://unity.com/blog/foxy-dumplings-cross-platform-development) | Unity Blog | 官方发布 | See how the team behind Foxy Dumplings built one Unity proje |
-| 9 | 15.0 | [Content directories: Beyond the AssetBundle](https://unity.com/blog/content-directories-beyond-the-assetbundle) | Unity Blog | 官方发布 | Unity 6.6 introduces content directories, a faster and more  |
-| 10 | 15.0 | [Optimizing Deep Rock Galactic Survivor for mobile](https://unity.com/blog/optimizing-deep-rock-galactic-survivor-for-mobile) | Unity Blog | 官方发布 | Learn how Piktiv ported Deep Rock Galactic: Survivor to mobi |
-| 11 | 15.0 | [AI is changing discoverability: How Talking Tom boosted AI referral traffic by 357%](https://www.pocketgamer.biz/ai-is-changing-discoverability-how-talking-tom-boosted-ai-referral-traffic-by-357/) | PocketGamer.biz | 官方发布 | As more of the population turns toward AI to answer question |
-| 12 | 12.0 | [How RUST LTD built the deep firearm simulation for Hot Dogs, Horseshoes & Hand Grenades 2](https://unity.com/blog/rust-ltd-hot-dogs-horseshoes-hand-grenades-2) | Unity Blog | 官方发布 | Rust LTD rebuilt Hot Dogs, Horseshoes & Hand Grenades 2 from |
-| 13 | 10.5 | [Synty Studios Joins Unity, Bringing Artist-Made Assets to Unity Spark](https://unity.com/blog/synty-studios-acquisition) | Unity Blog | 官方发布 | Unity has acquired Synty Studios, maker of the POLYGON 3D as |
-| 14 | 10.5 | [Skipping domain reload: faster iteration using the MethodReload feature](https://unity.com/blog/skipping-domain-reload-faster-iteration-using-the-methodreload-feature) | Unity Blog | 官方发布 | Stop waiting on domain reloads! Learn how MethodReload speed |
-| 15 | 10.5 | [Meta VR Glasses are coming. Build with Unity from day one.](https://unity.com/blog/build-for-meta-vr-glasses-with-unity) | Unity Blog | 官方发布 | Unity 6.6 adds day-one support for Meta VR Glasses developme |
-| 16 | 10.5 | [From simulation to real-world deployment: Unity Simulation Pro early access](https://unity.com/blog/unity-simulation-pro-early-access) | Unity Blog | 官方发布 | Explore Unity Simulation Pro Early Access, a supported robot |
-| 17 | 10.5 | [Anthropic orders AI tool Claude to stop remaking video games](https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games) | GameDeveloper | 官方发布 | Update: Anthropic has confirmed it's released an update to O |
-| 18 | 10.5 | [Unity acquires 3D asset creator Synty Studios; artist-created content to be integrated into AI game-creation platform Unity Spark](https://www.gamesindustry.biz/unity-acquires-3d-asset-creator-synty-studios-artist-created-content-to-be-integrated-into-ai-game-creation-platform-unity-spark) | GamesIndustry.biz | 官方发布 | Unity has acquired 3D asset creator and publisher Synty Stud |
-| 19 | 10.5 | [Unity acquires Synty Studios to bring its asset library to Unity Spark](https://www.pocketgamer.biz/unity-acquires-synty-studios-to-bring-its-asset-library-to-unity-spark/) | PocketGamer.biz | 官方发布 | Unity has acquired Synty Studios, the creator of the Polygon |
-| 20 | 10.5 | [Nvidia scandal and the EU's Digital Fairness Act problem | Week in Mobile Games podcast](https://www.pocketgamer.biz/nvidia-scandal-and-the-eus-digital-fairness-act-problem-week-in-mobile-games-podcast/) | PocketGamer.biz | 官方发布 | PocketGamer.biz head of content Craig Chapple and deputy edi |
+| 1 | 750.75 | [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) | github | 2457★ / 36天 | Professional Blender 5.3 workflows as Agent Skills for Claud |
+| 2 | 320.0 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | github | 2176★ / 34天 | Co-op Anything: point your AI agent at any single-player gam |
+| 3 | 183.75 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | github | 420★ / 8天 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent sk |
+| 4 | 153.0 | [erwachirakenya-dot/gflfc-decryption-toolkit](https://github.com/erwachirakenya-dot/gflfc-decryption-toolkit) | github | 153★ / 4天 | GFLFC Decryption Toolkit: Fire Control UnityFS XOR, FlatBuff |
+| 5 | 114.66 | [brenpoly/CardboardXR](https://github.com/brenpoly/CardboardXR) | github | 344★ / 21天 | Mobile VR with 6DoF head tracking, passthrough and hand trac |
+| 6 | 79.38 | [rtmandreyev/construct](https://github.com/rtmandreyev/construct) | github | 165★ / 26天 | Persistent, editable objects for AI agents: researched part  |
+| 7 | 76.5 | [KayJames196/cat-game-engine](https://github.com/KayJames196/cat-game-engine) | github | 153★ / 4天 | Cat Game Engine: three-level abstraction game engine with un |
+| 8 | 72.17 | [jaisurya-dev-art/rigby2d](https://github.com/jaisurya-dev-art/rigby2d) | github | 314★ / 37天 | Open-source 2D skeletal animation editor for games and film. |
+| 9 | 70.22 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | github | 2528★ / 36天 | A free, open source C# framework for making games, or your o |
+| 10 | 66.33 | [LucasJRamos/spritekiln](https://github.com/LucasJRamos/spritekiln) | github | 175★ / 29天 | Animated pixel-art sprites (8-direction top-down or side vie |
+| 11 | 53.41 | [Zengkailin/parametric-topdown-pixel-architecture](https://github.com/Zengkailin/parametric-topdown-pixel-architecture) | github | 233★ / 24天 | 参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d |
+| 12 | 52.5 | [eyalgolan/statecraft-israel](https://github.com/eyalgolan/statecraft-israel) | github | 700★ / 40天 | A Civilization-style strategy game about governing Israel fr |
+| 13 | 50.85 | [daniel-madrid-07/weeping-of-the-empire](https://github.com/daniel-madrid-07/weeping-of-the-empire) | github | 339★ / 20天 | Zelda: Tears of the Kingdom (TotK) 1.0.0 recompiled to nativ |
+| 14 | 42.27 | [kanaworksai-hue/effekseer-vfx-skill](https://github.com/kanaworksai-hue/effekseer-vfx-skill) | github | 178★ / 40天 | Agent skills that make real-time game VFX: procedural Effeks |
+| 15 | 36.81 | [LumioGames/LGUI](https://github.com/LumioGames/LGUI) | github | 139★ / 34天 | Game UI framework for AI agents, made by LumioGames. Build s |
+| 16 | 36.46 | [christos-antono/NPCTalk](https://github.com/christos-antono/NPCTalk) | github | 232★ / 35天 | Make any NPC in any game talk back with Fish Audio: skills,  |
+| 17 | 34.3 | [tigin-backwards/oni-moono](https://github.com/tigin-backwards/oni-moono) | github | 240★ / 35天 | Oxygen Not Included's Unity layer on the BRUTAL framework, . |
+| 18 | 30.69 | [Cynthia-wlan9509/offline-game-revival](https://github.com/Cynthia-wlan9509/offline-game-revival) | github | 109★ / 32天 | 🎮 AI agent skill that revives shut-down mobile games as full |
+| 19 | 28.42 | [FrogCosmonaut/cosmo_tree_gen](https://github.com/FrogCosmonaut/cosmo_tree_gen) | github | 195★ / 24天 | Procedural tree generator addon for Godot 4 |
+| 20 | 27.05 | [PigCanFly1001/unitytool-agent-radar](https://github.com/PigCanFly1001/unitytool-agent-radar) | github | 116★ / 15天 | Real-time radar for Binance Agent ID wallets on BNB Smart Ch |
 
 ---
 *由 GameDevRadar 生成 · 画像配置见 profile.json · 觉得哪类多了/少了就改画像, 别忍着*
