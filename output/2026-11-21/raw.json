@@ -25,13 +25,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 2542,
-  "forks": 244,
+  "stars": 2555,
+  "forks": 248,
   "age_days": 37,
-  "velocity": 68.7,
+  "velocity": 69.05,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 755.7
+  "score": 759.55
  },
  {
   "source": "github",
@@ -40,13 +40,13 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 2181,
+  "stars": 2184,
   "forks": 297,
   "age_days": 35,
-  "velocity": 62.31,
+  "velocity": 62.4,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 311.55
+  "score": 312.0
  },
  {
   "source": "github",
@@ -73,13 +73,13 @@
    "webgl",
    "wuxia"
   ],
-  "stars": 425,
-  "forks": 69,
+  "stars": 427,
+  "forks": 70,
   "age_days": 9,
-  "velocity": 47.22,
+  "velocity": 47.44,
   "created": "2026-11-11",
   "relevance": 3.5,
-  "score": 165.27
+  "score": 166.04
  },
  {
   "source": "github",
@@ -195,13 +195,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 321,
+  "stars": 323,
   "forks": 39,
   "age_days": 38,
-  "velocity": 8.45,
+  "velocity": 8.5,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 71.82
+  "score": 72.25
  },
  {
   "source": "github",
@@ -291,29 +291,6 @@
  },
  {
   "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 236,
-  "forks": 36,
-  "age_days": 25,
-  "velocity": 9.44,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 51.92
- },
- {
-  "source": "github",
   "title": "eyalgolan/statecraft-israel",
   "url": "https://github.com/eyalgolan/statecraft-israel",
   "desc": "A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.",
@@ -338,6 +315,29 @@
   "created": "2026-10-10",
   "relevance": 3.0,
   "score": 51.21
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 238,
+  "forks": 36,
+  "age_days": 26,
+  "velocity": 9.15,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 50.33
  },
  {
   "source": "github",
@@ -378,13 +378,13 @@
   "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
   "lang": "Python",
   "topics": [],
-  "stars": 178,
+  "stars": 179,
   "forks": 13,
   "age_days": 41,
-  "velocity": 4.34,
+  "velocity": 4.37,
   "created": "2026-10-10",
   "relevance": 9.5,
-  "score": 41.23
+  "score": 41.52
  },
  {
   "source": "github",
@@ -457,13 +457,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 252,
+  "stars": 253,
   "forks": 10,
   "age_days": 36,
-  "velocity": 7.0,
+  "velocity": 7.03,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 35.0
+  "score": 35.15
  },
  {
   "source": "github",
@@ -490,7 +490,7 @@
    "unity"
   ],
   "stars": 111,
-  "forks": 22,
+  "forks": 23,
   "age_days": 33,
   "velocity": 3.36,
   "created": "2026-10-19",
@@ -508,13 +508,13 @@
    "godot4",
    "procedural-generation"
   ],
-  "stars": 198,
+  "stars": 199,
   "forks": 21,
   "age_days": 25,
-  "velocity": 7.92,
+  "velocity": 7.96,
   "created": "2026-10-27",
   "relevance": 3.5,
-  "score": 27.72
+  "score": 27.86
  },
  {
   "source": "github",
@@ -567,13 +567,13 @@
    "z",
    "zod-engine"
   ],
-  "stars": 250,
+  "stars": 251,
   "forks": 15,
   "age_days": 39,
-  "velocity": 6.41,
+  "velocity": 6.44,
   "created": "2026-10-12",
   "relevance": 3.5,
-  "score": 22.44
+  "score": 22.54
  },
  {
   "source": "github",
@@ -605,6 +605,36 @@
   "created": "2026-10-22",
   "relevance": 9.0,
   "score": 21.42
+ },
+ {
+  "source": "github",
+  "title": "Wendystar0628/AI-High-Pressure-Challenge",
+  "url": "https://github.com/Wendystar0628/AI-High-Pressure-Challenge",
+  "desc": "AI十项全能·定时挑战赛 | AI Decathlon · Timed Challenge: a timed benchmark for AI coding agents — 13 tasks across 10 categories (Lean proofs, competition math, CUDA/CPU optimization, game AI, 3D/web apps, nested OS), 60–100 min each, no human help.",
+  "lang": "JavaScript",
+  "topics": [
+   "agentic-coding",
+   "ai-agents",
+   "benchmark",
+   "claude-code",
+   "codex",
+   "coding-agents",
+   "cuda",
+   "leaderboard",
+   "lean4",
+   "llm",
+   "llm-benchmark",
+   "llm-evaluation",
+   "threejs",
+   "webgpu"
+  ],
+  "stars": 76,
+  "forks": 5,
+  "age_days": 27,
+  "velocity": 2.81,
+  "created": "2026-10-24",
+  "relevance": 7.5,
+  "score": 21.07
  },
  {
   "source": "github",
@@ -663,36 +693,6 @@
   "created": "Mon, 28 Sep 2026",
   "relevance": 7.0,
   "score": 21.0
- },
- {
-  "source": "github",
-  "title": "Wendystar0628/AI-High-Pressure-Challenge",
-  "url": "https://github.com/Wendystar0628/AI-High-Pressure-Challenge",
-  "desc": "AI十项全能·定时挑战赛 | AI Decathlon · Timed Challenge: a timed benchmark for AI coding agents — 13 tasks across 10 categories (Lean proofs, competition math, CUDA/CPU optimization, game AI, 3D/web apps, nested OS), 60–100 min each, no human help.",
-  "lang": "JavaScript",
-  "topics": [
-   "agentic-coding",
-   "ai-agents",
-   "benchmark",
-   "claude-code",
-   "codex",
-   "coding-agents",
-   "cuda",
-   "leaderboard",
-   "lean4",
-   "llm",
-   "llm-benchmark",
-   "llm-evaluation",
-   "threejs",
-   "webgpu"
-  ],
-  "stars": 74,
-  "forks": 5,
-  "age_days": 27,
-  "velocity": 2.74,
-  "created": "2026-10-24",
-  "relevance": 7.5,
-  "score": 20.55
  },
  {
   "source": "github",
@@ -796,7 +796,7 @@
    "webgpu"
   ],
   "stars": 116,
-  "forks": 16,
+  "forks": 17,
   "age_days": 36,
   "velocity": 3.22,
   "created": "2026-10-15",
@@ -896,6 +896,21 @@
  },
  {
   "source": "github",
+  "title": "lofihashbloom/MetahumanURP",
+  "url": "https://github.com/lofihashbloom/MetahumanURP",
+  "desc": "Package to help import Epic's Metahuman into Unity 6 URP",
+  "lang": "C#",
+  "topics": [],
+  "stars": 27,
+  "forks": 5,
+  "age_days": 10,
+  "velocity": 2.7,
+  "created": "2026-11-10",
+  "relevance": 5.0,
+  "score": 13.5
+ },
+ {
+  "source": "github",
   "title": "Alone9898/SpineSlim",
   "url": "https://github.com/Alone9898/SpineSlim",
   "desc": "Spine 资源优化与批量处理工具，支持版本转换、纹理压缩和 PC / 移动端资源整理。A desktop toolkit for Spine version conversion, texture compression, and PC/mobile asset organization.",
@@ -924,26 +939,11 @@
   ],
   "stars": 55,
   "forks": 11,
-  "age_days": 36,
-  "velocity": 1.53,
+  "age_days": 37,
+  "velocity": 1.49,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 13.77
- },
- {
-  "source": "github",
-  "title": "lofihashbloom/MetahumanURP",
-  "url": "https://github.com/lofihashbloom/MetahumanURP",
-  "desc": "Package to help import Epic's Metahuman into Unity 6 URP",
-  "lang": "C#",
-  "topics": [],
-  "stars": 27,
-  "forks": 5,
-  "age_days": 10,
-  "velocity": 2.7,
-  "created": "2026-11-10",
-  "relevance": 5.0,
-  "score": 13.5
+  "score": 13.41
  },
  {
   "source": "github",
