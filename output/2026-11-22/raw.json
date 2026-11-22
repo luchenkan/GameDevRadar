@@ -27,13 +27,13 @@
    "windows-10",
    "windows-11"
   ],
-  "stars": 279,
-  "forks": 41,
+  "stars": 259,
+  "forks": 37,
   "age_days": 1,
-  "velocity": 279.0,
+  "velocity": 259.0,
   "created": "2026-11-21",
   "relevance": 3.5,
-  "score": 976.5
+  "score": 906.5
  },
  {
   "source": "github",
@@ -63,13 +63,13 @@
    "thunderstore",
    "unity"
   ],
-  "stars": 315,
-  "forks": 58,
+  "stars": 301,
+  "forks": 51,
   "age_days": 1,
-  "velocity": 315.0,
+  "velocity": 301.0,
   "created": "2026-11-21",
   "relevance": 3.0,
-  "score": 945.0
+  "score": 903.0
  },
  {
   "source": "github",
@@ -97,13 +97,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 2623,
-  "forks": 254,
+  "stars": 2641,
+  "forks": 257,
   "age_days": 38,
-  "velocity": 69.03,
+  "velocity": 69.5,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 759.33
+  "score": 764.5
  },
  {
   "source": "github",
@@ -169,13 +169,13 @@
    "windows-11",
    "x64"
   ],
-  "stars": 166,
+  "stars": 165,
   "forks": 17,
   "age_days": 1,
-  "velocity": 166.0,
+  "velocity": 165.0,
   "created": "2026-11-21",
   "relevance": 2.0,
-  "score": 332.0
+  "score": 330.0
  },
  {
   "source": "github",
@@ -218,7 +218,7 @@
    "wuxia"
   ],
   "stars": 432,
-  "forks": 71,
+  "forks": 72,
   "age_days": 10,
   "velocity": 43.2,
   "created": "2026-11-11",
@@ -232,13 +232,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 348,
+  "stars": 349,
   "forks": 81,
   "age_days": 23,
-  "velocity": 15.13,
+  "velocity": 15.17,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 105.91
+  "score": 106.19
  },
  {
   "source": "github",
@@ -339,13 +339,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 327,
+  "stars": 329,
   "forks": 39,
   "age_days": 39,
-  "velocity": 8.38,
+  "velocity": 8.44,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 71.23
+  "score": 71.74
  },
  {
   "source": "github",
@@ -435,29 +435,6 @@
  },
  {
   "source": "github",
-  "title": "Zengkailin/parametric-topdown-pixel-architecture",
-  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
-  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
-  "lang": "JavaScript",
-  "topics": [
-   "2",
-   "architecture",
-   "building-generator",
-   "godot",
-   "pixel-art",
-   "procedural-generation",
-   "topdown"
-  ],
-  "stars": 241,
-  "forks": 37,
-  "age_days": 26,
-  "velocity": 9.27,
-  "created": "2026-10-26",
-  "relevance": 5.5,
-  "score": 50.98
- },
- {
-  "source": "github",
   "title": "eyalgolan/statecraft-israel",
   "url": "https://github.com/eyalgolan/statecraft-israel",
   "desc": "A Civilization-style strategy game about governing Israel from 15 May 1948. Real ministers, real map, every fact sourced. Unity + deterministic C# sim.",
@@ -475,13 +452,36 @@
    "zion",
    "zionism"
   ],
-  "stars": 700,
+  "stars": 701,
   "forks": 28,
   "age_days": 42,
-  "velocity": 16.67,
+  "velocity": 16.69,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 50.01
+  "score": 50.07
+ },
+ {
+  "source": "github",
+  "title": "Zengkailin/parametric-topdown-pixel-architecture",
+  "url": "https://github.com/Zengkailin/parametric-topdown-pixel-architecture",
+  "desc": "参数化2D topdown像素建筑 - 把参数化 3D 建筑渲染成 2D 俯视像素图的本地网页工具（Godot hd2d_scene_tools 网页移植版）",
+  "lang": "JavaScript",
+  "topics": [
+   "2",
+   "architecture",
+   "building-generator",
+   "godot",
+   "pixel-art",
+   "procedural-generation",
+   "topdown"
+  ],
+  "stars": 241,
+  "forks": 37,
+  "age_days": 27,
+  "velocity": 8.93,
+  "created": "2026-10-26",
+  "relevance": 5.5,
+  "score": 49.11
  },
  {
   "source": "github",
@@ -507,13 +507,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 342,
+  "stars": 344,
   "forks": 16,
   "age_days": 22,
-  "velocity": 15.55,
+  "velocity": 15.64,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 46.65
+  "score": 46.92
  },
  {
   "source": "github",
@@ -522,13 +522,13 @@
   "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
   "lang": "Python",
   "topics": [],
-  "stars": 180,
+  "stars": 181,
   "forks": 13,
   "age_days": 42,
-  "velocity": 4.29,
+  "velocity": 4.31,
   "created": "2026-10-10",
   "relevance": 9.5,
-  "score": 40.76
+  "score": 40.94
  },
  {
   "source": "github",
@@ -576,13 +576,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 262,
+  "stars": 264,
   "forks": 10,
   "age_days": 37,
-  "velocity": 7.08,
+  "velocity": 7.14,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 35.4
+  "score": 35.7
  },
  {
   "source": "github",
@@ -633,13 +633,13 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 112,
+  "stars": 114,
   "forks": 24,
   "age_days": 34,
-  "velocity": 3.29,
+  "velocity": 3.35,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 29.61
+  "score": 30.15
  },
  {
   "source": "github",
@@ -652,13 +652,13 @@
    "godot4",
    "procedural-generation"
   ],
-  "stars": 201,
+  "stars": 202,
   "forks": 21,
   "age_days": 26,
-  "velocity": 7.73,
+  "velocity": 7.77,
   "created": "2026-10-27",
   "relevance": 3.5,
-  "score": 27.05
+  "score": 27.2
  },
  {
   "source": "github",
@@ -692,6 +692,36 @@
  },
  {
   "source": "github",
+  "title": "Wendystar0628/AI-High-Pressure-Challenge",
+  "url": "https://github.com/Wendystar0628/AI-High-Pressure-Challenge",
+  "desc": "AI十项全能·定时挑战赛 | AI Decathlon · Timed Challenge: a timed benchmark for AI coding agents — 13 tasks across 10 categories (Lean proofs, competition math, CUDA/CPU optimization, game AI, 3D/web apps, nested OS), 60–100 min each, no human help.",
+  "lang": "JavaScript",
+  "topics": [
+   "agentic-coding",
+   "ai-agents",
+   "benchmark",
+   "claude-code",
+   "codex",
+   "coding-agents",
+   "cuda",
+   "leaderboard",
+   "lean4",
+   "llm",
+   "llm-benchmark",
+   "llm-evaluation",
+   "threejs",
+   "webgpu"
+  ],
+  "stars": 84,
+  "forks": 5,
+  "age_days": 28,
+  "velocity": 3.0,
+  "created": "2026-10-24",
+  "relevance": 7.5,
+  "score": 22.5
+ },
+ {
+  "source": "github",
   "title": "playopenz/OpenZ",
   "url": "https://github.com/playopenz/OpenZ",
   "desc": "OpenZ: the faithful open-source 3D fan remake of Z (The Bitmap Brothers, 1996) for its 30th anniversary. Free, never sold, 100% original assets.",
@@ -718,36 +748,6 @@
   "created": "2026-10-12",
   "relevance": 3.5,
   "score": 22.22
- },
- {
-  "source": "github",
-  "title": "Wendystar0628/AI-High-Pressure-Challenge",
-  "url": "https://github.com/Wendystar0628/AI-High-Pressure-Challenge",
-  "desc": "AI十项全能·定时挑战赛 | AI Decathlon · Timed Challenge: a timed benchmark for AI coding agents — 13 tasks across 10 categories (Lean proofs, competition math, CUDA/CPU optimization, game AI, 3D/web apps, nested OS), 60–100 min each, no human help.",
-  "lang": "JavaScript",
-  "topics": [
-   "agentic-coding",
-   "ai-agents",
-   "benchmark",
-   "claude-code",
-   "codex",
-   "coding-agents",
-   "cuda",
-   "leaderboard",
-   "lean4",
-   "llm",
-   "llm-benchmark",
-   "llm-evaluation",
-   "threejs",
-   "webgpu"
-  ],
-  "stars": 83,
-  "forks": 5,
-  "age_days": 28,
-  "velocity": 2.96,
-  "created": "2026-10-24",
-  "relevance": 7.5,
-  "score": 22.2
  },
  {
   "source": "Unity Blog",
@@ -830,13 +830,13 @@
    "pytorch",
    "smpl-x"
   ],
-  "stars": 145,
-  "forks": 16,
+  "stars": 146,
+  "forks": 17,
   "age_days": 32,
-  "velocity": 4.53,
+  "velocity": 4.56,
   "created": "2026-10-20",
   "relevance": 4.5,
-  "score": 20.39
+  "score": 20.52
  },
  {
   "source": "github",
@@ -897,29 +897,6 @@
   "created": "Thu, 08 Oct 2026",
   "relevance": 5.5,
   "score": 16.5
- },
- {
-  "source": "github",
-  "title": "WouterApts/openik-unity",
-  "url": "https://github.com/WouterApts/openik-unity",
-  "desc": "Inverse Kinematics package for Unity, featuring multiple solvers, joint limits and procedural animation samples.",
-  "lang": "C#",
-  "topics": [
-   "ccd",
-   "fabrik",
-   "inverse-kinematics",
-   "jacobian",
-   "joint-limits",
-   "procedural-animation",
-   "unity"
-  ],
-  "stars": 100,
-  "forks": 8,
-  "age_days": 44,
-  "velocity": 2.27,
-  "created": "2026-10-09",
-  "relevance": 7.0,
-  "score": 15.89
  },
  {
   "source": "github",
@@ -1040,6 +1017,30 @@
  },
  {
   "source": "github",
+  "title": "DigitalDreams-Lab/OpenVorld",
+  "url": "https://github.com/DigitalDreams-Lab/OpenVorld",
+  "desc": "An open-source harness for AI agents, shown as a living pixel-art world. Every project is a vorld: a crew, a shared folder, and writs you approve. Local-first.",
+  "lang": "JavaScript",
+  "topics": [
+   "agentic-ai",
+   "ai",
+   "game",
+   "harness",
+   "harness-ai",
+   "harness-engineering",
+   "openworld",
+   "rpg-game"
+  ],
+  "stars": 24,
+  "forks": 2,
+  "age_days": 6,
+  "velocity": 4.0,
+  "created": "2026-11-15",
+  "relevance": 3.5,
+  "score": 14.0
+ },
+ {
+  "source": "github",
   "title": "Alone9898/SpineSlim",
   "url": "https://github.com/Alone9898/SpineSlim",
   "desc": "Spine 资源优化与批量处理工具，支持版本转换、纹理压缩和 PC / 移动端资源整理。A desktop toolkit for Spine version conversion, texture compression, and PC/mobile asset organization.",
@@ -1068,35 +1069,11 @@
   ],
   "stars": 55,
   "forks": 11,
-  "age_days": 37,
-  "velocity": 1.49,
+  "age_days": 38,
+  "velocity": 1.45,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 13.41
- },
- {
-  "source": "github",
-  "title": "DigitalDreams-Lab/OpenVorld",
-  "url": "https://github.com/DigitalDreams-Lab/OpenVorld",
-  "desc": "An open-source harness for AI agents, shown as a living pixel-art world. Every project is a vorld: a crew, a shared folder, and writs you approve. Local-first.",
-  "lang": "JavaScript",
-  "topics": [
-   "agentic-ai",
-   "ai",
-   "game",
-   "harness",
-   "harness-ai",
-   "harness-engineering",
-   "openworld",
-   "rpg-game"
-  ],
-  "stars": 22,
-  "forks": 2,
-  "age_days": 6,
-  "velocity": 3.67,
-  "created": "2026-11-15",
-  "relevance": 3.5,
-  "score": 12.84
+  "score": 13.05
  },
  {
   "source": "github",
@@ -1204,6 +1181,21 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Thu, 22 Oct 2026",
+  "relevance": 3.5,
+  "score": 10.5
+ },
+ {
+  "source": "Unity Blog",
+  "title": "Meta VR Glasses are coming. Build with Unity from day one.",
+  "url": "https://unity.com/blog/build-for-meta-vr-glasses-with-unity",
+  "desc": "Unity 6.6 adds day-one support for Meta VR Glasses development: build with OpenXR, XR Interaction Toolkit, XR Hands, eye tracking, and quad views rendering.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Thu, 24 Sep 2026",
   "relevance": 3.5,
   "score": 10.5
  }
