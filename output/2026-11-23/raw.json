@@ -1,78 +1,6 @@
 [
  {
   "source": "github",
-  "title": "david-v-devt5/hollow-knight-silksong-rosary-silk-crest-save-portable-x64",
-  "url": "https://github.com/david-v-devt5/hollow-knight-silksong-rosary-silk-crest-save-portable-x64",
-  "desc": "Hollow Knight Silksong Rosary, Silk & Crest Save File Editor: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-  "lang": "Jupyter Notebook",
-  "topics": [
-   "bepinex",
-   "crest",
-   "debug-mod",
-   "editor",
-   "file",
-   "hollow-crest",
-   "hollow-editor",
-   "hollow-file",
-   "hollow-knight-silksong",
-   "hollow-rosary",
-   "hollow-save",
-   "hollow-silk",
-   "rosary",
-   "save",
-   "save-editor",
-   "silk",
-   "silksong",
-   "unity",
-   "windows-10",
-   "windows-11"
-  ],
-  "stars": 257,
-  "forks": 37,
-  "age_days": 1,
-  "velocity": 257.0,
-  "created": "2026-11-21",
-  "relevance": 3.5,
-  "score": 899.5
- },
- {
-  "source": "github",
-  "title": "danieltcode1990i1/r-e-p-o-monster-hud-scrap-radar-portable-x64",
-  "url": "https://github.com/danieltcode1990i1/r-e-p-o-monster-hud-scrap-radar-portable-x64",
-  "desc": "R.E.P.O. Monster telemetry-hud, Scrap Radar & Late-Join bridge: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-  "lang": "Jupyter Notebook",
-  "topics": [
-   "bepinex",
-   "bridge",
-   "hud",
-   "join",
-   "late",
-   "mod-menu",
-   "monster",
-   "r-bridge",
-   "r-hud",
-   "r-join",
-   "r-late",
-   "r-monster",
-   "r-radar",
-   "r-scrap",
-   "radar",
-   "repo-game",
-   "scrap",
-   "scrap-radar",
-   "thunderstore",
-   "unity"
-  ],
-  "stars": 299,
-  "forks": 51,
-  "age_days": 1,
-  "velocity": 299.0,
-  "created": "2026-11-21",
-  "relevance": 3.0,
-  "score": 897.0
- },
- {
-  "source": "github",
   "title": "Massimo0408/hollow-knight-silksong-rosary-silk-crest-save-veceren",
   "url": "https://github.com/Massimo0408/hollow-knight-silksong-rosary-silk-crest-save-veceren",
   "desc": "Bend rosary, silk, and crest saves to your will with this modder-ready Veceren editor.",
@@ -93,13 +21,13 @@
    "windows-10",
    "windows-11"
   ],
-  "stars": 225,
+  "stars": 224,
   "forks": 0,
   "age_days": 1,
-  "velocity": 225.0,
+  "velocity": 224.0,
   "created": "2026-11-22",
   "relevance": 3.5,
-  "score": 787.5
+  "score": 784.0
  },
  {
   "source": "github",
@@ -127,13 +55,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 2708,
-  "forks": 262,
+  "stars": 2726,
+  "forks": 265,
   "age_days": 39,
-  "velocity": 69.44,
+  "velocity": 69.9,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 763.84
+  "score": 768.9
  },
  {
   "source": "github",
@@ -157,59 +85,22 @@
    "windows-10",
    "windows-11"
   ],
-  "stars": 228,
+  "stars": 227,
   "forks": 0,
   "age_days": 1,
-  "velocity": 228.0,
+  "velocity": 227.0,
   "created": "2026-11-22",
   "relevance": 3.0,
-  "score": 684.0
+  "score": 681.0
  },
  {
   "source": "github",
-  "title": "mikekimeng02e9/hollow-knight-silksong-bepinex-debug-menu-hitbox-portable",
-  "url": "https://github.com/mikekimeng02e9/hollow-knight-silksong-bepinex-debug-menu-hitbox-portable",
-  "desc": "Hollow Knight Silksong BepInEx Debug Menu, Hitbox & Savestate Suite: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-  "lang": "Jupyter Notebook",
-  "topics": [
-   "bepinex",
-   "debug",
-   "debug-mod",
-   "hitbox",
-   "hollow-debug",
-   "hollow-hitbox",
-   "hollow-knight-silksong",
-   "hollow-menu",
-   "hollow-savestate",
-   "hollow-suite",
-   "menu",
-   "portable",
-   "save-editor",
-   "savestate",
-   "silksong",
-   "suite",
-   "unity",
-   "windows-10",
-   "windows-11",
-   "x64"
-  ],
-  "stars": 136,
-  "forks": 14,
-  "age_days": 1,
-  "velocity": 136.0,
-  "created": "2026-11-21",
-  "relevance": 3.5,
-  "score": 476.0
- },
- {
-  "source": "github",
-  "title": "jamesncode1996a3/slay-the-spire-2-mod-loader-developer-console-portable-x64",
-  "url": "https://github.com/jamesncode1996a3/slay-the-spire-2-mod-loader-developer-console-portable-x64",
-  "desc": "Slay the Spire 2 Mod Loader & Developer Console Unlocker: native 64-bit Windows 10/11 portable x64 build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.",
-  "lang": "Jupyter Notebook",
+  "title": "joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen",
+  "url": "https://github.com/joaovictoraraujoaraujo949-droid/slay-the-spire-2-mod-loader-developer-console-bedalen",
+  "desc": "Build and run mods for Slay the Spire 2 with a developer console built in.",
+  "lang": "HTML",
   "topics": [
    "console",
-   "console-unlocker",
    "csharp",
    "deck-tracker",
    "developer",
@@ -218,24 +109,18 @@
    "mod",
    "mod-loader",
    "save-editor",
-   "slay-console",
-   "slay-developer",
-   "slay-loader",
-   "slay-mod",
    "slay-the-spire-2",
-   "slay-unlocker",
-   "unlocker",
    "windows-10",
    "windows-11",
    "x64"
   ],
-  "stars": 165,
-  "forks": 17,
+  "stars": 250,
+  "forks": 0,
   "age_days": 1,
-  "velocity": 165.0,
-  "created": "2026-11-21",
+  "velocity": 250.0,
+  "created": "2026-11-23",
   "relevance": 2.0,
-  "score": 330.0
+  "score": 500.0
  },
  {
   "source": "github",
@@ -244,13 +129,49 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 2195,
+  "stars": 2194,
   "forks": 299,
   "age_days": 37,
-  "velocity": 59.32,
+  "velocity": 59.3,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 296.6
+  "score": 296.5
+ },
+ {
+  "source": "github",
+  "title": "AllenWalkerED/nier-reincarnation-pc",
+  "url": "https://github.com/AllenWalkerED/nier-reincarnation-pc",
+  "desc": "Unofficial PC port of NieR Re[in]carnation (Global 3.7.1): local server, Android runtime, launcher. Bring your own game files.",
+  "lang": "HTML",
+  "topics": [
+   "android",
+   "applibot",
+   "arm64",
+   "binary-translation",
+   "compatibility-layer",
+   "direct3d11",
+   "fan-project",
+   "game-preservation",
+   "lunar-tear",
+   "nier",
+   "nier-reincarnation",
+   "nierreincarnation",
+   "offline",
+   "pc-port",
+   "private-server",
+   "square-enix",
+   "unity",
+   "unofficial-port",
+   "vulkan",
+   "windows"
+  ],
+  "stars": 79,
+  "forks": 2,
+  "age_days": 1,
+  "velocity": 79.0,
+  "created": "2026-11-22",
+  "relevance": 3.5,
+  "score": 276.5
  },
  {
   "source": "github",
@@ -277,13 +198,13 @@
    "webgl",
    "wuxia"
   ],
-  "stars": 438,
-  "forks": 72,
+  "stars": 442,
+  "forks": 73,
   "age_days": 11,
-  "velocity": 39.82,
+  "velocity": 40.18,
   "created": "2026-11-11",
   "relevance": 3.5,
-  "score": 139.37
+  "score": 140.63
  },
  {
   "source": "github",
@@ -292,13 +213,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 350,
+  "stars": 352,
   "forks": 82,
   "age_days": 24,
-  "velocity": 14.58,
+  "velocity": 14.67,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 102.06
+  "score": 102.69
  },
  {
   "source": "github",
@@ -337,42 +258,6 @@
  },
  {
   "source": "github",
-  "title": "rtmandreyev/construct",
-  "url": "https://github.com/rtmandreyev/construct",
-  "desc": "Persistent, editable objects for AI agents: researched part by part, honest about what is known, and carried into worlds, film, web, games, CAD and print.",
-  "lang": "Python",
-  "topics": [
-   "3d-printing",
-   "3d-visualization",
-   "agent-based-modeling",
-   "agent-skills",
-   "ai-agents",
-   "blender-addon",
-   "cad",
-   "claude-code",
-   "game-assets",
-   "gltf",
-   "godot",
-   "hologram",
-   "llm",
-   "mcp",
-   "netlogo",
-   "procedural-generation",
-   "provenance",
-   "python",
-   "webgl",
-   "world-building"
-  ],
-  "stars": 169,
-  "forks": 18,
-  "age_days": 29,
-  "velocity": 5.83,
-  "created": "2026-10-24",
-  "relevance": 12.5,
-  "score": 72.88
- },
- {
-  "source": "github",
   "title": "jaisurya-dev-art/rigby2d",
   "url": "https://github.com/jaisurya-dev-art/rigby2d",
   "desc": "Open-source 2D skeletal animation editor for games and film. AutoRig layered PSDs, animate with meshes, IK and physics, lip-sync from audio, render video, export JSON/.skel. JavaScript, Rust, Godot and Unity runtimes. Built-in MCP server for AI assistants. Docs: rigby2d.com/docs",
@@ -399,13 +284,49 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 340,
+  "stars": 342,
   "forks": 40,
-  "age_days": 40,
-  "velocity": 8.5,
+  "age_days": 41,
+  "velocity": 8.34,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 72.25
+  "score": 70.89
+ },
+ {
+  "source": "github",
+  "title": "rtmandreyev/construct",
+  "url": "https://github.com/rtmandreyev/construct",
+  "desc": "Persistent, editable objects for AI agents: researched part by part, honest about what is known, and carried into worlds, film, web, games, CAD and print.",
+  "lang": "Python",
+  "topics": [
+   "3d-printing",
+   "3d-visualization",
+   "agent-based-modeling",
+   "agent-skills",
+   "ai-agents",
+   "blender-addon",
+   "cad",
+   "claude-code",
+   "game-assets",
+   "gltf",
+   "godot",
+   "hologram",
+   "llm",
+   "mcp",
+   "netlogo",
+   "procedural-generation",
+   "provenance",
+   "python",
+   "webgl",
+   "world-building"
+  ],
+  "stars": 170,
+  "forks": 18,
+  "age_days": 30,
+  "velocity": 5.67,
+  "created": "2026-10-24",
+  "relevance": 12.5,
+  "score": 70.88
  },
  {
   "source": "github",
@@ -420,13 +341,13 @@
    "gamedev",
    "vulkan"
   ],
-  "stars": 2542,
+  "stars": 2545,
   "forks": 175,
   "age_days": 39,
-  "velocity": 65.18,
+  "velocity": 65.26,
   "created": "2026-10-14",
   "relevance": 1.0,
-  "score": 65.18
+  "score": 65.26
  },
  {
   "source": "github",
@@ -472,13 +393,13 @@
    "procedural-generation",
    "topdown"
   ],
-  "stars": 243,
+  "stars": 244,
   "forks": 38,
-  "age_days": 27,
-  "velocity": 9.0,
+  "age_days": 28,
+  "velocity": 8.71,
   "created": "2026-10-26",
   "relevance": 5.5,
-  "score": 49.5
+  "score": 47.91
  },
  {
   "source": "github",
@@ -501,11 +422,11 @@
   ],
   "stars": 701,
   "forks": 28,
-  "age_days": 43,
-  "velocity": 16.3,
+  "age_days": 44,
+  "velocity": 15.93,
   "created": "2026-10-10",
   "relevance": 3.0,
-  "score": 48.9
+  "score": 47.79
  },
  {
   "source": "github",
@@ -582,13 +503,13 @@
   "desc": "Agent skills that make real-time game VFX: procedural Effekseer effects, video-model flipbooks, or both, played in Godot and Unity (Claude Code, Codex and other Agent Skills hosts).",
   "lang": "Python",
   "topics": [],
-  "stars": 181,
+  "stars": 182,
   "forks": 13,
   "age_days": 43,
-  "velocity": 4.21,
+  "velocity": 4.23,
   "created": "2026-10-10",
   "relevance": 9.5,
-  "score": 39.99
+  "score": 40.19
  },
  {
   "source": "github",
@@ -610,13 +531,13 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 151,
+  "stars": 153,
   "forks": 21,
   "age_days": 37,
-  "velocity": 4.08,
+  "velocity": 4.14,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 36.72
+  "score": 37.26
  },
  {
   "source": "github",
@@ -636,13 +557,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 270,
+  "stars": 274,
   "forks": 10,
   "age_days": 38,
-  "velocity": 7.11,
+  "velocity": 7.21,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 35.55
+  "score": 36.05
  },
  {
   "source": "github",
@@ -693,13 +614,13 @@
    "screen-recording",
    "unity"
   ],
-  "stars": 118,
+  "stars": 119,
   "forks": 24,
   "age_days": 35,
-  "velocity": 3.37,
+  "velocity": 3.4,
   "created": "2026-10-19",
   "relevance": 9.0,
-  "score": 30.33
+  "score": 30.6
  },
  {
   "source": "github",
@@ -712,13 +633,28 @@
    "godot4",
    "procedural-generation"
   ],
-  "stars": 203,
+  "stars": 205,
   "forks": 21,
   "age_days": 27,
-  "velocity": 7.52,
+  "velocity": 7.59,
   "created": "2026-10-27",
   "relevance": 3.5,
-  "score": 26.32
+  "score": 26.56
+ },
+ {
+  "source": "github",
+  "title": "PigCanFly1001/unitytool-agent-radar",
+  "url": "https://github.com/PigCanFly1001/unitytool-agent-radar",
+  "desc": "Real-time radar for Binance Agent ID wallets on BNB Smart Chain.",
+  "lang": "JavaScript",
+  "topics": [],
+  "stars": 116,
+  "forks": 37,
+  "age_days": 18,
+  "velocity": 6.44,
+  "created": "2026-11-04",
+  "relevance": 3.5,
+  "score": 22.54
  },
  {
   "source": "github",
@@ -734,6 +670,37 @@
   "created": "2026-10-14",
   "relevance": 5.0,
   "score": 22.3
+ },
+ {
+  "source": "github",
+  "title": "Wendystar0628/AI-All-Round-Bench",
+  "url": "https://github.com/Wendystar0628/AI-All-Round-Bench",
+  "desc": "AI全能测评 | AI All-Round Bench: timed challenge benchmarks for AI coding agents, organized into topics. Live: AI Decathlon — 13 tasks across 10 categories (Lean proofs, competition math, CUDA/CPU optimization, game AI, 3D/web apps, nested OS), 60–100 min each, no human help. Coming: AI Aesthetics.",
+  "lang": "JavaScript",
+  "topics": [
+   "agentic-coding",
+   "ai-agents",
+   "ai-benchmark",
+   "benchmark",
+   "claude-code",
+   "codex",
+   "coding-agents",
+   "cuda",
+   "leaderboard",
+   "lean4",
+   "llm",
+   "llm-benchmark",
+   "llm-evaluation",
+   "threejs",
+   "webgpu"
+  ],
+  "stars": 86,
+  "forks": 5,
+  "age_days": 29,
+  "velocity": 2.97,
+  "created": "2026-10-24",
+  "relevance": 7.5,
+  "score": 22.28
  },
  {
   "source": "github",
@@ -763,37 +730,6 @@
   "created": "2026-10-12",
   "relevance": 3.5,
   "score": 21.77
- },
- {
-  "source": "github",
-  "title": "Wendystar0628/AI-All-Round-Bench",
-  "url": "https://github.com/Wendystar0628/AI-All-Round-Bench",
-  "desc": "AI全能测评 | AI All-Round Bench: timed challenge benchmarks for AI coding agents, organized into topics. Live: AI Decathlon — 13 tasks across 10 categories (Lean proofs, competition math, CUDA/CPU optimization, game AI, 3D/web apps, nested OS), 60–100 min each, no human help. Coming: AI Aesthetics.",
-  "lang": "JavaScript",
-  "topics": [
-   "agentic-coding",
-   "ai-agents",
-   "ai-benchmark",
-   "benchmark",
-   "claude-code",
-   "codex",
-   "coding-agents",
-   "cuda",
-   "leaderboard",
-   "lean4",
-   "llm",
-   "llm-benchmark",
-   "llm-evaluation",
-   "threejs",
-   "webgpu"
-  ],
-  "stars": 83,
-  "forks": 5,
-  "age_days": 29,
-  "velocity": 2.86,
-  "created": "2026-10-24",
-  "relevance": 7.5,
-  "score": 21.45
  },
  {
   "source": "Unity Blog",
@@ -845,13 +781,13 @@
    "pytorch",
    "smpl-x"
   ],
-  "stars": 149,
+  "stars": 150,
   "forks": 18,
   "age_days": 33,
-  "velocity": 4.52,
+  "velocity": 4.55,
   "created": "2026-10-20",
   "relevance": 4.5,
-  "score": 20.34
+  "score": 20.47
  },
  {
   "source": "github",
@@ -962,13 +898,13 @@
    "typescript",
    "webgpu"
   ],
-  "stars": 116,
+  "stars": 119,
   "forks": 17,
   "age_days": 38,
-  "velocity": 3.05,
+  "velocity": 3.13,
   "created": "2026-10-15",
   "relevance": 5.0,
-  "score": 15.25
+  "score": 15.65
  },
  {
   "source": "Unity Blog",
@@ -1063,6 +999,30 @@
  },
  {
   "source": "github",
+  "title": "DigitalDreams-Lab/OpenVorld",
+  "url": "https://github.com/DigitalDreams-Lab/OpenVorld",
+  "desc": "An open-source harness for AI agents, shown as a living pixel-art world. Every project is a vorld: a crew, a shared folder, and writs you approve. Local-first.",
+  "lang": "JavaScript",
+  "topics": [
+   "agentic-ai",
+   "ai",
+   "game",
+   "harness",
+   "harness-ai",
+   "harness-engineering",
+   "openworld",
+   "rpg-game"
+  ],
+  "stars": 26,
+  "forks": 2,
+  "age_days": 7,
+  "velocity": 3.71,
+  "created": "2026-11-15",
+  "relevance": 3.5,
+  "score": 12.98
+ },
+ {
+  "source": "github",
   "title": "Alone9898/SpineSlim",
   "url": "https://github.com/Alone9898/SpineSlim",
   "desc": "Spine 资源优化与批量处理工具，支持版本转换、纹理压缩和 PC / 移动端资源整理。A desktop toolkit for Spine version conversion, texture compression, and PC/mobile asset organization.",
@@ -1091,35 +1051,11 @@
   ],
   "stars": 55,
   "forks": 11,
-  "age_days": 38,
-  "velocity": 1.45,
+  "age_days": 39,
+  "velocity": 1.41,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 13.05
- },
- {
-  "source": "github",
-  "title": "DigitalDreams-Lab/OpenVorld",
-  "url": "https://github.com/DigitalDreams-Lab/OpenVorld",
-  "desc": "An open-source harness for AI agents, shown as a living pixel-art world. Every project is a vorld: a crew, a shared folder, and writs you approve. Local-first.",
-  "lang": "JavaScript",
-  "topics": [
-   "agentic-ai",
-   "ai",
-   "game",
-   "harness",
-   "harness-ai",
-   "harness-engineering",
-   "openworld",
-   "rpg-game"
-  ],
-  "stars": 26,
-  "forks": 2,
-  "age_days": 7,
-  "velocity": 3.71,
-  "created": "2026-11-15",
-  "relevance": 3.5,
-  "score": 12.98
+  "score": 12.69
  },
  {
   "source": "Unity Blog",
@@ -1215,6 +1151,21 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Thu, 24 Sep 2026",
+  "relevance": 3.5,
+  "score": 10.5
+ },
+ {
+  "source": "Unity Blog",
+  "title": "From simulation to real-world deployment: Unity Simulation Pro early access",
+  "url": "https://unity.com/blog/unity-simulation-pro-early-access",
+  "desc": "Explore Unity Simulation Pro Early Access, a supported robotics toolkit for training and simulation.",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Tue, 22 Sep 2026",
   "relevance": 3.5,
   "score": 10.5
  }
