@@ -25,13 +25,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 2792,
-  "forks": 275,
+  "stars": 2825,
+  "forks": 277,
   "age_days": 40,
-  "velocity": 69.8,
+  "velocity": 70.62,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 767.8
+  "score": 776.82
  },
  {
   "source": "github",
@@ -61,13 +61,13 @@
    "vulkan",
    "windows"
   ],
-  "stars": 203,
+  "stars": 220,
   "forks": 6,
   "age_days": 1,
-  "velocity": 203.0,
+  "velocity": 220.0,
   "created": "2026-11-22",
   "relevance": 3.5,
-  "score": 710.5
+  "score": 770.0
  },
  {
   "source": "github",
@@ -76,13 +76,41 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 2199,
-  "forks": 298,
+  "stars": 2202,
+  "forks": 299,
   "age_days": 38,
-  "velocity": 57.87,
+  "velocity": 57.95,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 289.35
+  "score": 289.75
+ },
+ {
+  "source": "github",
+  "title": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+  "url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+  "desc": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+  "lang": "Python",
+  "topics": [
+   "biosignals",
+   "electrophysiology",
+   "godot",
+   "language-models",
+   "llm",
+   "llm-agents",
+   "microelectrode-arrays",
+   "neural-signals",
+   "organoid",
+   "reinforcement-learning",
+   "reproducible-research",
+   "survival-game"
+  ],
+  "stars": 49,
+  "forks": 14,
+  "age_days": 1,
+  "velocity": 49.0,
+  "created": "2026-11-24",
+  "relevance": 3.5,
+  "score": 171.5
  },
  {
   "source": "github",
@@ -109,13 +137,13 @@
    "webgl",
    "wuxia"
   ],
-  "stars": 471,
-  "forks": 78,
+  "stars": 483,
+  "forks": 79,
   "age_days": 12,
-  "velocity": 39.25,
+  "velocity": 40.25,
   "created": "2026-11-11",
   "relevance": 3.5,
-  "score": 137.38
+  "score": 140.88
  },
  {
   "source": "github",
@@ -124,13 +152,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 352,
-  "forks": 83,
+  "stars": 353,
+  "forks": 84,
   "age_days": 25,
-  "velocity": 14.08,
+  "velocity": 14.12,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 98.56
+  "score": 98.84
  },
  {
   "source": "github",
@@ -195,13 +223,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 345,
+  "stars": 348,
   "forks": 41,
-  "age_days": 41,
-  "velocity": 8.41,
+  "age_days": 42,
+  "velocity": 8.29,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 71.48
+  "score": 70.46
  },
  {
   "source": "github",
@@ -231,34 +259,13 @@
    "webgl",
    "world-building"
   ],
-  "stars": 171,
+  "stars": 174,
   "forks": 18,
-  "age_days": 30,
-  "velocity": 5.7,
+  "age_days": 31,
+  "velocity": 5.61,
   "created": "2026-10-24",
   "relevance": 12.5,
-  "score": 71.25
- },
- {
-  "source": "github",
-  "title": "ahwootech/BRUTAL",
-  "url": "https://github.com/ahwootech/BRUTAL",
-  "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
-  "lang": "C#",
-  "topics": [
-   "csharp",
-   "dotnet",
-   "game-engine",
-   "gamedev",
-   "vulkan"
-  ],
-  "stars": 2548,
-  "forks": 175,
-  "age_days": 40,
-  "velocity": 63.7,
-  "created": "2026-10-14",
-  "relevance": 1.0,
-  "score": 63.7
+  "score": 70.12
  },
  {
   "source": "github",
@@ -283,13 +290,34 @@
    "godot4",
    "llm"
   ],
-  "stars": 46,
+  "stars": 48,
   "forks": 4,
   "age_days": 4,
-  "velocity": 11.5,
+  "velocity": 12.0,
   "created": "2026-11-19",
   "relevance": 5.5,
-  "score": 63.25
+  "score": 66.0
+ },
+ {
+  "source": "github",
+  "title": "ahwootech/BRUTAL",
+  "url": "https://github.com/ahwootech/BRUTAL",
+  "desc": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+  "lang": "C#",
+  "topics": [
+   "csharp",
+   "dotnet",
+   "game-engine",
+   "gamedev",
+   "vulkan"
+  ],
+  "stars": 2550,
+  "forks": 175,
+  "age_days": 40,
+  "velocity": 63.75,
+  "created": "2026-10-14",
+  "relevance": 1.0,
+  "score": 63.75
  },
  {
   "source": "github",
@@ -335,13 +363,13 @@
    "procedural-generation",
    "topdown"
   ],
-  "stars": 245,
+  "stars": 246,
   "forks": 38,
-  "age_days": 28,
-  "velocity": 8.75,
+  "age_days": 29,
+  "velocity": 8.48,
   "created": "2026-10-26",
   "relevance": 5.5,
-  "score": 48.12
+  "score": 46.64
  },
  {
   "source": "github",
@@ -367,13 +395,13 @@
    "zelda-pc",
    "zelda-totk"
   ],
-  "stars": 344,
+  "stars": 345,
   "forks": 16,
   "age_days": 24,
-  "velocity": 14.33,
+  "velocity": 14.38,
   "created": "2026-10-30",
   "relevance": 3.0,
-  "score": 42.99
+  "score": 43.14
  },
  {
   "source": "github",
@@ -431,13 +459,13 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 153,
-  "forks": 21,
+  "stars": 154,
+  "forks": 22,
   "age_days": 38,
-  "velocity": 4.03,
+  "velocity": 4.05,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 36.27
+  "score": 36.45
  },
  {
   "source": "github",
@@ -457,36 +485,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 277,
+  "stars": 278,
   "forks": 11,
   "age_days": 39,
-  "velocity": 7.1,
+  "velocity": 7.13,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 35.5
- },
- {
-  "source": "github",
-  "title": "CyberAgentGameEntertainment/UnityPerformanceTuningTips2026",
-  "url": "https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningTips2026",
-  "desc": "Unity Performance Tuning Tips 2026 — practical techniques from CyberAgent game engineers, covering graphics, scripting & animation, assets & builds, and profiling & automation. Available in Japanese, English, Korean, and Simplified/Traditional Chinese.",
-  "lang": "C++",
-  "topics": [
-   "book",
-   "mobile-games",
-   "optimization",
-   "performance",
-   "tuning",
-   "unity",
-   "unity6"
-  ],
-  "stars": 57,
-  "forks": 2,
-  "age_days": 19,
-  "velocity": 3.0,
-  "created": "2026-11-04",
-  "relevance": 11.0,
-  "score": 33.0
+  "score": 35.65
  },
  {
   "source": "github",
@@ -512,6 +517,29 @@
   "created": "2026-10-15",
   "relevance": 5.5,
   "score": 32.84
+ },
+ {
+  "source": "github",
+  "title": "CyberAgentGameEntertainment/UnityPerformanceTuningTips2026",
+  "url": "https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningTips2026",
+  "desc": "Unity Performance Tuning Tips 2026 — practical techniques from CyberAgent game engineers, covering graphics, scripting & animation, assets & builds, and profiling & automation. Available in Japanese, English, Korean, and Simplified/Traditional Chinese.",
+  "lang": "C++",
+  "topics": [
+   "book",
+   "mobile-games",
+   "optimization",
+   "performance",
+   "tuning",
+   "unity",
+   "unity6"
+  ],
+  "stars": 57,
+  "forks": 2,
+  "age_days": 20,
+  "velocity": 2.85,
+  "created": "2026-11-04",
+  "relevance": 11.0,
+  "score": 31.35
  },
  {
   "source": "github",
@@ -568,13 +596,13 @@
    "threejs",
    "webgpu"
   ],
-  "stars": 108,
-  "forks": 5,
+  "stars": 116,
+  "forks": 6,
   "age_days": 30,
-  "velocity": 3.6,
+  "velocity": 3.87,
   "created": "2026-10-24",
   "relevance": 7.5,
-  "score": 27.0
+  "score": 29.03
  },
  {
   "source": "github",
@@ -646,9 +674,9 @@
    "z",
    "zod-engine"
   ],
-  "stars": 257,
+  "stars": 263,
   "forks": 15,
-  "age_days": 42,
+  "age_days": 43,
   "velocity": 6.12,
   "created": "2026-10-12",
   "relevance": 3.5,
@@ -704,13 +732,13 @@
    "pytorch",
    "smpl-x"
   ],
-  "stars": 153,
+  "stars": 154,
   "forks": 19,
   "age_days": 34,
-  "velocity": 4.5,
+  "velocity": 4.53,
   "created": "2026-10-20",
   "relevance": 4.5,
-  "score": 20.25
+  "score": 20.39
  },
  {
   "source": "github",
@@ -792,13 +820,13 @@
    "typescript",
    "webgpu"
   ],
-  "stars": 130,
+  "stars": 131,
   "forks": 17,
   "age_days": 39,
-  "velocity": 3.33,
+  "velocity": 3.36,
   "created": "2026-10-15",
   "relevance": 5.0,
-  "score": 16.65
+  "score": 16.8
  },
  {
   "source": "Unity Blog",
@@ -868,7 +896,7 @@
   "lang": "Python",
   "topics": [],
   "stars": 89,
-  "forks": 22,
+  "forks": 23,
   "age_days": 22,
   "velocity": 4.05,
   "created": "2026-11-01",
@@ -917,6 +945,21 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Fri, 16 Oct 2026",
+  "relevance": 5.0,
+  "score": 15.0
+ },
+ {
+  "source": "PocketGamer.biz",
+  "title": "Unity CEO Matt Bromberg and Eric Seufert to talk AI, discovery and growth at PGC London",
+  "url": "https://www.pocketgamer.biz/unity-ceo-matt-bromberg-and-eric-seufert-to-talk-ai-discovery-and-growth-at-pgc-london/",
+  "desc": "Unity&nbsp;CEO Matt Bromberg and Mobile Dev Memo founder Eric Seufert will speak at Pocket Gamer Connects London on January 18th and 19th in a superstar session.\n\nAs AI accelerates mobile game creatio",
+  "lang": "",
+  "topics": [],
+  "stars": 0,
+  "forks": 0,
+  "age_days": 1,
+  "velocity": 3.0,
+  "created": "Tue, 24 Nov 2026",
   "relevance": 5.0,
   "score": 15.0
  },
@@ -1020,11 +1063,11 @@
   ],
   "stars": 57,
   "forks": 11,
-  "age_days": 39,
-  "velocity": 1.46,
+  "age_days": 40,
+  "velocity": 1.43,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 13.14
+  "score": 12.87
  },
  {
   "source": "github",
@@ -1118,36 +1161,6 @@
   "age_days": 1,
   "velocity": 3.0,
   "created": "Tue, 17 Nov 2026",
-  "relevance": 3.5,
-  "score": 10.5
- },
- {
-  "source": "PocketGamer.biz",
-  "title": "GTA 6 goes gangbusters, Netflix Games layoffs and Pikmin Bloom's unlikely rise | Week in Mobile Games podcast",
-  "url": "https://www.pocketgamer.biz/gta-6-goes-gangbusters-week-in-mobile-games-podcast/",
-  "desc": "PocketGamer.biz head of content Craig Chapple, editorial director of events Mariam Ahmad and features and data editor Aaron Astle&nbsp;talk through the latest games industry news on the 111th episode",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Mon, 23 Nov 2026",
-  "relevance": 3.5,
-  "score": 10.5
- },
- {
-  "source": "PocketGamer.biz",
-  "title": "AppsFlyer expands Agent Hub and MCP tools to automate marketing workflows",
-  "url": "https://www.pocketgamer.biz/appsflyer-expands-agent-hub-and-mcp-tools-to-automate-marketing-workflows/",
-  "desc": "AppsFlyer has expanded its agentic AI offering with new Agent Hub features and MCP tools that let marketers investigate and act on their data through automated workflows.\n\nThe release is designed to s",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Thu, 19 Nov 2026",
   "relevance": 3.5,
   "score": 10.5
  }
