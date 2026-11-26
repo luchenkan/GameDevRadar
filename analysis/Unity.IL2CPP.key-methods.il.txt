@@ -1,0 +1,1033 @@
+Callers of HybridCLRConfig hooks: 3
+
+=== Unity.IL2CPP.MethodBodyWriter::Generate [0x06000312] ===
+IL_000C: ldarg.0        
+IL_000D: ldfld          field _methodDefinition
+IL_0012: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_HasBody
+IL_0017: brtrue.s       26
+IL_0019: ret            
+IL_001A: call           HybridCLRConfig::get_Ins
+IL_001F: ldarg.0        
+IL_0020: ldfld          field _methodDefinition
+IL_0025: callvirt       HybridCLRConfig::NeedInject
+IL_002A: brfalse        471
+IL_002F: ldarg.0        
+IL_0030: ldfld          field _methodReference
+IL_0035: ldarg.0        
+IL_0036: ldfld          field _context
+IL_003B: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_0040: call           Unity.IL2CPP.Extensions::ReturnValueIsByRef
+IL_0045: ldarg.0        
+IL_0046: ldfld          field _methodReference
+IL_004B: ldarg.0        
+IL_004C: ldfld          field _context
+IL_0051: call           Unity.IL2CPP.DataModel.TypeExtensions::GetResolvedParameters
+IL_0056: ldarg.0        
+IL_0057: ldftn          Unity.IL2CPP.MethodBodyWriter::<Generate>b__0_0
+IL_005D: newobj         ?::.ctor
+IL_0062: call           token(0x2B000074)
+IL_0067: stloc.1        
+IL_0068: ldloc.1        
+IL_0069: or             
+IL_006A: brtrue         471
+IL_006F: ldarg.0        
+IL_0070: ldfld          field _context
+IL_0075: ldfld          field Global
+IL_007A: ldfld          field Services
+IL_007F: ldfld          field Naming
+IL_0084: stloc.2        
+IL_0085: ldarg.0        
+IL_0086: ldfld          field _methodReference
+IL_008B: ldarg.0        
+IL_008C: ldfld          field _context
+IL_0091: call           Unity.IL2CPP.DataModel.MethodExtensions::CanShare
+IL_0096: brtrue.s       200
+IL_0098: ldloc.2        
+IL_0099: ldarg.0        
+IL_009A: ldfld          field _context
+IL_009F: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_00A4: ldarg.0        
+IL_00A5: ldfld          field _methodReference
+IL_00AA: call           Unity.IL2CPP.Naming.NamingExtensions::ForRuntimeMethodInfo
+IL_00AF: stloc.s        local(0x0004)
+IL_00B1: ldarg.0        
+IL_00B2: ldfld          field _writer
+IL_00B7: ldstr          'method = '
+IL_00BC: ldloc.s        local(0x0004)
+IL_00BE: call           System.String::Concat
+IL_00C3: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::WriteStatement
+IL_00C8: ldarg.0        
+IL_00C9: ldfld          field _writer
+IL_00CE: ldstr          'if (method->isInterpterImpl)'
+IL_00D3: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::WriteLine
+IL_00D8: ldarg.0        
+IL_00D9: ldfld          field _writer
+IL_00DE: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::BeginBlock
+IL_00E3: ldarg.0        
+IL_00E4: ldfld          field _writer
+IL_00E9: ldc.i4.5       
+IL_00EA: newarr         System.String
+IL_00EF: dup            
+IL_00F0: ldc.i4.0       
+IL_00F1: ldstr          'typedef '
+IL_00F6: stelem.ref     
+IL_00F7: dup            
+IL_00F8: ldc.i4.1       
+IL_00F9: ldarg.0        
+IL_00FA: ldfld          field _context
+IL_00FF: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_0104: ldarg.0        
+IL_0105: ldfld          field _context
+IL_010A: ldfld          field ResolvedReturnType
+IL_010F: call           Unity.IL2CPP.MethodSignatureWriter::FormatReturnType
+IL_0114: stelem.ref     
+IL_0115: dup            
+IL_0116: ldc.i4.2       
+IL_0117: ldstr          ' (*RedirectFunc)('
+IL_011C: stelem.ref     
+IL_011D: dup            
+IL_011E: ldc.i4.3       
+IL_011F: ldarg.0        
+IL_0120: ldfld          field _context
+IL_0125: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_012A: ldarg.0        
+IL_012B: ldfld          field _methodReference
+IL_0130: ldarg.0        
+IL_0131: ldfld          field _methodDefinition
+IL_0136: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_HasThis
+IL_013B: brtrue.s       320
+IL_013D: ldc.i4.2       
+IL_013E: br.s           321
+IL_0140: ldc.i4.5       
+IL_0141: ldc.i4.1       
+IL_0142: ldc.i4.1       
+IL_0143: call           Unity.IL2CPP.MethodSignatureWriter::FormatParameters2
+IL_0148: stelem.ref     
+IL_0149: dup            
+IL_014A: ldc.i4.4       
+IL_014B: ldstr          ')'
+IL_0150: stelem.ref     
+IL_0151: call           System.String::Concat
+IL_0156: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::WriteStatement
+IL_015B: ldstr          '((RedirectFunc)method->methodPointerCallByInterp)('
+IL_0160: ldarg.0        
+IL_0161: ldfld          field _context
+IL_0166: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_016B: ldarg.0        
+IL_016C: ldfld          field _methodReference
+IL_0171: ldarg.0        
+IL_0172: ldfld          field _methodDefinition
+IL_0177: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_HasThis
+IL_017C: brtrue.s       385
+IL_017E: ldc.i4.7       
+IL_017F: br.s           386
+IL_0181: ldc.i4.3       
+IL_0182: ldc.i4.1       
+IL_0183: call           Unity.IL2CPP.MethodSignatureWriter::FormatParameters
+IL_0188: ldstr          ')'
+IL_018D: call           System.String::Concat
+IL_0192: stloc.3        
+IL_0193: ldarg.0        
+IL_0194: ldfld          field _methodReference
+IL_0199: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_ReturnType
+IL_019E: callvirt       Unity.IL2CPP.DataModel.TypeReference::get_IsVoid
+IL_01A3: brtrue.s       435
+IL_01A5: ldarg.0        
+IL_01A6: ldfld          field _writer
+IL_01AB: ldloc.3        
+IL_01AC: call           Unity.IL2CPP.CodeWriters.CodeWriterExtensions::WriteReturnStatement
+IL_01B1: br.s           459
+IL_01B3: ldarg.0        
+IL_01B4: ldfld          field _writer
+IL_01B9: ldloc.3        
+IL_01BA: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::WriteStatement
+IL_01BF: ldarg.0        
+IL_01C0: ldfld          field _writer
+IL_01C5: ldnull         
+IL_01C6: call           Unity.IL2CPP.CodeWriters.CodeWriterExtensions::WriteReturnStatement
+IL_01CB: ldarg.0        
+IL_01CC: ldfld          field _writer
+IL_01D1: ldc.i4.0       
+IL_01D2: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::EndBlock
+IL_01D7: ldarg.0        
+IL_01D8: ldfld          field _context
+IL_01DD: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_01E2: ldarg.0        
+IL_01E3: ldfld          field _methodReference
+IL_01E8: call           Unity.IL2CPP.GenericsUtilities::CheckForMaximumRecursion
+IL_01ED: brfalse.s      517
+IL_01EF: ldarg.0        
+IL_01F0: ldfld          field _methodReference
+IL_01F5: ldarg.0        
+IL_01F6: ldfld          field _methodDefinition
+IL_01FB: callvirt       Unity.IL2CPP.DataModel.MethodDefinition::get_FullySharedMethod
+IL_0200: bne.un         1187
+IL_0205: ldarg.0        
+IL_0206: call           Unity.IL2CPP.MethodBodyWriter::WriteLocalVariables
+IL_020B: ldarg.0        
+IL_020C: ldfld          field _context
+IL_0211: ldfld          field Global
+IL_0216: ldfld          field Parameters
+IL_021B: ldfld          field EnableDebugger
+IL_0220: brfalse.s      625
+IL_0222: ldarg.0        
+IL_0223: call           Unity.IL2CPP.MethodBodyWriter::WriteDebuggerSupport
+IL_0228: ldarg.0        
+IL_0229: ldfld          field _sequencePointProvider
+IL_022E: ldarg.0        
+IL_022F: ldfld          field _methodDefinition
+IL_0234: ldc.i4.m1      
+IL_0235: ldc.i4.0       
+IL_0236: ldloca.s       local(0x0006)
+IL_0238: callvirt       Unity.IL2CPP.Debugger.ISequencePointProvider::TryGetSequencePointAt
+IL_023D: brfalse.s      583
+IL_023F: ldarg.0        
+IL_0240: ldloc.s        local(0x0006)
+IL_0242: call           Unity.IL2CPP.MethodBodyWriter::WriteCheckSequencePoint
+IL_0247: ldarg.0        
+IL_0248: ldfld          field _sequencePointProvider
+IL_024D: ldarg.0        
+IL_024E: ldfld          field _methodDefinition
+IL_0253: ldc.i4         16777215
+IL_0258: ldc.i4.0       
+IL_0259: ldloca.s       local(0x0006)
+IL_025B: callvirt       Unity.IL2CPP.Debugger.ISequencePointProvider::TryGetSequencePointAt
+IL_0260: brfalse.s      618
+IL_0262: ldarg.0        
+IL_0263: ldloc.s        local(0x0006)
+IL_0265: call           Unity.IL2CPP.MethodBodyWriter::WriteCheckMethodExitSequencePoint
+IL_026A: ldarg.0        
+IL_026B: ldc.i4.m1      
+IL_026C: call           Unity.IL2CPP.MethodBodyWriter::WriteCheckPausePoint
+IL_0271: ldarg.0        
+IL_0272: ldarg.0        
+IL_0273: ldfld          field _context
+IL_0278: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_027D: ldarg.0        
+IL_027E: ldfld          field _methodDefinition
+IL_0283: ldarg.0        
+IL_0284: ldfld          field _cfg
+IL_0289: callvirt       Unity.IL2CPP.DataModel.Awesome.CFG.ControlFlowGraph::get_FlowTree
+IL_028E: ldarg.0        
+IL_028F: ldfld          field _writer
+IL_0294: newobj         Unity.IL2CPP.ExceptionSupport::.ctor
+IL_0299: stfld          field _exceptionSupport
+IL_029E: ldarg.0        
+IL_029F: ldfld          field _exceptionSupport
+IL_02A4: callvirt       Unity.IL2CPP.ExceptionSupport::Prepare
+IL_02A9: ldarg.0        
+IL_02AA: ldfld          field _methodDefinition
+IL_02AF: callvirt       Unity.IL2CPP.DataModel.MethodDefinition::get_Body
+IL_02B4: callvirt       Unity.IL2CPP.DataModel.MethodBody::get_ExceptionHandlers
+IL_02B9: callvirt       ?::GetEnumerator
+IL_02BE: stloc.s        local(0x0007)
+IL_02C0: br.s           764
+IL_02C2: ldloc.s        local(0x0007)
+IL_02C4: callvirt       ?::get_Current
+IL_02C9: stloc.s        local(0x0008)
+IL_02CB: ldloc.s        local(0x0008)
+IL_02CD: ldfld          Unity.IL2CPP.DataModel.ExceptionHandler::CatchType
+IL_02D2: brfalse.s      764
+IL_02D4: ldarg.0        
+IL_02D5: ldfld          field _writer
+IL_02DA: ldarg.0        
+IL_02DB: ldfld          field _context
+IL_02E0: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_02E5: ldarg.0        
+IL_02E6: ldfld          field _typeResolver
+IL_02EB: ldloc.s        local(0x0008)
+IL_02ED: ldfld          Unity.IL2CPP.DataModel.ExceptionHandler::CatchType
+IL_02F2: callvirt       Unity.IL2CPP.DataModel.TypeResolver::Resolve
+IL_02F7: call           Unity.IL2CPP.CodeWriters.GeneratedCodeWriterExtensions::AddIncludeForTypeDefinition
+IL_02FC: ldloc.s        local(0x0007)
+IL_02FE: callvirt       System.Collections.IEnumerator::MoveNext
+IL_0303: brtrue.s       706
+IL_0305: leave.s        787
+IL_0307: ldloc.s        local(0x0007)
+IL_0309: brfalse.s      786
+IL_030B: ldloc.s        local(0x0007)
+IL_030D: callvirt       System.IDisposable::Dispose
+IL_0312: endfinally     
+IL_0313: ldarg.0        
+IL_0314: ldfld          field _resolvedMethodContext
+IL_0319: ldfld          field Blocks
+IL_031E: ldsfld         field <>9__0_1
+IL_0323: dup            
+IL_0324: brtrue.s       829
+IL_0326: pop            
+IL_0327: ldsfld         field <>9
+IL_032C: ldftn          <>c__0::<Generate>b__0_1
+IL_0332: newobj         ?::.ctor
+IL_0337: dup            
+IL_0338: stsfld         field <>9__0_1
+IL_033D: ldsfld         field <>9__0_2
+IL_0342: dup            
+IL_0343: brtrue.s       860
+IL_0345: pop            
+IL_0346: ldsfld         field <>9
+IL_034B: ldftn          <>c__0::<Generate>b__0_2
+IL_0351: newobj         ?::.ctor
+IL_0356: dup            
+IL_0357: stsfld         field <>9__0_2
+IL_035C: call           token(0x2B000075)
+IL_0361: call           token(0x2B000076)
+IL_0366: stloc.s        local(0x0005)
+IL_0368: ldarg.0        
+IL_0369: ldfld          field _stackAnalysis
+IL_036E: callvirt       Unity.IL2CPP.StackAnalysis.StackAnalysis::get_Globals
+IL_0373: callvirt       ?::GetEnumerator
+IL_0378: stloc.s        local(0x0009)
+IL_037A: br.s           922
+IL_037C: ldloc.s        local(0x0009)
+IL_037E: callvirt       ?::get_Current
+IL_0383: stloc.s        local(0x000A)
+IL_0385: ldarg.0        
+IL_0386: ldloc.s        local(0x000A)
+IL_0388: callvirt       Unity.IL2CPP.StackAnalysis.GlobalVariable::get_Type
+IL_038D: ldloc.s        local(0x000A)
+IL_038F: callvirt       Unity.IL2CPP.StackAnalysis.GlobalVariable::get_VariableName
+IL_0394: ldc.i4.1       
+IL_0395: call           Unity.IL2CPP.MethodBodyWriter::WriteVariable
+IL_039A: ldloc.s        local(0x0009)
+IL_039C: callvirt       System.Collections.IEnumerator::MoveNext
+IL_03A1: brtrue.s       892
+IL_03A3: leave.s        945
+IL_03A5: ldloc.s        local(0x0009)
+IL_03A7: brfalse.s      944
+IL_03A9: ldloc.s        local(0x0009)
+IL_03AB: callvirt       System.IDisposable::Dispose
+IL_03B0: endfinally     
+IL_03B1: ldarg.0        
+IL_03B2: ldfld          field _exceptionSupport
+IL_03B7: callvirt       Unity.IL2CPP.ExceptionSupport::get_FlowTree
+IL_03BC: callvirt       Unity.IL2CPP.DataModel.Awesome.CFG.Node::get_Children
+IL_03C1: callvirt       ?::GetEnumerator
+IL_03C6: stloc.s        local(0x000B)
+IL_03C8: br.s           1009
+IL_03CA: ldloc.s        local(0x000B)
+IL_03CC: callvirt       ?::get_Current
+IL_03D1: stloc.s        local(0x000C)
+IL_03D3: ldloc.s        local(0x000C)
+IL_03D5: callvirt       Unity.IL2CPP.DataModel.Awesome.CFG.Node::get_Type
+IL_03DA: ldc.i4.3       
+IL_03DB: beq.s          1009
+IL_03DD: ldloc.s        local(0x000C)
+IL_03DF: callvirt       Unity.IL2CPP.DataModel.Awesome.CFG.Node::get_Type
+IL_03E4: ldc.i4.6       
+IL_03E5: beq.s          1009
+IL_03E7: ldarg.0        
+IL_03E8: ldloc.s        local(0x000C)
+IL_03EA: ldloc.s        local(0x0005)
+IL_03EC: call           Unity.IL2CPP.MethodBodyWriter::GenerateCodeRecursive
+IL_03F1: ldloc.s        local(0x000B)
+IL_03F3: callvirt       System.Collections.IEnumerator::MoveNext
+IL_03F8: brtrue.s       970
+IL_03FA: leave.s        1032
+IL_03FC: ldloc.s        local(0x000B)
+IL_03FE: brfalse.s      1031
+IL_0400: ldloc.s        local(0x000B)
+IL_0402: callvirt       System.IDisposable::Dispose
+IL_0407: endfinally     
+IL_0408: ldarg.0        
+IL_0409: ldfld          field _methodReference
+IL_040E: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_ReturnType
+IL_0413: callvirt       Unity.IL2CPP.DataModel.TypeReference::get_IsNotVoid
+IL_0418: brfalse.s      1164
+IL_041A: ldarg.0        
+IL_041B: ldfld          field _methodDefinition
+IL_0420: callvirt       Unity.IL2CPP.DataModel.MethodDefinition::get_Body
+IL_0425: callvirt       Unity.IL2CPP.DataModel.MethodBody::get_Instructions
+IL_042A: call           token(0x2B000077)
+IL_042F: stloc.s        local(0x000D)
+IL_0431: ldloc.s        local(0x000D)
+IL_0433: brfalse.s      1164
+IL_0435: ldloc.s        local(0x000D)
+IL_0437: callvirt       Unity.IL2CPP.DataModel.Instruction::get_OpCode
+IL_043C: ldsfld         Unity.IL2CPP.DataModel.OpCodes::Ret
+IL_0441: call           Unity.IL2CPP.DataModel.OpCode::op_Inequality
+IL_0446: brfalse.s      1164
+IL_0448: ldloc.s        local(0x000D)
+IL_044A: callvirt       Unity.IL2CPP.DataModel.Instruction::get_OpCode
+IL_044F: ldsfld         Unity.IL2CPP.DataModel.OpCodes::Throw
+IL_0454: call           Unity.IL2CPP.DataModel.OpCode::op_Inequality
+IL_0459: brfalse.s      1164
+IL_045B: ldloc.s        local(0x000D)
+IL_045D: callvirt       Unity.IL2CPP.DataModel.Instruction::get_OpCode
+IL_0462: ldsfld         Unity.IL2CPP.DataModel.OpCodes::Rethrow
+IL_0467: call           Unity.IL2CPP.DataModel.OpCode::op_Inequality
+IL_046C: brfalse.s      1164
+IL_046E: ldloc.s        local(0x000D)
+IL_0470: callvirt       Unity.IL2CPP.DataModel.Instruction::get_Operand
+IL_0475: isinst         Unity.IL2CPP.DataModel.Instruction
+IL_047A: brtrue.s       1164
+IL_047C: ldarg.0        
+IL_047D: ldfld          field _writer
+IL_0482: ldstr          'il2cpp_codegen_no_return();'
+IL_0487: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::WriteLine
+IL_048C: ldarg.0        
+IL_048D: ldfld          field _variableSizedTypeSupport
+IL_0492: ldarg.0        
+IL_0493: ldfld          field _context
+IL_0498: call           Unity.IL2CPP.Contexts.MethodWriteContext::op_Implicit
+IL_049D: callvirt       Unity.IL2CPP.MethodWriting.VariableSizedTypeSupport::GenerateInitializerStatements
+IL_04A2: ret            
+IL_04A3: ldarg.0        
+IL_04A4: ldfld          field _context
+IL_04A9: ldfld          field Global
+IL_04AE: ldfld          field Parameters
+IL_04B3: ldfld          field DisableFullGenericSharing
+IL_04B8: brfalse.s      1233
+IL_04BA: ldarg.0        
+IL_04BB: ldfld          field _writer
+IL_04C0: ldstr          'il2cpp_codegen_get_maximum_nested_generics_exception()'
+IL_04C5: ldnull         
+IL_04C6: call           Unity.IL2CPP.Emit::RaiseManagedException
+IL_04CB: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::WriteStatement
+IL_04D0: ret            
+IL_04D1: ldarg.0        
+IL_04D2: ldfld          field _methodDefinition
+IL_04D7: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_Parameters
+IL_04DC: callvirt       ?::get_Count
+IL_04E1: ldc.i4.2       
+IL_04E2: add            
+IL_04E3: newobj         ?::.ctor
+IL_04E8: stloc.0        
+IL_04E9: ldarg.0        
+IL_04EA: ldfld          field _methodDefinition
+IL_04EF: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_IsStatic
+IL_04F4: brtrue.s       1281
+IL_04F6: ldloc.0        
+IL_04F7: ldstr          '__this'
+IL_04FC: callvirt       ?::Add
+IL_0501: ldarg.0        
+IL_0502: ldfld          field _methodReference
+IL_0507: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_Parameters
+IL_050C: callvirt       ?::GetEnumerator
+IL_0511: stloc.s        local(0x000E)
+IL_0513: br.s           1323
+IL_0515: ldloc.s        local(0x000E)
+IL_0517: callvirt       ?::get_Current
+IL_051C: stloc.s        local(0x000F)
+IL_051E: ldloc.0        
+IL_051F: ldloc.s        local(0x000F)
+IL_0521: callvirt       Unity.IL2CPP.DataModel.ParameterDefinition::get_CppName
+IL_0526: callvirt       ?::Add
+IL_052B: ldloc.s        local(0x000E)
+IL_052D: callvirt       System.Collections.IEnumerator::MoveNext
+IL_0532: brtrue.s       1301
+IL_0534: leave.s        1346
+IL_0536: ldloc.s        local(0x000E)
+IL_0538: brfalse.s      1345
+IL_053A: ldloc.s        local(0x000E)
+IL_053C: callvirt       System.IDisposable::Dispose
+IL_0541: endfinally     
+IL_0542: ldarg.0        
+IL_0543: ldarg.0        
+IL_0544: ldfld          field _methodReference
+IL_0549: ldarg.0        
+IL_054A: ldfld          field _methodDefinition
+IL_054F: ldc.i4.0       
+IL_0550: ldloc.0        
+IL_0551: ldarg.0        
+IL_0552: ldfld          field _runtimeMetadataAccess
+IL_0557: ldarg.0        
+IL_0558: ldfld          field _methodDefinition
+IL_055D: callvirt       Unity.IL2CPP.IRuntimeMetadataAccess::MethodMetadataFor
+IL_0562: ldstr          'method'
+IL_0567: callvirt       Unity.IL2CPP.IMethodMetadataAccess::OverrideHiddenMethodInfo
+IL_056C: ldc.i4.0       
+IL_056D: call           Unity.IL2CPP.MethodBodyWriter::WriteCallExpressionFor
+IL_0572: ldarg.0        
+IL_0573: ldfld          field _valueStack
+IL_0578: callvirt       ?::get_Count
+IL_057D: ldc.i4.1       
+IL_057E: bne.un.s       1435
+IL_0580: ldarg.0        
+IL_0581: ldfld          field _writer
+IL_0586: ldarg.0        
+IL_0587: ldfld          field _valueStack
+IL_058C: callvirt       ?::Pop
+IL_0591: ldfld          field Expression
+IL_0596: call           Unity.IL2CPP.CodeWriters.CodeWriterExtensions::WriteReturnStatement
+IL_059B: ret            
+
+=== Unity.IL2CPP.CodeWriters.CodeWriterExtensions::WriteMethodWithMetadataInitialization [0x06001BAD] ===
+IL_000C: newobj         <>c__DisplayClass0_0::.ctor
+IL_0011: stloc.0        
+IL_0012: ldloc.0        
+IL_0013: ldarg.0        
+IL_0014: stfld          field writer
+IL_0019: ldarg.3        
+IL_001A: ldstr          '_MetadataUsageId'
+IL_001F: call           System.String::Concat
+IL_0024: stloc.1        
+IL_0025: newobj         Unity.IL2CPP.MethodMetadataUsage::.ctor
+IL_002A: stloc.2        
+IL_002B: newobj         Unity.IL2CPP.MethodUsage::.ctor
+IL_0030: stloc.3        
+IL_0031: ldarg.s        argument(0x0004)
+IL_0033: brtrue.s       56
+IL_0035: ldnull         
+IL_0036: br.s           63
+IL_0038: ldarg.s        argument(0x0004)
+IL_003A: callvirt       Unity.IL2CPP.DataModel.MethodReference::Resolve
+IL_003F: stloc.s        local(0x0004)
+IL_0041: ldarg.s        argument(0x0004)
+IL_0043: brfalse.s      112
+IL_0045: ldarg.s        argument(0x0004)
+IL_0047: ldloc.0        
+IL_0048: ldfld          field writer
+IL_004D: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_0052: call           Unity.IL2CPP.DataModel.MethodExtensions::CanShare
+IL_0057: brtrue.s       112
+IL_0059: call           HybridCLRConfig::get_Ins
+IL_005E: ldloc.s        local(0x0004)
+IL_0060: callvirt       HybridCLRConfig::NeedInject
+IL_0065: brfalse.s      112
+IL_0067: ldloc.2        
+IL_0068: ldarg.s        argument(0x0004)
+IL_006A: ldc.i4.0       
+IL_006B: callvirt       Unity.IL2CPP.MethodMetadataUsage::AddInflatedMethod
+IL_0070: ldloc.0        
+IL_0071: ldfld          field writer
+IL_0076: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_007B: newobj         Unity.IL2CPP.CodeWriters.InMemoryGeneratedMethodCodeWriter::.ctor
+IL_0080: stloc.s        local(0x0005)
+IL_0082: ldloc.0        
+IL_0083: ldfld          field writer
+IL_0088: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_008D: newobj         Unity.IL2CPP.CodeWriters.InMemoryGeneratedMethodCodeWriter::.ctor
+IL_0092: stloc.s        local(0x0006)
+IL_0094: ldloc.s        local(0x0006)
+IL_0096: ldloc.0        
+IL_0097: ldfld          field writer
+IL_009C: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::get_IndentationLevel
+IL_00A1: ldc.i4.1       
+IL_00A2: add            
+IL_00A3: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::Indent
+IL_00A8: ldloc.s        local(0x0005)
+IL_00AA: ldloc.0        
+IL_00AB: ldfld          field writer
+IL_00B0: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::get_IndentationLevel
+IL_00B5: ldc.i4.1       
+IL_00B6: add            
+IL_00B7: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::Indent
+IL_00BC: ldloc.0        
+IL_00BD: ldfld          field writer
+IL_00C2: ldarg.s        argument(0x0004)
+IL_00C4: ldloc.2        
+IL_00C5: ldloc.3        
+IL_00C6: ldarg.s        argument(0x0005)
+IL_00C8: call           Unity.IL2CPP.CodeWriters.CodeWriterExtensions::GetDefaultRuntimeMetadataAccess
+IL_00CD: stloc.s        local(0x0007)
+IL_00CF: ldarg.2        
+IL_00D0: ldloc.s        local(0x0006)
+IL_00D2: ldloc.s        local(0x0007)
+IL_00D4: callvirt       ?::Invoke
+IL_00D9: ldarg.s        argument(0x0005)
+IL_00DB: brtrue.s       274
+IL_00DD: ldloc.0        
+IL_00DE: ldfld          field writer
+IL_00E3: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_00E8: ldfld          field Global
+IL_00ED: ldfld          field Parameters
+IL_00F2: ldfld          field DisableFullGenericSharing
+IL_00F7: brtrue.s       274
+IL_00F9: ldloc.s        local(0x0007)
+IL_00FB: callvirt       Unity.IL2CPP.IRuntimeMetadataAccess::GetMethodRgctxDataUsage
+IL_0100: box            Unity.IL2CPP.GenericSharing.GenericContextUsage
+IL_0105: ldc.i4.2       
+IL_0106: box            Unity.IL2CPP.GenericSharing.GenericContextUsage
+IL_010B: call           System.Enum::HasFlag
+IL_0110: br.s           275
+IL_0112: ldc.i4.0       
+IL_0113: stloc.s        local(0x0008)
+IL_0115: ldloc.2        
+IL_0116: callvirt       Unity.IL2CPP.MethodMetadataUsage::get_UsesMetadata
+IL_011B: ldloc.s        local(0x0008)
+IL_011D: or             
+IL_011E: brfalse.s      343
+IL_0120: ldloc.0        
+IL_0121: ldfld          field writer
+IL_0126: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_012B: ldfld          field Global
+IL_0130: ldfld          field Parameters
+IL_0135: ldfld          field UsingTinyBackend
+IL_013A: brtrue.s       343
+IL_013C: ldloc.0        
+IL_013D: ldfld          field writer
+IL_0142: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_0147: call           Unity.IL2CPP.Contexts.SourceWritingContext::op_Implicit
+IL_014C: ldloc.s        local(0x0005)
+IL_014E: ldloc.1        
+IL_014F: ldloc.2        
+IL_0150: ldloc.s        local(0x0008)
+IL_0152: call           Unity.IL2CPP.CodeWriters.CodeWriterExtensions::WriteMethodMetadataInitialization
+IL_0157: ldarg.s        argument(0x0005)
+IL_0159: brtrue         860
+IL_015E: ldloc.s        local(0x0004)
+IL_0160: brfalse        860
+IL_0165: ldarg.1        
+IL_0166: ldstr          ' ReversePInvokeWrapper_'
+IL_016B: callvirt       System.String::Contains
+IL_0170: brtrue         860
+IL_0175: ldloc.s        local(0x0004)
+IL_0177: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_HasBody
+IL_017C: brfalse        860
+IL_0181: call           HybridCLRConfig::get_Ins
+IL_0186: ldloc.s        local(0x0004)
+IL_0188: callvirt       HybridCLRConfig::NeedInject
+IL_018D: brfalse        860
+IL_0192: newobj         <>c__DisplayClass0_1::.ctor
+IL_0197: stloc.s        local(0x0009)
+IL_0199: ldloc.s        local(0x0009)
+IL_019B: ldloc.0        
+IL_019C: ldfld          field writer
+IL_01A1: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_01A6: stfld          field context
+IL_01AB: ldarg.s        argument(0x0004)
+IL_01AD: ldloc.s        local(0x0009)
+IL_01AF: ldfld          field context
+IL_01B4: call           Unity.IL2CPP.Contexts.SourceWritingContext::op_Implicit
+IL_01B9: call           Unity.IL2CPP.Extensions::ReturnValueIsByRef
+IL_01BE: stloc.s        local(0x000A)
+IL_01C0: ldarg.s        argument(0x0004)
+IL_01C2: ldloc.s        local(0x0009)
+IL_01C4: ldfld          field context
+IL_01C9: call           Unity.IL2CPP.DataModel.TypeExtensions::GetResolvedParameters
+IL_01CE: stloc.s        local(0x000B)
+IL_01D0: ldloc.s        local(0x000B)
+IL_01D2: ldloc.0        
+IL_01D3: ldftn          <>c__DisplayClass0_0::<WriteMethodWithMetadataInitialization>b__1
+IL_01D9: newobj         ?::.ctor
+IL_01DE: call           token(0x2B000074)
+IL_01E3: stloc.s        local(0x000C)
+IL_01E5: ldloc.s        local(0x000A)
+IL_01E7: ldloc.s        local(0x000C)
+IL_01E9: or             
+IL_01EA: brfalse        860
+IL_01EF: ldloc.s        local(0x0005)
+IL_01F1: ldstr          'if (method->isInterpterImpl)'
+IL_01F6: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::WriteLine
+IL_01FB: ldloc.s        local(0x0005)
+IL_01FD: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::BeginBlock
+IL_0202: ldloc.s        local(0x0004)
+IL_0204: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_HasThis
+IL_0209: brfalse.s      532
+IL_020B: ldstr          '__this'
+IL_0210: stloc.s        local(0x000D)
+IL_0212: br.s           539
+IL_0214: ldstr          'nullptr'
+IL_0219: stloc.s        local(0x000D)
+IL_021B: ldloc.s        local(0x000B)
+IL_021D: callvirt       ?::get_Count
+IL_0222: brtrue.s       557
+IL_0224: ldstr          'void** __args__ = nullptr'
+IL_0229: stloc.s        local(0x000E)
+IL_022B: br.s           612
+IL_022D: ldstr          'void* __args__[] = {'
+IL_0232: stloc.s        local(0x000E)
+IL_0234: ldloc.s        local(0x000E)
+IL_0236: ldloc.s        local(0x000B)
+IL_0238: ldloc.s        local(0x0009)
+IL_023A: ldftn          <>c__DisplayClass0_1::<WriteMethodWithMetadataInitialization>b__2
+IL_0240: newobj         ?::.ctor
+IL_0245: call           token(0x2B0002C4)
+IL_024A: call           EnumerableExtensions::AggregateWithComma
+IL_024F: call           System.String::Concat
+IL_0254: stloc.s        local(0x000E)
+IL_0256: ldloc.s        local(0x000E)
+IL_0258: ldstr          '}'
+IL_025D: call           System.String::Concat
+IL_0262: stloc.s        local(0x000E)
+IL_0264: ldloc.s        local(0x0005)
+IL_0266: ldloc.s        local(0x000E)
+IL_0268: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::WriteStatement
+IL_026D: ldstr          '__il2cppRetVal__'
+IL_0272: stloc.s        local(0x000F)
+IL_0274: ldloc.s        local(0x0004)
+IL_0276: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_ReturnType
+IL_027B: callvirt       Unity.IL2CPP.DataModel.TypeReference::get_IsVoid
+IL_0280: brfalse.s      651
+IL_0282: ldstr          'nullptr'
+IL_0287: stloc.s        local(0x0010)
+IL_0289: br.s           737
+IL_028B: ldloc.s        local(0x000A)
+IL_028D: brfalse.s      664
+IL_028F: ldstr          'il2cppRetVal'
+IL_0294: stloc.s        local(0x0010)
+IL_0296: br.s           737
+IL_0298: ldloc.s        local(0x0009)
+IL_029A: ldfld          field context
+IL_029F: ldarg.s        argument(0x0004)
+IL_02A1: callvirt       Unity.IL2CPP.Contexts.SourceWritingContext::CreateMethodWritingContext
+IL_02A6: stloc.s        local(0x0013)
+IL_02A8: ldloc.s        local(0x0005)
+IL_02AA: ldloc.s        local(0x0009)
+IL_02AC: ldfld          field context
+IL_02B1: call           Unity.IL2CPP.Contexts.SourceWritingContext::op_Implicit
+IL_02B6: ldloc.s        local(0x0013)
+IL_02B8: ldfld          field ResolvedReturnType
+IL_02BD: call           Unity.IL2CPP.MethodSignatureWriter::FormatReturnType
+IL_02C2: ldstr          ' '
+IL_02C7: ldloc.s        local(0x000F)
+IL_02C9: call           System.String::Concat
+IL_02CE: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::WriteStatement
+IL_02D3: ldstr          '&'
+IL_02D8: ldloc.s        local(0x000F)
+IL_02DA: call           System.String::Concat
+IL_02DF: stloc.s        local(0x0010)
+IL_02E1: newobj         ?::.ctor
+IL_02E6: dup            
+IL_02E7: ldloc.s        local(0x000D)
+IL_02E9: callvirt       ?::Add
+IL_02EE: dup            
+IL_02EF: ldstr          '__args__'
+IL_02F4: callvirt       ?::Add
+IL_02F9: dup            
+IL_02FA: ldloc.s        local(0x0010)
+IL_02FC: callvirt       ?::Add
+IL_0301: dup            
+IL_0302: ldstr          'method'
+IL_0307: callvirt       ?::Add
+IL_030C: stloc.s        local(0x0011)
+IL_030E: ldstr          'FullGenericSharingReflectionInvokeInterpreter('
+IL_0313: ldloc.s        local(0x0011)
+IL_0315: call           EnumerableExtensions::AggregateWithComma
+IL_031A: ldstr          ')'
+IL_031F: call           System.String::Concat
+IL_0324: stloc.s        local(0x0012)
+IL_0326: ldloc.s        local(0x0005)
+IL_0328: ldloc.s        local(0x0012)
+IL_032A: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::WriteStatement
+IL_032F: ldloc.s        local(0x000A)
+IL_0331: brtrue.s       833
+IL_0333: ldloc.s        local(0x0004)
+IL_0335: callvirt       Unity.IL2CPP.DataModel.MethodReference::get_ReturnType
+IL_033A: callvirt       Unity.IL2CPP.DataModel.TypeReference::get_IsVoid
+IL_033F: brfalse.s      843
+IL_0341: ldloc.s        local(0x0005)
+IL_0343: ldnull         
+IL_0344: call           Unity.IL2CPP.CodeWriters.CodeWriterExtensions::WriteReturnStatement
+IL_0349: br.s           852
+IL_034B: ldloc.s        local(0x0005)
+IL_034D: ldloc.s        local(0x000F)
+IL_034F: call           Unity.IL2CPP.CodeWriters.CodeWriterExtensions::WriteReturnStatement
+IL_0354: ldloc.s        local(0x0005)
+IL_0356: ldc.i4.0       
+IL_0357: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::EndBlock
+IL_035C: ldloc.2        
+IL_035D: callvirt       Unity.IL2CPP.MethodMetadataUsage::GetInitializationStatements
+IL_0362: callvirt       ?::GetEnumerator
+IL_0367: stloc.s        local(0x0014)
+IL_0369: br.s           893
+IL_036B: ldloc.s        local(0x0014)
+IL_036D: callvirt       ?::get_Current
+IL_0372: stloc.s        local(0x0015)
+IL_0374: ldloc.s        local(0x0005)
+IL_0376: ldloc.s        local(0x0015)
+IL_0378: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::WriteLine
+IL_037D: ldloc.s        local(0x0014)
+IL_037F: callvirt       System.Collections.IEnumerator::MoveNext
+IL_0384: brtrue.s       875
+IL_0386: leave.s        916
+IL_0388: ldloc.s        local(0x0014)
+IL_038A: brfalse.s      915
+IL_038C: ldloc.s        local(0x0014)
+IL_038E: callvirt       System.IDisposable::Dispose
+IL_0393: endfinally     
+IL_0394: ldloc.s        local(0x0006)
+IL_0396: ldloc.0        
+IL_0397: ldfld          field writer
+IL_039C: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::get_IndentationLevel
+IL_03A1: ldc.i4.1       
+IL_03A2: add            
+IL_03A3: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::Dedent
+IL_03A8: ldloc.s        local(0x0005)
+IL_03AA: ldloc.0        
+IL_03AB: ldfld          field writer
+IL_03B0: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::get_IndentationLevel
+IL_03B5: ldc.i4.1       
+IL_03B6: add            
+IL_03B7: callvirt       Unity.IL2CPP.CodeWriters.BaseCodeWriter::Dedent
+IL_03BC: ldloc.3        
+IL_03BD: callvirt       Unity.IL2CPP.MethodUsage::GetMethods
+IL_03C2: callvirt       ?::GetEnumerator
+IL_03C7: stloc.s        local(0x0016)
+IL_03C9: br.s           993
+IL_03CB: ldloc.s        local(0x0016)
+IL_03CD: callvirt       ?::get_Current
+IL_03D2: stloc.s        local(0x0017)
+IL_03D4: ldloc.0        
+IL_03D5: ldfld          field writer
+IL_03DA: ldloc.s        local(0x0017)
+IL_03DC: call           Unity.IL2CPP.CodeWriters.GeneratedMethodCodeWriterExtensions::AddIncludeForMethodDeclaration
+IL_03E1: ldloc.s        local(0x0016)
+IL_03E3: callvirt       System.Collections.IEnumerator::MoveNext
+IL_03E8: brtrue.s       971
+IL_03EA: leave.s        1016
+IL_03EC: ldloc.s        local(0x0016)
+IL_03EE: brfalse.s      1015
+IL_03F0: ldloc.s        local(0x0016)
+IL_03F2: callvirt       System.IDisposable::Dispose
+IL_03F7: endfinally     
+IL_03F8: ldloc.2        
+IL_03F9: callvirt       Unity.IL2CPP.MethodMetadataUsage::get_UsesMetadata
+IL_03FE: brfalse.s      1124
+IL_0400: ldloc.0        
+IL_0401: ldfld          field writer
+IL_0406: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_040B: call           Unity.IL2CPP.Contexts.SourceWritingContext::op_Implicit
+IL_0410: ldloc.0        
+IL_0411: ldfld          field writer
+IL_0416: ldloc.1        
+IL_0417: ldloc.2        
+IL_0418: callvirt       Unity.IL2CPP.MethodMetadataUsage::GetIl2CppTypes
+IL_041D: ldloc.2        
+IL_041E: callvirt       Unity.IL2CPP.MethodMetadataUsage::GetTypeInfos
+IL_0423: ldloc.2        
+IL_0424: callvirt       Unity.IL2CPP.MethodMetadataUsage::GetInflatedMethods
+IL_0429: ldloc.2        
+IL_042A: callvirt       Unity.IL2CPP.MethodMetadataUsage::GetFieldInfos
+IL_042F: ldloc.2        
+IL_0430: callvirt       Unity.IL2CPP.MethodMetadataUsage::GetFieldRvaInfos
+IL_0435: ldloc.2        
+IL_0436: callvirt       Unity.IL2CPP.MethodMetadataUsage::GetStringLiterals
+IL_043B: ldsfld         field <>9__0_0
+IL_0440: dup            
+IL_0441: brtrue.s       1114
+IL_0443: pop            
+IL_0444: ldsfld         field <>9
+IL_0449: ldftn          <>c__0::<WriteMethodWithMetadataInitialization>b__0_0
+IL_044F: newobj         ?::.ctor
+IL_0454: dup            
+IL_0455: stsfld         field <>9__0_0
+IL_045A: call           token(0x2B0002C5)
+IL_045F: call           Unity.IL2CPP.CodeWriters.CodeWriterExtensions::WriteMethodMetadataInitializationDeclarations
+IL_0464: ldloc.0        
+IL_0465: ldfld          field writer
+IL_046A: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_046F: ldfld          field Global
+IL_0474: ldfld          field Parameters
+IL_0479: ldfld          field UsingTinyBackend
+IL_047E: brfalse.s      1269
+IL_0480: ldloc.3        
+IL_0481: callvirt       Unity.IL2CPP.MethodUsage::GetMethods
+IL_0486: callvirt       ?::GetEnumerator
+IL_048B: stloc.s        local(0x0016)
+IL_048D: br.s           1246
+IL_048F: ldloc.s        local(0x0016)
+IL_0491: callvirt       ?::get_Current
+IL_0496: stloc.s        local(0x0018)
+IL_0498: ldloc.0        
+IL_0499: ldfld          field writer
+IL_049E: ldstr          'IL2CPP_EXTERN_C const RuntimeMethod '
+IL_04A3: ldloc.0        
+IL_04A4: ldfld          field writer
+IL_04A9: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_04AE: ldfld          field Global
+IL_04B3: ldfld          field Services
+IL_04B8: ldfld          field Naming
+IL_04BD: ldloc.0        
+IL_04BE: ldfld          field writer
+IL_04C3: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedCodeWriter::get_Context
+IL_04C8: call           Unity.IL2CPP.Contexts.SourceWritingContext::op_Implicit
+IL_04CD: ldloc.s        local(0x0018)
+IL_04CF: call           Unity.IL2CPP.Naming.NamingExtensions::ForRuntimeMethodInfo
+IL_04D4: call           System.String::Concat
+IL_04D9: callvirt       Unity.IL2CPP.CodeWriters.ICppCodeWriter::AddForwardDeclaration
+IL_04DE: ldloc.s        local(0x0016)
+IL_04E0: callvirt       System.Collections.IEnumerator::MoveNext
+IL_04E5: brtrue.s       1167
+IL_04E7: leave.s        1269
+IL_04E9: ldloc.s        local(0x0016)
+IL_04EB: brfalse.s      1268
+IL_04ED: ldloc.s        local(0x0016)
+IL_04EF: callvirt       System.IDisposable::Dispose
+IL_04F4: endfinally     
+IL_04F5: ldloc.0        
+IL_04F6: ldfld          field writer
+IL_04FB: ldarg.s        argument(0x0004)
+IL_04FD: newobj         Unity.IL2CPP.OptimizationWriter::.ctor
+IL_0502: stloc.s        local(0x0019)
+IL_0504: ldloc.0        
+IL_0505: ldfld          field writer
+IL_050A: ldarg.1        
+IL_050B: callvirt       Unity.IL2CPP.CodeWriters.ICodeWriter::WriteLine
+IL_0510: ldloc.0        
+IL_0511: ldfld          field writer
+IL_0516: ldc.i4.0       
+IL_0517: newobj         Unity.IL2CPP.BlockWriter::.ctor
+IL_051C: stloc.s        local(0x001A)
+IL_051E: ldloc.0        
+IL_051F: ldfld          field writer
+IL_0524: ldloc.s        local(0x0005)
+IL_0526: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedMethodCodeWriter::Write
+IL_052B: ldloc.0        
+IL_052C: ldfld          field writer
+IL_0531: ldloc.s        local(0x0006)
+IL_0533: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedMethodCodeWriter::Write
+IL_0538: leave.s        1388
+IL_053A: ldloca.s       local(0x001A)
+IL_053C: constrained.   Unity.IL2CPP.BlockWriter
+IL_0542: callvirt       System.IDisposable::Dispose
+IL_0547: endfinally     
+IL_0548: ldloc.s        local(0x0019)
+IL_054A: brfalse.s      1363
+IL_054C: ldloc.s        local(0x0019)
+IL_054E: callvirt       System.IDisposable::Dispose
+IL_0553: endfinally     
+IL_0554: ldloc.s        local(0x0006)
+IL_0556: brfalse.s      1375
+IL_0558: ldloc.s        local(0x0006)
+IL_055A: callvirt       System.IDisposable::Dispose
+IL_055F: endfinally     
+IL_0560: ldloc.s        local(0x0005)
+IL_0562: brfalse.s      1387
+IL_0564: ldloc.s        local(0x0005)
+IL_0566: callvirt       System.IDisposable::Dispose
+IL_056B: endfinally     
+IL_056C: ldloc.2        
+IL_056D: callvirt       Unity.IL2CPP.MethodMetadataUsage::get_UsesMetadata
+IL_0572: brfalse.s      1409
+IL_0574: ldloc.0        
+IL_0575: ldfld          field writer
+IL_057A: ldloc.1        
+IL_057B: ldloc.2        
+IL_057C: callvirt       Unity.IL2CPP.CodeWriters.IGeneratedMethodCodeWriter::AddMetadataUsage
+IL_0581: ret            
+
+=== HybridCLRConfig::get_Ins [0x06001FE5] ===
+IL_0001: ldsfld         field <Ins>k__BackingField
+IL_0006: ret            
+
+=== HybridCLRConfig::.ctor [0x06001FE6] ===
+IL_000C: ldarg.0        
+IL_000D: newobj         ?::.ctor
+IL_0012: stfld          field _dheAssemblyNames
+IL_0017: ldarg.0        
+IL_0018: newobj         InjectRules::.ctor
+IL_001D: stfld          field _injectRules
+IL_0022: ldarg.0        
+IL_0023: newobj         ?::.ctor
+IL_0028: stfld          field _computeResultCache
+IL_002D: ldarg.0        
+IL_002E: call           System.Object::.ctor
+IL_0033: ldstr          'DHE_ASSEMBLIES'
+IL_0038: call           System.Environment::GetEnvironmentVariable
+IL_003D: stloc.0        
+IL_003E: ldloc.0        
+IL_003F: call           System.String::IsNullOrWhiteSpace
+IL_0044: brtrue.s       123
+IL_0046: ldloc.0        
+IL_0047: ldc.i4.s       44
+IL_0049: ldc.i4.0       
+IL_004A: callvirt       System.String::Split
+IL_004F: stloc.2        
+IL_0050: ldc.i4.0       
+IL_0051: stloc.3        
+IL_0052: br.s           117
+IL_0054: ldloc.2        
+IL_0055: ldloc.3        
+IL_0056: ldelem.ref     
+IL_0057: stloc.s        local(0x0004)
+IL_0059: ldarg.0        
+IL_005A: ldfld          field _dheAssemblyNames
+IL_005F: ldloc.s        local(0x0004)
+IL_0061: ldstr          '.dll'
+IL_0066: call           System.String::Concat
+IL_006B: callvirt       ?::Add
+IL_0070: pop            
+IL_0071: ldloc.3        
+IL_0072: ldc.i4.1       
+IL_0073: add            
+IL_0074: stloc.3        
+IL_0075: ldloc.3        
+IL_0076: ldloc.2        
+IL_0077: ldlen          
+IL_0078: conv.i4        
+IL_0079: blt.s          84
+IL_007B: ldstr          'INJECT_RULE_FILES'
+IL_0080: call           System.Environment::GetEnvironmentVariable
+IL_0085: stloc.1        
+IL_0086: ldloc.1        
+IL_0087: call           System.String::IsNullOrEmpty
+IL_008C: brtrue.s       184
+IL_008E: ldloc.1        
+IL_008F: ldc.i4.s       44
+IL_0091: ldc.i4.0       
+IL_0092: callvirt       System.String::Split
+IL_0097: stloc.2        
+IL_0098: ldc.i4.0       
+IL_0099: stloc.3        
+IL_009A: br.s           178
+IL_009C: ldloc.2        
+IL_009D: ldloc.3        
+IL_009E: ldelem.ref     
+IL_009F: stloc.s        local(0x0005)
+IL_00A1: ldarg.0        
+IL_00A2: ldfld          field _injectRules
+IL_00A7: ldloc.s        local(0x0005)
+IL_00A9: callvirt       InjectRules::LoadFromXmlFile
+IL_00AE: ldloc.3        
+IL_00AF: ldc.i4.1       
+IL_00B0: add            
+IL_00B1: stloc.3        
+IL_00B2: ldloc.3        
+IL_00B3: ldloc.2        
+IL_00B4: ldlen          
+IL_00B5: conv.i4        
+IL_00B6: blt.s          156
+IL_00B8: ret            
+
+=== HybridCLRConfig::IsDifferentialHybridAssembly [0x06001FE7] ===
+IL_0001: ldarg.0        
+IL_0002: ldfld          field _dheAssemblyNames
+IL_0007: ldarg.1        
+IL_0008: callvirt       ?::Contains
+IL_000D: ret            
+
+=== HybridCLRConfig::NeedInject [0x06001FE8] ===
+IL_000C: ldarg.0        
+IL_000D: ldarg.1        
+IL_000E: callvirt       Unity.IL2CPP.DataModel.MemberReference::get_Module
+IL_0013: callvirt       Unity.IL2CPP.DataModel.ModuleDefinition::get_Name
+IL_0018: call           HybridCLRConfig::IsDifferentialHybridAssembly
+IL_001D: brtrue.s       33
+IL_001F: ldc.i4.0       
+IL_0020: ret            
+IL_0021: ldarg.1        
+IL_0022: callvirt       Unity.IL2CPP.DataModel.MemberReference::get_Name
+IL_0027: ldstr          '.cctor'
+IL_002C: call           System.String::op_Equality
+IL_0031: brfalse.s      53
+IL_0033: ldc.i4.0       
+IL_0034: ret            
+IL_0035: ldarg.0        
+IL_0036: ldfld          field _computeResultCache
+IL_003B: ldarg.1        
+IL_003C: ldloca.s       local(0x0000)
+IL_003E: callvirt       ?::TryGetValue
+IL_0043: brfalse.s      71
+IL_0045: ldloc.0        
+IL_0046: ret            
+IL_0047: ldarg.0        
+IL_0048: ldfld          field _injectRules
+IL_004D: ldarg.1        
+IL_004E: callvirt       InjectRules::IsNotInjectMethod
+IL_0053: ldc.i4.0       
+IL_0054: ceq            
+IL_0056: stloc.0        
+IL_0057: ldarg.0        
+IL_0058: ldfld          field _computeResultCache
+IL_005D: ldarg.1        
+IL_005E: ldloc.0        
+IL_005F: callvirt       ?::TryAdd
+IL_0064: pop            
+IL_0065: ldloc.0        
+IL_0066: ret            
+
+=== HybridCLRConfig::.cctor [0x06001FE9] ===
+IL_0001: newobj         HybridCLRConfig::.ctor
+IL_0006: stsfld         field <Ins>k__BackingField
+IL_000B: ret            
