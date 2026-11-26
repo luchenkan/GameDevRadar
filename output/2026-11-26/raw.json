@@ -1,6 +1,42 @@
 [
  {
   "source": "github",
+  "title": "erkamyaman/rea-games",
+  "url": "https://github.com/erkamyaman/rea-games",
+  "desc": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
+  "lang": "JavaScript",
+  "topics": [
+   "2048",
+   "agent-skills",
+   "bevy",
+   "canvas",
+   "claude-code",
+   "clean-room",
+   "codex",
+   "deterministic",
+   "game",
+   "game-development",
+   "game-engine",
+   "gamedev",
+   "godot",
+   "html5-game",
+   "javascript",
+   "rea",
+   "replay",
+   "reverse-engineering",
+   "rust",
+   "testing"
+  ],
+  "stars": 258,
+  "forks": 44,
+  "age_days": 1,
+  "velocity": 258.0,
+  "created": "2026-11-25",
+  "relevance": 3.5,
+  "score": 903.0
+ },
+ {
+  "source": "github",
   "title": "EL4CTEO/blender-skills",
   "url": "https://github.com/EL4CTEO/blender-skills",
   "desc": "Professional Blender 5.3 workflows as Agent Skills for Claude Code, Codex, Gemini CLI, Copilot and Cursor: modeling, UVs, PBR, baking, rigging, animation, export and QA.",
@@ -25,13 +61,13 @@
    "unity",
    "unreal-engine"
   ],
-  "stars": 2916,
-  "forks": 287,
+  "stars": 2932,
+  "forks": 289,
   "age_days": 42,
-  "velocity": 69.43,
+  "velocity": 69.81,
   "created": "2026-10-14",
   "relevance": 11.0,
-  "score": 763.73
+  "score": 767.91
  },
  {
   "source": "github",
@@ -61,77 +97,13 @@
    "windows-11",
    "windows-app"
   ],
-  "stars": 184,
+  "stars": 191,
   "forks": 0,
   "age_days": 1,
-  "velocity": 184.0,
+  "velocity": 191.0,
   "created": "2026-11-24",
   "relevance": 4.0,
-  "score": 736.0
- },
- {
-  "source": "github",
-  "title": "erkamyaman/rea-games",
-  "url": "https://github.com/erkamyaman/rea-games",
-  "desc": "Reverse-engineer any game, rebuild it in any engine (web, Rust, Godot) and prove the rebuild plays the same, frame by frame. Behavior specs in the open GAME.md format.",
-  "lang": "JavaScript",
-  "topics": [
-   "2048",
-   "agent-skills",
-   "bevy",
-   "canvas",
-   "claude-code",
-   "clean-room",
-   "codex",
-   "deterministic",
-   "game",
-   "game-development",
-   "game-engine",
-   "gamedev",
-   "godot",
-   "html5-game",
-   "javascript",
-   "rea",
-   "replay",
-   "reverse-engineering",
-   "rust",
-   "testing"
-  ],
-  "stars": 210,
-  "forks": 37,
-  "age_days": 1,
-  "velocity": 210.0,
-  "created": "2026-11-25",
-  "relevance": 3.5,
-  "score": 735.0
- },
- {
-  "source": "github",
-  "title": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
-  "url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
-  "desc": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
-  "lang": "Python",
-  "topics": [
-   "biosignals",
-   "electrophysiology",
-   "godot",
-   "language-models",
-   "llm",
-   "llm-agents",
-   "microelectrode-arrays",
-   "neural-signals",
-   "organoid",
-   "reinforcement-learning",
-   "reproducible-research",
-   "survival-game"
-  ],
-  "stars": 147,
-  "forks": 28,
-  "age_days": 1,
-  "velocity": 147.0,
-  "created": "2026-11-24",
-  "relevance": 3.5,
-  "score": 514.5
+  "score": 764.0
  },
  {
   "source": "github",
@@ -161,13 +133,13 @@
    "vulkan",
    "windows"
   ],
-  "stars": 244,
-  "forks": 7,
+  "stars": 245,
+  "forks": 8,
   "age_days": 3,
-  "velocity": 81.33,
+  "velocity": 81.67,
   "created": "2026-11-22",
   "relevance": 3.5,
-  "score": 284.65
+  "score": 285.85
  },
  {
   "source": "github",
@@ -176,13 +148,41 @@
   "desc": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
   "lang": "Python",
   "topics": [],
-  "stars": 2209,
+  "stars": 2212,
   "forks": 301,
   "age_days": 40,
-  "velocity": 55.23,
+  "velocity": 55.3,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 276.15
+  "score": 276.5
+ },
+ {
+  "source": "github",
+  "title": "brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+  "url": "https://github.com/brainintelli/BioSignal-Guided-LLM-Reinforcement-Learning",
+  "desc": "Biosignal-guided reinforcement learning for LLM agents: offline organoid neural recordings as policy inputs in a Godot survival game, with paired evaluation.",
+  "lang": "Python",
+  "topics": [
+   "biosignals",
+   "electrophysiology",
+   "godot",
+   "language-models",
+   "llm",
+   "llm-agents",
+   "microelectrode-arrays",
+   "neural-signals",
+   "organoid",
+   "reinforcement-learning",
+   "reproducible-research",
+   "survival-game"
+  ],
+  "stars": 153,
+  "forks": 28,
+  "age_days": 2,
+  "velocity": 76.5,
+  "created": "2026-11-24",
+  "relevance": 3.5,
+  "score": 267.75
  },
  {
   "source": "github",
@@ -209,13 +209,13 @@
    "webgl",
    "wuxia"
   ],
-  "stars": 507,
-  "forks": 81,
+  "stars": 511,
+  "forks": 83,
   "age_days": 14,
-  "velocity": 36.21,
+  "velocity": 36.5,
   "created": "2026-11-11",
   "relevance": 3.5,
-  "score": 126.73
+  "score": 127.75
  },
  {
   "source": "github",
@@ -224,13 +224,13 @@
   "desc": "Mobile VR with 6DoF head tracking, passthrough and hand tracking, from ARCore and ARKit, in Unity",
   "lang": "C#",
   "topics": [],
-  "stars": 363,
-  "forks": 86,
+  "stars": 364,
+  "forks": 87,
   "age_days": 27,
-  "velocity": 13.44,
+  "velocity": 13.48,
   "created": "2026-10-29",
   "relevance": 7.0,
-  "score": 94.08
+  "score": 94.36
  },
  {
   "source": "github",
@@ -260,13 +260,13 @@
    "unity-runtime",
    "unity2d"
   ],
-  "stars": 361,
+  "stars": 374,
   "forks": 42,
-  "age_days": 43,
-  "velocity": 8.4,
+  "age_days": 44,
+  "velocity": 8.5,
   "created": "2026-10-13",
   "relevance": 8.5,
-  "score": 71.4
+  "score": 72.25
  },
  {
   "source": "github",
@@ -298,11 +298,11 @@
   ],
   "stars": 177,
   "forks": 18,
-  "age_days": 32,
-  "velocity": 5.53,
+  "age_days": 33,
+  "velocity": 5.36,
   "created": "2026-10-24",
   "relevance": 12.5,
-  "score": 69.12
+  "score": 67.0
  },
  {
   "source": "github",
@@ -406,11 +406,11 @@
   ],
   "stars": 248,
   "forks": 38,
-  "age_days": 30,
-  "velocity": 8.27,
+  "age_days": 31,
+  "velocity": 8.0,
   "created": "2026-10-26",
   "relevance": 5.5,
-  "score": 45.48
+  "score": 44.0
  },
  {
   "source": "github",
@@ -464,13 +464,13 @@
    "ui-framework",
    "unity"
   ],
-  "stars": 165,
+  "stars": 167,
   "forks": 22,
   "age_days": 40,
-  "velocity": 4.12,
+  "velocity": 4.17,
   "created": "2026-10-16",
   "relevance": 9.0,
-  "score": 37.08
+  "score": 37.53
  },
  {
   "source": "github",
@@ -495,13 +495,13 @@
    "threejs",
    "webgpu"
   ],
-  "stars": 155,
+  "stars": 156,
   "forks": 7,
   "age_days": 32,
-  "velocity": 4.84,
+  "velocity": 4.88,
   "created": "2026-10-24",
   "relevance": 7.5,
-  "score": 36.3
+  "score": 36.6
  },
  {
   "source": "github",
@@ -521,13 +521,13 @@
    "oxygen-not-included",
    "performance"
   ],
-  "stars": 284,
+  "stars": 286,
   "forks": 10,
   "age_days": 41,
-  "velocity": 6.93,
+  "velocity": 6.98,
   "created": "2026-10-16",
   "relevance": 5.0,
-  "score": 34.65
+  "score": 34.9
  },
  {
   "source": "github",
@@ -633,13 +633,13 @@
    "godot4",
    "procedural-generation"
   ],
-  "stars": 216,
+  "stars": 218,
   "forks": 21,
   "age_days": 30,
-  "velocity": 7.2,
+  "velocity": 7.27,
   "created": "2026-10-27",
   "relevance": 3.5,
-  "score": 25.2
+  "score": 25.45
  },
  {
   "source": "Unity Blog",
@@ -670,6 +670,31 @@
   "created": "2026-10-14",
   "relevance": 5.0,
   "score": 20.85
+ },
+ {
+  "source": "github",
+  "title": "stripesvr/Gilla-Open-Source",
+  "url": "https://github.com/stripesvr/Gilla-Open-Source",
+  "desc": "Open-source fan rebuild of Gilla, the VR monkey game for Meta Quest. Unity 6 · Photon Fusion · URP",
+  "lang": "C#",
+  "topics": [
+   "game",
+   "gorilla-tag",
+   "meta-quest",
+   "multiplayer",
+   "oculus-quest",
+   "photon-fusion",
+   "unity",
+   "urp",
+   "vr"
+  ],
+  "stars": 4,
+  "forks": 3,
+  "age_days": 1,
+  "velocity": 4.0,
+  "created": "2026-11-24",
+  "relevance": 5.0,
+  "score": 20.0
  },
  {
   "source": "github",
@@ -706,13 +731,13 @@
    "pytorch",
    "smpl-x"
   ],
-  "stars": 154,
+  "stars": 155,
   "forks": 19,
   "age_days": 36,
-  "velocity": 4.28,
+  "velocity": 4.31,
   "created": "2026-10-20",
   "relevance": 4.5,
-  "score": 19.26
+  "score": 19.39
  },
  {
   "source": "github",
@@ -777,21 +802,6 @@
   "score": 18.27
  },
  {
-  "source": "github",
-  "title": "pgszz/-Cultivation-in-the-Gu-Realm",
-  "url": "https://github.com/pgszz/-Cultivation-in-the-Gu-Realm",
-  "desc": "《蛊道修仙：青茅山》：以《蛊真人》为背景的 Godot 2D 单机自由探索游戏，包含 120 种蛊虫的用养炼、空窍修行、三寨与地下探索、地形破坏、元素反应及 NPC 交流交易。持续开发中。 QQ 交流群：568395119。",
-  "lang": "GDScript",
-  "topics": [],
-  "stars": 62,
-  "forks": 1,
-  "age_days": 7,
-  "velocity": 8.86,
-  "created": "2026-11-18",
-  "relevance": 2.0,
-  "score": 17.72
- },
- {
   "source": "Unity Blog",
   "title": "Where 3D meets the real world: highlights from Unity Industry Summit Munich 2026",
   "url": "https://unity.com/blog/unity-industry-summit-munich-2026-recap",
@@ -854,38 +864,28 @@
    "typescript",
    "webgpu"
   ],
-  "stars": 131,
+  "stars": 133,
   "forks": 18,
   "age_days": 41,
-  "velocity": 3.2,
+  "velocity": 3.24,
   "created": "2026-10-15",
   "relevance": 5.0,
-  "score": 16.0
+  "score": 16.2
  },
  {
   "source": "github",
-  "title": "stripesvr/Gilla-Open-Source",
-  "url": "https://github.com/stripesvr/Gilla-Open-Source",
-  "desc": "Open-source fan rebuild of Gilla, the VR monkey game for Meta Quest. Unity 6 · Photon Fusion · URP",
-  "lang": "C#",
-  "topics": [
-   "game",
-   "gorilla-tag",
-   "meta-quest",
-   "multiplayer",
-   "oculus-quest",
-   "photon-fusion",
-   "unity",
-   "urp",
-   "vr"
-  ],
-  "stars": 3,
-  "forks": 3,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "2026-11-24",
-  "relevance": 5.0,
-  "score": 15.0
+  "title": "pgszz/-Cultivation-in-the-Gu-Realm",
+  "url": "https://github.com/pgszz/-Cultivation-in-the-Gu-Realm",
+  "desc": "《蛊道修仙：青茅山》：以《蛊真人》为背景的 Godot 2D 单机自由探索游戏，包含 120 种蛊虫的用养炼、空窍修行、三寨与地下探索、地形破坏、元素反应及 NPC 交流交易。持续开发中。 QQ 交流群：568395119。",
+  "lang": "GDScript",
+  "topics": [],
+  "stars": 62,
+  "forks": 1,
+  "age_days": 8,
+  "velocity": 7.75,
+  "created": "2026-11-18",
+  "relevance": 2.0,
+  "score": 15.5
  },
  {
   "source": "github",
@@ -1053,26 +1053,11 @@
   ],
   "stars": 57,
   "forks": 11,
-  "age_days": 41,
-  "velocity": 1.39,
+  "age_days": 42,
+  "velocity": 1.36,
   "created": "2026-10-15",
   "relevance": 9.0,
-  "score": 12.51
- },
- {
-  "source": "80.lv",
-  "title": "This Blender Shader Turns Any 3D Object Into Woodcut Illustration",
-  "url": "https://80.lv/articles/this-blender-shader-turns-any-3d-object-into-woodcut-illustration/",
-  "desc": "No UVs, textures, or setup required.",
-  "lang": "",
-  "topics": [],
-  "stars": 0,
-  "forks": 0,
-  "age_days": 1,
-  "velocity": 3.0,
-  "created": "Wed, 25 Nov 2026",
-  "relevance": 4.0,
-  "score": 12.0
+  "score": 12.24
  },
  {
   "source": "github",
@@ -1172,5 +1157,20 @@
   "created": "Wed, 25 Nov 2026",
   "relevance": 3.5,
   "score": 10.5
+ },
+ {
+  "source": "github",
+  "title": "lofihashbloom/MetahumanURP",
+  "url": "https://github.com/lofihashbloom/MetahumanURP",
+  "desc": "Package to help import Epic's Metahuman into Unity 6 URP",
+  "lang": "C#",
+  "topics": [],
+  "stars": 29,
+  "forks": 5,
+  "age_days": 15,
+  "velocity": 1.93,
+  "created": "2026-11-10",
+  "relevance": 5.0,
+  "score": 9.65
  }
 ]
